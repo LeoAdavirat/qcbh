@@ -1,0 +1,925 @@
+[
+{//伴生之戒
+    "id": 54640101,
+    "effectType":3,
+    "value": "item_54640102_1"
+  },
+  {//防御+10
+    "id": 54640102,
+    "effectType":1,
+    "value": "def_1_10"
+  },
+  {//偷取道具时，必然会成功
+    "id": 54640103,
+    "effectType": 3,
+    "value": "stealSucceed_1_100_fate54640103"
+  },
+  {//偷取道具时，必然不会暴露
+    "id": 54640104,
+    "effectType": 3,
+    "value": "stealExpose_0_fate54640104"
+  },
+  {//逃跑必然会成功
+    "id": 54640105,
+    "effectType": 3,
+    "value": "escapeSucceed_100_fate54640105"
+  },
+  {// 你逃跑成功了，会让对方对你产生1000好感。
+    "id": 54640106,
+    "effectType": 3,
+    "value": "escapeClose_&54640105_tsqm&_fate54640106"
+  },
+  {// 你每次消耗灵石时，可以从灵石上吸取50%灵气来提升自身的修为
+    "id": 54640107,
+    "effectType": 3,
+    "value": "moneyExp_&54640106_tsjy&_fate54640107"
+  },
+  {//吃丹药时80%几率在10秒内排出体外，拾取后可添加到当前丹药装备槽
+    "id": 54640108,
+    "effectType": 3,
+    "value": "intoDungeon_54640108"
+  },
+  {//你与修仙者切磋获胜之后，获得的好感大幅+。
+    "id": 54640109,
+    "effectType": 3,
+    "value": "drillClose_&54640109_tsqm&_fate54640109"
+  },
+  {//每击败一人加相应境界的体力上限
+    "id": 54640201,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_hpMax_&54640201_tstl&"
+  },
+  {//每击败一人加相应境界的灵力上限
+    "id": 54640202,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_mpMax_&54640202_tsll&"
+  },
+  {//每击败一人加相应境界的念力上限
+    "id": 54640203,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_spMax_&54640203_tsnl&"
+  },
+  {//每击败一人加相应境界的寿命上限
+    "id": 54640204,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_life_&54640204_tssm&"
+  },
+  {//每击败一人加相应境界的道点上限
+    "id": 54640205,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_abilityPoint_&54640205_tsdd&"
+  },
+  {//每击败一人加相应境界的攻击上限
+    "id": 54640206,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_atk_&54640206_tsgj&"
+  },
+  {//每击败一人加相应境界的防御上限
+    "id": 54640207,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_def_&54640207_tsfy&"
+  },
+  {//每击败一人加相应境界的物免上限
+    "id": 54640208,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_pfr_&54640208_tswm&"
+  },
+  {//每击败一人加相应境界的魔免上限
+    "id": 54640209,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_mfr_&54640209_tsmm&"
+  },
+  {//每击败一人加相应境界的会心上限
+    "id": 54640210,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_crit_&54640210_tshx&"
+  },
+  {//每击败一人加相应境界的护心上限
+    "id": 54640211,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_guard_&54640211_tshx&"
+  },
+  {//每击败一人加相应境界的会心倍率上限
+    "id": 54640212,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_critV_&54640212_tshx&"
+  },
+  {//每击败一人加相应境界的护心倍率上限
+    "id": 54640213,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_guardV_&54640213_tshx&"
+  },
+  {//每击败一人加相应境界的移速上限
+    "id": 54640214,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_msp_&54640214_tsys&"
+  },
+  {//每击败一人加相应境界的脚力上限
+    "id": 54640215,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_fsp_&54640215_tsjl&"
+  },
+  {//每击败一人加相应境界的全部功法资质
+    "id": 54640216,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_basWpAll_&54640216_tsgz&"
+  },
+  {//每击败一人加相应境界的全部灵根资质
+    "id": 54640217,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_basMgAll_&54640217_tslz&"
+  },
+  {//每击败一人加相应境界的全部技艺资质
+    "id": 54640218,
+    "effectType":3,
+     "value": "killNpcEffect_0_-1_basArtAll_&54640218_tsjy&"
+  },
+  {//add 悟性
+    "id": 54640219,
+    "effectType": 2,
+    "value": "talentLock_200"
+  },
+  {// 学习不花时间25
+    "id": 54640220,
+    "effectType": 3,
+    "value": "learnSkillCost_0_1_&54640220_learnskillcd&"
+  },
+  {// 剑法技能（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640221,
+    "effectType": 1,
+    "value": "swordGrow_0_1000"
+  },
+  {// 枪法技能（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640222,
+    "effectType": 1,
+    "value": "spearGrow_0_1000"
+  },
+  {// 刀法技能（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640223,
+    "effectType": 1,
+    "value": "bladeGrow_0_1000"
+  },
+  {// 拳法技能（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640224,
+    "effectType": 1,
+    "value": "fistGrow_0_1000"
+  },
+  {// 指法技能（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640225,
+    "effectType": 1,
+    "value": "fingerGrow_0_1000"
+  },
+  {// 掌法技能（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640226,
+    "effectType": 1,
+    "value": "palmGrow_0_1000"
+  },
+  {// 火属性功法（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640227,
+    "effectType": 1,
+    "value": "fireGrow_0_1000"
+  },
+  {// 水属性功法（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640228,
+    "effectType": 1,
+    "value": "frozeGrow_0_1000"
+  },
+  {// 雷属性功法（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640229,
+    "effectType": 1,
+    "value": "thunderGrow_0_1000"
+  },
+  {// 风属性功法（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640230,
+    "effectType": 1,
+    "value": "windGrow_0_1000"
+  },
+  {// 土属性功法（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640231,
+    "effectType": 1,
+    "value": "earthGrow_0_1000"
+  },
+  {// 木属性功法（武技、绝技）的熟练提升倍率（百分比）10倍
+    "id": 54640232,
+    "effectType": 1,
+    "value": "woodGrow_0_1000"
+  },
+  {//切磋或击败100%学得别人功法0CD
+    "id": 54640233,
+    "effectType": 3,
+    "value": "battleLearnSkill_100_0_fate54640204"
+  },
+  {//学习功法100%成为当前境界
+    "id": 54640234,
+    "effectType": 3,
+    "value": "learnSkillUp_100_0_fate54640205"
+  },
+  {//talk answer可知NPC期望答案
+    "id": 54640235,
+    "effectType": 3,
+    "value": "talkAnswer"
+  },
+  {//可以看得更远
+    "id": 54640236,
+    "effectType": 3,
+    "value": "roleSight_&54640221_zjsy&"
+  },
+  {// 道点+2500
+    "id": 54640237,
+    "effectType": 1,
+    "value": "abilityPoint_1_&54640222_tsdd&"
+  },
+  {// 学习功法提升功法资质
+    "id": 54640238,
+    "effectType": 3,
+    "value": "learnEffect_-1_basWpAll_&54640216_tsgz&"
+  },
+  {// 学习功法提升灵根资质
+    "id": 54640239,
+    "effectType": 3,
+    "value": "learnEffect_-1_basMgAll_&54640216_tsgz&"
+  },
+  {// 学习功法提升技艺资质
+    "id": 54640240,
+    "effectType": 3,
+    "value": "learnEffect_-1_basArtAll_&54640216_tsgz&"
+  },
+  {// 遗忘功法提升HP最大值
+    "id": 54640241,
+    "effectType": 3,
+    "value": "forgetEffect_-1_hpMax_&54640223_tstl&"
+  },
+  {// 遗忘功法提升MP最大值
+    "id": 54640242,
+    "effectType": 3,
+    "value": "forgetEffect_-1_mpMax_&54640224_tsll&"
+  },
+  {// 遗忘功法提升SP最大值
+    "id": 54640243,
+    "effectType": 3,
+    "value": "forgetEffect_-1_spMax_&54640225_tsnl&"
+  },
+  {// 每装备心法提升物抗10%
+    "id": 54640244,
+    "effectType": 3,
+    "value": "equipAbility_pfr_0_&54640226_tswm&"
+  },
+  {// 每装备心法提升魔抗10%
+    "id": 54640245,
+    "effectType": 3,
+    "value": "equipAbility_mfr_0_&54640227_tsmm&"
+  },
+  {//你与修仙者切磋获胜之后，获得的好感大幅+。
+    "id": 54640246,
+    "effectType": 3,
+    "value": "drillClose_&54640228_tsqm&_fate54640206"
+  },
+  {//你逃跑必然会成功。
+    "id": 54640247,
+    "effectType": 3,
+    "value": "escapeSucceed_100_fate54640207"
+  },
+  {//你逃跑的姿势很帅，当你逃跑成功了，会让对方对你产生很大的好感。
+    "id": 54640248,
+    "effectType": 3,
+    "value": "escapeClose_&54640229_tsqm&_fate54640208"
+  },
+  {//使用拳、掌、指、刀、剑、枪、风、雷、土、火、水、木功法的神通无需达成施展条件。（对需要引爆场上特殊单位的神通只解除施展条件限制，不会自动生成特殊单位）
+    "id": 54640249,
+    "effectType": 3,
+    "value": "intoDungeon_54640201"
+  },
+  {//使用器灵的本命技能无需达成施展条件。
+    "id": 54640250,
+    "effectType": 3,
+    "value": "intoDungeon_54640202"
+  },
+{//子弹速度范围子弹数量
+    "id": 54640251,
+    "effectType": 3,
+    "value": "intoDungeon_54640204_54640205_54640206"
+  },
+{//减少冷却
+    "id": 54640252,
+    "effectType": 3,
+    "value": "intoDungeon_54640207"
+  },
+  {//武技/灵技，伤害提高25%
+    "id": 54640253,
+    "effectType": 3,
+    "value": "intoDungeon_54640208"
+  },
+{
+    "id": 54640254,//吸血
+    "effectType": 3,
+    "value": "intoDungeon_54640209"
+  },
+{//幸运
+    "id": 54640255,
+    "effectType": 1,
+    "value": "luck_1_&54640237_tgxy&"
+  },
+  {//其他修仙者更容易喜欢你。
+    "id": 54640256,
+    "effectType": 3,
+    "value": "npcCloseStable_1_&54640238_qmbs&_0"
+  },
+  {//偷取道具时，必然会成功
+    "id": 54640257,
+    "effectType": 3,
+    "value": "stealSucceed_1_100_fate54640209"
+  },
+  {//偷取道具时，必然不会暴露
+    "id": 54640258,
+    "effectType": 3,
+    "value": "stealExpose_0_fate54640210"
+  },
+  {//灵果馈赠你每年都会收到一次灵果馈赠
+    "id": 54640259,
+    "effectType": 3,
+    "value": "item_6109411_20"
+  },
+  {//你与修仙者切磋获胜之后，获得额外心得。
+    "id": 54640260,
+    "effectType": 3,
+    "value": "drillExp_&54640239_xdzj&_fate54640211"
+  },
+  {//将附近指定范围内的所有副本、事件、大地图资源标记在大地图上
+    "id": 54640261,
+    "effectType": 3,
+    "value": "mapSpecialSign_&54640240_yxfw&"
+  },
+  {//仇人标注在小地图上
+    "id": 54640262,
+    "effectType": 3,
+    "value": "viewEnemy"
+  },
+  {//使挖坟有100%的概率使减少的寿命降低-100%
+    "id": 54640263,
+    "effectType": 3,
+    "value": "graveLife_0_&54640242_jssm&_&54640241_cfgl&"
+  },
+  {//获得负面气运的持续时间降低-50%。
+    "id": 54640264,
+    "effectType": 3,
+    "value": "featureTime_2_&54640243_fmqy&"
+  },
+  {//每次完成任务获得的奖励增加500%
+    "id": 54640265,
+    "effectType": 3,
+    "value": "taskReward_&54640244_jlzj&"
+  },
+  {//炼药产量增加200%
+    "id": 54640266,
+    "effectType": 3,
+    "value": "pilCount_0_&54640245_clzj&"
+  },
+  {//炼药精力消耗减少100%
+    "id": 54640267,
+    "effectType": 3,
+    "value": "pilEnergy_0_&54640246_jsjl&"
+  },
+  {//sex exp
+    "id": 54640268,
+    "effectType": 3,
+    "value": "trainsExp_&54640247_battleexp&_fate54640212"
+  },
+  {//双修赠礼
+    "id": 54640269,
+    "effectType": 3,
+    "value": "trainsGive_fate54640213"
+  },
+{//最低伤害
+    "id": 54640270,
+    "effectType": 3,
+    "value": "intoDungeon_54640210"
+  },
+{//神通无敌身法隐身
+    "id": 54640271,
+    "effectType": 3,
+    "value": "intoDungeon_54640211_54640213"
+  },
+{//霸体 免疫控制
+    "id": 54640272,
+    "effectType": 3,
+    "value": "intoDungeon_54640214"
+  },
+{//求败效果
+    "id": 54640273,
+    "effectType": 3,
+    "value": "passRoom_54640216_54640217_54640218_54640219_54640220_54640221_54640222_54640223"
+  },
+{//洞穿效果
+    "id": 54640274,
+    "effectType": 3,
+    "value": "intoDungeon_54640224_54640227_54640230_54640233"
+  },
+  {//练气道侣
+    "id": 54640275,
+    "effectType": 3,
+    "value": "createNpc_54640201"
+  },
+  {//登仙道侣
+    "id": 54640276,
+    "effectType": 3,
+    "value": "createNpc_54640202"
+  },
+  {//修炼技能时，可额外获得1000%的经验
+    "id": 54640277,
+    "effectType": 3,
+    "value": "learnSkillExp_0_1000"
+  },
+{//击中目标减速度和攻击
+    "id": 54640278,
+    "effectType": 3,
+    "value": "intoDungeon_54640236_54640239"
+  },
+{//身法熟练提高10倍
+    "id": 54640279,
+    "effectType": 1,
+    "value": "stepGrow_0_1000"
+  },
+  {//暗杀丹
+    "id": 54640301,
+    "effectType":3,
+    "value": "item_54640302_1"
+  },
+  {//杀人后不被擦觉
+    "id": 54640302,
+    "effectType": 3,
+    "value": "slayHide_&54640301_ymgl&_54640301"
+  },
+  {//引用气运暗杀
+    "id": 54640303,
+    "effectType": 3,
+    "value": "addFeature_100_54640300"
+  },
+  {//应该是给丹炉用的耐久度范围
+    "id": 54640304,
+    "effectType": 102,
+    "value": "randomValue_furnaceDurable_400_400"
+  },
+  {//应该是给丹炉用的耐久度范围与上面的一起的
+    "id": 54640305,
+    "effectType": 102,
+    "value": "fixValue_0_400"
+  },
+  {
+    "id": 54640306,
+    "effectType": 3,
+    "value": "item_54640304_1"//使用筑基礼包
+  },
+   {
+    "id": 54640307,
+    "effectType": 3,
+    "value": "item_54640305_1"//使用结晶礼包
+  },
+   {
+    "id": 54640308,
+    "effectType": 3,
+    "value": "item_54640306_1"//使用金丹礼包
+  },
+   {
+    "id": 54640309,
+    "effectType": 3,
+    "value": "item_54640307_1"//使用具灵礼包
+  },
+   {
+    "id": 54640310,
+    "effectType": 3,
+    "value": "item_54640308_1"//使用元婴礼包
+  },
+   {
+    "id": 54640311,
+    "effectType": 3,
+    "value": "item_54640309_1"//使用化神礼包
+  },
+   {
+    "id": 54640312,
+    "effectType": 3,
+    "value": "item_54640310_1"//使用悟道礼包
+  },
+  {
+    "id": 54640313,
+    "effectType": 3,
+    "value": "item_54640311_1"//使用羽化礼包
+  },
+  {
+    "id": 54640314,
+    "effectType": 3,
+    "value": "item_54640312_1"//使用羽化礼包
+  },
+  {//回复10%HP
+    "id": 54640315,
+    "effectType": 101,
+    "value": "hp_0_20"
+  },
+  {//回复10%MP
+    "id": 54640316,
+    "effectType": 101,
+    "value": "mp_0_20"
+  },
+  {//回复10%SP
+    "id": 54640317,
+    "effectType": 101,
+    "value": "sp_0_20"
+  },
+  {//获得物品阴精测试
+    "id": 54640318,
+    "effectType": 3,
+    "value": "item_54640376_1"
+  },
+  //坐骑
+  {//魅力+1000 注：本来是加在坐骑上后换到角色气运上
+    "id": 54640501,
+    "effectType": 1,
+    "value": "beauty_1_1000"
+  },
+  {//心情上限+500 注：本来是加在坐骑上后换到戒指上
+    "id": 54640502,
+    "effectType": 1,
+    "value": "moodMax_1_500"//"moodMax_1_&54640501_tsxq&"
+  },
+  {//健康上限+500 注：本来是加在坐骑上后换到戒指上
+    "id": 54640503,
+    "effectType": 1,
+    "value": "healthMax_1_500"//"healthMax_1_&54640502_tsjk&"
+  },
+  {//精力上限+500 注：本来是加在坐骑上后换到戒指上
+    "id": 54640504,
+    "effectType": 1,
+    "value": "energyMax_1_500"//"energyMax_1_&54640503_tsjl&"
+  },
+  {//灵力上限+20% 注：本来是加在坐骑上后拿出来了
+    "id": 54640505,
+    "effectType": 1,
+    "value": "mpMax_0_20"//"mpMax_0_&54640504_tsll&"
+  },
+  {//体力上限+20% 注：本来是加在坐骑上后拿出来了
+    "id": 54640506,
+    "effectType": 1,
+    "value": "hpMax_0_20"//"hpMax_0_&54640505_tstl&"
+  },
+  {//念力上限+20% 注：本来是加在坐骑上后拿出来了
+    "id": 54640507,
+    "effectType":1,
+    "value": "spMax_0_20"//"spMax_0_&54640506_tsnl&"
+  },
+  {//攻击+5%
+    "id": 54640508,
+    "effectType":1,
+    "value": "atk_0_5"//"atk_0_&54640507_tsgj&"
+  },
+  {//防御+5%
+    "id": 54640509,
+    "effectType":1,
+    "value": "def_0_5"//"def_0_&54640508_tsfy&"
+  },
+  {//功法抗性+20%
+    "id": 54640510,
+    "effectType":1,
+    "value": "pfr_0_20"//"pfr_0_&54640509_wukang&"
+  },
+  {//灵根抗性+20%
+    "id": 54640511,
+    "effectType":1,
+    "value": "mfr_0_20"//"mfr_0_&54640510_mokang&"
+  },
+  {//会心+20%
+    "id": 54640512,
+    "effectType": 1,
+    "value": "crit_0_20"//"crit_0_&54640511_tshx&"
+  },
+  {//护心+20%
+    "id": 54640513,
+    "effectType": 1,
+    "value": "guard_0_20"//"guard_0_&54640512_tshx&"
+  },
+  {//移速+20%
+    "id": 54640514,
+    "effectType": 1,
+    "value": "msp_0_20"//"msp_0_&54640513_tsys&"
+  },
+  {//暴击倍率+50 注：本来是加在坐骑上后拿出来了
+    "id": 54640515,
+    "effectType": 1,
+    "value": "critV_1_50"//"critV_1_&54640514_tshb&"
+  },
+  {//抗爆倍率+50
+    "id": 54640516,
+    "effectType": 1,
+    "value": "guardV_1_50"//"guardV_1_&54640515_hxbl&"
+  },
+  {//获得阴阳坐骑 注：本来是加在角色上后拿出来了
+    "id": 54640517,
+    "effectType":3,
+    "value": "item_54640501_1"
+  },
+  {//无视地形
+    "id": 54640518,
+    "effectType": 3,
+    "value": "decorateInvalid_101"
+  },
+  {//脚力+1500
+    "id": 54640519,
+    "effectType": 1,
+    "value": "fsp_1_1500"
+  },
+  {//脚力+1000
+    "id": 54640520,
+    "effectType": 1,
+    "value": "fsp_1_1000"
+  },
+  {//移速+5%
+    "id": 54640521,
+    "effectType": 1,
+    "value": "msp_0_5"
+  },
+  {//获得伴生坐骑
+    "id": 54640522,
+    "effectType":3,
+    "value": "item_54640502_1"
+  },
+  //逆天气运药
+  {//引用气运妖术精通
+    "id": 54641701,
+    "effectType": 3,
+    "value": "addFeature_100_54641701"
+  },
+  {//停用//气运妖术精通|菊花残|小跟屁龙|大宝的盾|大李飞剑|火力四射|水力四射|鬼修精通|黄巾天师|武神残诀|青帝遗录|血魇大法|疯魔战意|疯魔战意|先受后攻|功法专精|灵根专精|红尘剑魂|归一真诀|星耀九霄|四灵共生|盾灵精通|潜能精通|金蝉血影|灵能之潮|血灵精通|剑灵精通|血祭精通|猎精|猎灵|灵法精通|武法精通|李四鸡王|雷力四射|风力四射|木力四射|幻灵锅|振奋鼓舞|化物|随心而御|天地同寿|隔山打牛|夺命真气|天瞳之刃|噬魔体|踏雪无痕|杀心骤起|炉火纯青获得
+    "id": 54641702,
+    "effectType":3,
+    "value": "item_54641701_9999"
+  },
+  {//引用气运菊花残
+    "id": 54641703,
+    "effectType": 3,
+    "value": "addFeature_100_54641702"
+  },
+  {//引用气运小跟屁龙
+    "id": 54641704,
+    "effectType": 3,
+    "value": "addFeature_100_54641703"
+  },
+  {//引用气运大宝的盾
+    "id": 54641705,
+    "effectType": 3,
+    "value": "addFeature_100_54641704"
+  },
+  {//引用气运大李飞剑
+    "id": 54641706,
+    "effectType": 3,
+    "value": "addFeature_100_54641705"
+  },
+  {//引用气运火力四射
+    "id": 54641707,
+    "effectType": 3,
+    "value": "addFeature_100_54641706"
+  },
+  {//引用气运水力四射
+    "id": 54641708,
+    "effectType": 3,
+    "value": "addFeature_100_54641707"
+  },
+  {//引用气运鬼修精通
+    "id": 54641709,
+    "effectType": 3,
+    "value": "addFeature_100_54641708"
+  },
+  {//引用气运黄巾天师
+    "id": 54641710,
+    "effectType": 3,
+    "value": "addFeature_100_54641709"
+  },
+  {//引用气运武神残诀
+    "id": 54641711,
+    "effectType": 3,
+    "value": "addFeature_100_54641710"
+  },
+  {//引用气运青帝遗录
+    "id": 54641712,
+    "effectType": 3,
+    "value": "addFeature_100_54641711"
+  },
+  {//引用气运血魇大法
+    "id": 54641713,
+    "effectType": 3,
+    "value": "addFeature_100_54641712"
+  },
+  {//引用气运疯魔战意
+    "id": 54641714,
+    "effectType": 3,
+    "value": "addFeature_100_54641713"
+  },
+  {//引用气运先受后攻
+    "id": 54641715,
+    "effectType": 3,
+    "value": "addFeature_100_54641714"
+  },
+  {//引用气运功法专精
+    "id": 54641716,
+    "effectType": 3,
+    "value": "addFeature_100_54641715"
+  },
+  {//引用气运灵根专精
+    "id": 54641717,
+    "effectType": 3,
+    "value": "addFeature_100_54641716"
+  },
+  {//引用气运红尘剑魂
+    "id": 54641718,
+    "effectType": 3,
+    "value": "addFeature_100_54641717"
+  },
+  {//引用气运归一真诀
+    "id": 54641719,
+    "effectType": 3,
+    "value": "addFeature_100_54641718"
+  },
+  {//引用气运星耀九霄
+    "id": 54641720,
+    "effectType": 3,
+    "value": "addFeature_100_54641719"
+  },
+  {//引用气运四灵共生
+    "id": 54641721,
+    "effectType": 3,
+    "value": "addFeature_100_54641720"
+  },
+  {//引用气运盾灵精通
+    "id": 54641722,
+    "effectType": 3,
+    "value": "addFeature_100_54641721"
+  },
+  {//引用气运潜能精通
+    "id": 54641723,
+    "effectType": 3,
+    "value": "addFeature_100_54641722"
+  },
+  {//引用气运金蝉血影
+    "id": 54641724,
+    "effectType": 3,
+    "value": "addFeature_100_54641723"
+  },
+  {//引用气运灵能之潮
+    "id": 54641725,
+    "effectType": 3,
+    "value": "addFeature_100_54641724"
+  },
+  {//引用气运血灵精通
+    "id": 54641726,
+    "effectType": 3,
+    "value": "addFeature_100_54641725"
+  },
+  {//引用气运剑灵精通
+    "id": 54641727,
+    "effectType": 3,
+    "value": "addFeature_100_54641726"
+  },
+  {//引用气运血祭精通
+    "id": 54641728,
+    "effectType": 3,
+    "value": "addFeature_100_54641727"
+  },
+  {//引用气运猎精
+    "id": 54641729,
+    "effectType": 3,
+    "value": "addFeature_100_54641728"
+  },
+  {//引用气运猎灵
+    "id": 54641730,
+    "effectType": 3,
+    "value": "addFeature_100_54641729"
+  },
+  {//引用气运灵法精通
+    "id": 54641731,
+    "effectType": 3,
+    "value": "addFeature_100_54641730"
+  },
+  {//引用气运武法精通
+    "id": 54641732,
+    "effectType": 3,
+    "value": "addFeature_100_54641731"
+  },
+  {//引用气运李四鸡王
+    "id": 54641733,
+    "effectType": 3,
+    "value": "addFeature_100_54641732"
+  },
+  {//引用气运雷力四射
+    "id": 54641734,
+    "effectType": 3,
+    "value": "addFeature_100_54641733"
+  },
+  {//引用气运风力四射
+    "id": 54641735,
+    "effectType": 3,
+    "value": "addFeature_100_54641734"
+  },
+  {//引用气运木力四射
+    "id": 54641736,
+    "effectType": 3,
+    "value": "addFeature_100_54641735"
+  },
+  {//引用气运幻灵锅
+    "id": 54641737,
+    "effectType": 3,
+    "value": "addFeature_100_54641736"
+  },
+  {//引用气运振奋鼓舞
+    "id": 54641738,
+    "effectType": 3,
+    "value": "addFeature_100_54641737"
+  },
+  {//引用气运化物
+    "id": 54641739,
+    "effectType": 3,
+    "value": "addFeature_100_54641738"
+  },
+  {//引用气运随心而御
+    "id": 54641740,
+    "effectType": 3,
+    "value": "addFeature_100_54641739"
+  },
+  {//引用气运天地同寿
+    "id": 54641741,
+    "effectType": 3,
+    "value": "addFeature_100_54641740"
+  },
+  {//引用气运隔山打牛
+    "id": 54641742,
+    "effectType": 3,
+    "value": "addFeature_100_54641741"
+  },
+  {//引用气运夺命真气
+    "id": 54641743,
+    "effectType": 3,
+    "value": "addFeature_100_54641742"
+  },
+  {//引用气运天瞳之刃
+    "id": 54641744,
+    "effectType": 3,
+    "value": "addFeature_100_54641743"
+  },
+  {//引用气运噬魔体
+    "id": 54641745,
+    "effectType": 3,
+    "value": "addFeature_100_54641744"
+  },
+  {//引用气运踏雪无痕
+    "id": 54641746,
+    "effectType": 3,
+    "value": "addFeature_100_54641745"
+  },
+  {//引用气运杀心骤起
+    "id": 54641747,
+    "effectType": 3,
+    "value": "addFeature_100_54641746"
+  },
+  {//引用气运炉火纯青
+    "id": 54641748,
+    "effectType": 3,
+    "value": "addFeature_100_54641747"
+  },
+  {//使用气运丹药大礼包
+    "id": 54641749,
+    "effectType": 3,
+    "value": "item_54641701_1"
+  },
+  {//获得气运丹药大礼包
+    "id": 54641750,
+    "effectType": 3,
+    "value": "item_54641702_1"
+  },
+  {//武神残决升级武神决，战斗中恢复能继续提升护盾
+    "id": 54641751,
+    "effectType": 3,
+    "value": "intoDungeon_54641701_54641703"
+  },
+  {//10地区前所有地区交互次数最多上升到600次
+    "id": 54641801,
+    "effectType": 3,
+    "value": "npcConnectLimit_0_600_1_10"
+  },
+  {//引用交互气运
+    "id": 54641802,
+    "effectType": 3,
+    "value": "addFeature_100_54641801"
+  },
+  {//不作交互
+    "id": 54641803,
+    "effectType": 3,
+    "value": "npcConnectLimit_0_0_1_10"
+  },
+  {//引用不交互气运
+    "id": 54641804,
+    "effectType": 3,
+    "value": "addFeature_100_54641802"
+  },
+  {//获得交互符
+    "id": 54641805,
+    "effectType": 3,
+    "value": "item_54641801_1"
+  },
+  
+]

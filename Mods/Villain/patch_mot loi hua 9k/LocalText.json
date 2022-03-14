@@ -1,0 +1,37 @@
+[
+	{
+		"id": 119330900,
+		"key": "role_feature_congenital_name2801",
+		"ch": "Hứa một lời chín ngàn",
+		"tc": "一諾九千金",
+		"en": "Hứa một lời chín ngàn"
+	},
+	{
+		"id": 119330901,
+		"key": "role_feature_congenital_tips2801",
+		"ch": "Ngươi có chín cái đối ngươi phi thường trung trinh đạo lữ.",
+		"tc": "你有九個對你非常忠貞的道侶。",
+		"en": "Ngươi có chín cái đối ngươi phi thường trung trinh đạo lữ."
+	},
+	{
+		"id": 119330902,
+		"key": "role_feature_congenital_intro2801",
+		"ch": "Ngươi phi thường may mắn, bởi vì ngươi có được chín cái đối ngươi đến chết cũng không đổi thanh mai trúc mã. Các nàng thề mặc kệ gặp được bao lớn gặp trắc trở đều tuyệt sẽ không vứt bỏ ngươi. Các ngươi cùng một chỗ trải qua sinh tử, cùng một chỗ hưởng thụ qua phú quý, sau này cũng đem sóng vai tiếp tục tiến lên.",
+		"tc": "你非常幸運，因為你擁有九個對你至死不渝的青梅竹馬。她們發誓不管遇到多大的磨難都絕不會拋棄你。你們一起經歷過生死，一起享受過富貴，今後也將並肩繼續前行。",
+		"en": "Ngươi phi thường may mắn, bởi vì ngươi có được chín cái đối ngươi đến chết cũng không đổi thanh mai trúc mã. Các nàng thề mặc kệ gặp được bao lớn gặp trắc trở đều tuyệt sẽ không vứt bỏ ngươi. Các ngươi cùng một chỗ trải qua sinh tử, cùng một chỗ hưởng thụ qua phú quý, sau này cũng đem sóng vai tiếp tục tiến lên."
+	},
+	{
+		"id": 119330903,
+		"key": "schoolNameFirst60",
+		"ch": "Trăm",
+		"tc": "御",
+		"en": "Trăm"
+	},
+	{
+		"id": 119330904,
+		"key": "schoolNameSecond60",
+		"ch": "Hoa",
+		"tc": "龙",
+		"en": "Hoa"
+	}
+]

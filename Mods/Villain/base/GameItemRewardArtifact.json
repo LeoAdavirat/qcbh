@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031101,
+    "grade": 2,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 2,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031102,
+    "grade": 2,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 3,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031103,
+    "grade": 2,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 4,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031104,
+    "grade": 2,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 5,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031105,
+    "grade": 2,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 6,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031106,
+    "grade": 2,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 7,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031107,
+    "grade": 2,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 8,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031101,
+    "grade": 3,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 9,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031102,
+    "grade": 3,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 10,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031103,
+    "grade": 3,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 11,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031104,
+    "grade": 3,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 12,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031105,
+    "grade": 3,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 13,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031106,
+    "grade": 3,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 14,
+    "rewardID": 7000001,
+    "condition": "area_2_3",
+    "artifactID": 3031107,
+    "grade": 3,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 15,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031101,
+    "grade": 4,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 16,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031102,
+    "grade": 4,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 17,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031103,
+    "grade": 4,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 18,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031104,
+    "grade": 4,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 19,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031105,
+    "grade": 4,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 20,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031106,
+    "grade": 4,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 21,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031107,
+    "grade": 4,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 22,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031101,
+    "grade": 5,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 23,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031102,
+    "grade": 5,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 24,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031103,
+    "grade": 5,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 25,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031104,
+    "grade": 5,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 26,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031105,
+    "grade": 5,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 27,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031106,
+    "grade": 5,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 28,
+    "rewardID": 7000001,
+    "condition": "area_4_5",
+    "artifactID": 3031107,
+    "grade": 5,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 29,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031101,
+    "grade": 6,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 30,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031102,
+    "grade": 6,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 31,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031103,
+    "grade": 6,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 32,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031104,
+    "grade": 6,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 33,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031105,
+    "grade": 6,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 34,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031106,
+    "grade": 6,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 35,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031107,
+    "grade": 6,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 36,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031101,
+    "grade": 7,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 37,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031102,
+    "grade": 7,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 38,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031103,
+    "grade": 7,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 39,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031104,
+    "grade": 7,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 40,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031105,
+    "grade": 7,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 41,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031106,
+    "grade": 7,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 42,
+    "rewardID": 7000001,
+    "condition": "area_6_7",
+    "artifactID": 3031107,
+    "grade": 7,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 43,
+    "rewardID": 7000001,
+    "condition": "area_8_9",
+    "artifactID": 3031101,
+    "grade": 8,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 44,
+    "rewardID": 7000001,
+    "condition": "area_8_9",
+    "artifactID": 3031102,
+    "grade": 8,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 45,
+    "rewardID": 7000001,
+    "condition": "area_8_9",
+    "artifactID": 3031103,
+    "grade": 8,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 46,
+    "rewardID": 7000001,
+    "condition": "area_8_9",
+    "artifactID": 3031104,
+    "grade": 8,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 47,
+    "rewardID": 7000001,
+    "condition": "area_8_9",
+    "artifactID": 3031105,
+    "grade": 8,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 48,
+    "rewardID": 7000001,
+    "condition": "area_8_9",
+    "artifactID": 3031106,
+    "grade": 8,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  },
+  {
+    "id": 49,
+    "rewardID": 7000001,
+    "condition": "area_8_9",
+    "artifactID": 3031107,
+    "grade": 8,
+    "statusPercentMin": 40,
+    "statusPercentMax": 100,
+    "weight": 100
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": 109001,
+    "mapEventID": 7,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 1109001,
+    "mapEventID": 7,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 1109002,
+    "mapEventID": 9,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109100,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109101,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109102,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109103,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109104,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109105,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109106,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109107,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109108,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109109,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109110,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109111,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 10
+  },
+  {
+    "id": 109201,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109202,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109203,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109204,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109205,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109206,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109207,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109208,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109209,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109210,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109211,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  },
+  {
+    "id": 109212,
+    "mapEventID": 0,
+    "iconCenter": "-1,-1",
+    "iconRange": 5
+  }
+]

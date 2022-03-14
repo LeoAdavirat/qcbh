@@ -1,0 +1,27 @@
+[
+  {
+    "id": 37001,
+    "stayTime": 5000,
+    "backSound": "jineng/zhi/zhi_pugong_back"
+  },
+  {
+    "id": 37002,
+    "stayTime": 100,
+    "backSound": "jineng/zhi/zhi_pugong_back"
+  },
+  {
+    "id": 37003,
+    "stayTime": 300,
+    "backSound": "jineng/zhi/zhi_pugong_back"
+  },
+  {
+    "id": 37004,
+    "stayTime": 99999,
+    "backSound": "jineng/zhi/zhi_pugong_back"
+  },
+  {
+    "id": 37005,
+    "stayTime": 2000,
+    "backSound": "jineng/zhi/zhi_pugong_back"
+  }
+]

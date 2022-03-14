@@ -1,0 +1,626 @@
+[
+  {
+    "id": 0,
+    "type": 0,
+    "uiLabel": "0",
+    "name": "item_type_name0"
+  },
+  {
+    "id": 1,
+    "type": 0,
+    "uiLabel": "0",
+    "name": "item_type_name1"
+  },
+  {
+    "id": 2,
+    "type": 0,
+    "uiLabel": "0",
+    "name": "item_type_name2"
+  },
+  {
+    "id": 3,
+    "type": 0,
+    "uiLabel": "0",
+    "name": "item_type_name3"
+  },
+  {
+    "id": 5,
+    "type": 0,
+    "uiLabel": "0",
+    "name": "item_type_name5"
+  },
+  {
+    "id": 6,
+    "type": 0,
+    "uiLabel": "0",
+    "name": "item_type_name6"
+  },
+  {
+    "id": 7,
+    "type": 0,
+    "uiLabel": "0",
+    "name": "item_type_name7"
+  },
+  {
+    "id": 101,
+    "type": 1,
+    "uiLabel": "itemType_kezhuangbei",
+    "name": "item_type_name101"
+  },
+  {
+    "id": 102,
+    "type": 1,
+    "uiLabel": "itemType_kezhuangbei",
+    "name": "item_type_name102"
+  },
+  {
+    "id": 103,
+    "type": 1,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name103"
+  },
+  {
+    "id": 104,
+    "type": 1,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name104"
+  },
+  {
+    "id": 105,
+    "type": 1,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name105"
+  },
+  {
+    "id": 106,
+    "type": 1,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name103"
+  },
+  {
+    "id": 107,
+    "type": 1,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name107"
+  },
+  {
+    "id": 108,
+    "type": 1,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name108"
+  },
+  {
+    "id": 301,
+    "type": 3,
+    "uiLabel": "itemType_jiezhi",
+    "name": "item_type_name301"
+  },
+  {
+    "id": 302,
+    "type": 3,
+    "uiLabel": "itemType_zuoqi",
+    "name": "item_type_name302"
+  },
+  {
+    "id": 304,
+    "type": 3,
+    "uiLabel": "itemType_yifu",
+    "name": "item_type_name304"
+  },
+  {
+    "id": 401,
+    "type": 3,
+    "uiLabel": "itemType_fabao",
+    "name": "item_type_name401"
+  },
+  {
+    "id": 501,
+    "type": 5,
+    "uiLabel": "itemType_kuangcai",
+    "name": "item_type_name501"
+  },
+  {
+    "id": 502,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name502"
+  },
+  {
+    "id": 503,
+    "type": 5,
+    "uiLabel": "itemType_yaocai",
+    "name": "item_type_name503"
+  },
+  {
+    "id": 504,
+    "type": 5,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name504"
+  },
+  {
+    "id": 505,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name505"
+  },
+  {
+    "id": 506,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name506"
+  },
+  {
+    "id": 507,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name507"
+  },
+  {
+    "id": 508,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name508"
+  },
+  {
+    "id": 509,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name509"
+  },
+  {
+    "id": 510,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name510"
+  },
+  {
+    "id": 511,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name511"
+  },
+  {
+    "id": 512,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name512"
+  },
+  {
+    "id": 513,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name513"
+  },
+  {
+    "id": 518,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name518"
+  },
+  {
+    "id": 520,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name520"
+  },
+  {
+    "id": 521,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name521"
+  },
+  {
+    "id": 522,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name522"
+  },
+  {
+    "id": 523,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name514"
+  },
+  {
+    "id": 524,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name524"
+  },
+  {
+    "id": 525,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name525"
+  },
+  {
+    "id": 526,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name526"
+  },
+  {
+    "id": 527,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name527"
+  },
+  {
+    "id": 528,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name528"
+  },
+  {
+    "id": 529,
+    "type": 5,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name529"
+  },
+  {
+    "id": 530,
+    "type": 5,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name530"
+  },
+  {
+    "id": 531,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name531"
+  },
+  {
+    "id": 532,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name532"
+  },
+  {
+    "id": 533,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name533"
+  },
+  {
+    "id": 534,
+    "type": 5,
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name534"
+  },
+  {
+    "id": 601,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name601"
+  },
+  {
+    "id": 602,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name602"
+  },
+  {
+    "id": 603,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name603"
+  },
+  {
+    "id": 604,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name604"
+  },
+  {
+    "id": 605,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name605"
+  },
+  {
+    "id": 606,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name606"
+  },
+  {
+    "id": 607,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name607"
+  },
+  {
+    "id": 608,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name608"
+  },
+  {
+    "id": 609,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name609"
+  },
+  {
+    "id": 610,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name610"
+  },
+  {
+    "id": 611,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name611"
+  },
+  {
+    "id": 612,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name612"
+  },
+  {
+    "id": 613,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name613"
+  },
+  {
+    "id": 614,
+    "type": 6,
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name614"
+  },
+  {
+    "id": 615,
+    "type": 6,
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name615"
+  },
+  {
+    "id": 616,
+    "type": 6,
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name616"
+  },
+  {
+    "id": 617,
+    "type": 6,
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name617"
+  },
+  {
+    "id": 618,
+    "type": 6,
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name618"
+  },
+  {
+    "id": 619,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name619"
+  },
+  {
+    "id": 624,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name624"
+  },
+  {
+    "id": 625,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name625"
+  },
+  {
+    "id": 626,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name626"
+  },
+  {
+    "id": 627,
+    "type": 6,
+    "uiLabel": "itemType_kezhuangbei",
+    "name": "item_type_name627"
+  },
+  {
+    "id": 628,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name628"
+  },
+  {
+    "id": 629,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name629"
+  },
+  {
+    "id": 630,
+    "type": 6,
+    "uiLabel": "itemType_tuzhi",
+    "name": "item_type_name630"
+  },
+  {
+    "id": 631,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name631"
+  },
+  {
+    "id": 632,
+    "type": 6,
+    "uiLabel": "itemType_tuzhi",
+    "name": "item_type_name632"
+  },
+  {
+    "id": 633,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name633"
+  },
+  {
+    "id": 634,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name634"
+  },
+  {
+    "id": 635,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name635"
+  },
+  {
+    "id": 636,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name636"
+  },
+  {
+    "id": 637,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name637"
+  },
+  {
+    "id": 638,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name638"
+  },
+  {
+    "id": 639,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name639"
+  },
+  {
+    "id": 640,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name640"
+  },
+  {
+    "id": 641,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name641"
+  },
+  {
+    "id": 642,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name642"
+  },
+  {
+    "id": 643,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name643"
+  },
+  {
+    "id": 644,
+    "type": 6,
+    "uiLabel": "itemType_baoxiang",
+    "name": "item_type_name644"
+  },
+  {
+    "id": 645,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name645"
+  },
+  {
+    "id": 646,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name646"
+  },
+  {
+    "id": 647,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name647"
+  },
+  {
+    "id": 648,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name648"
+  },
+  {
+    "id": 649,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name649"
+  },
+  {
+    "id": 650,
+    "type": 6,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name650"
+  },
+  {
+    "id": 701,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name701"
+  },
+  {
+    "id": 702,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name702"
+  },
+  {
+    "id": 703,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name703"
+  },
+  {
+    "id": 704,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name704"
+  },
+  {
+    "id": 705,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name705"
+  },
+  {
+    "id": 706,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name706"
+  },
+  {
+    "id": 707,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name707"
+  },
+  {
+    "id": 708,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name708"
+  },
+  {
+    "id": 709,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name709"
+  },
+  {
+    "id": 710,
+    "type": 7,
+    "uiLabel": "0",
+    "name": "item_type_name710"
+  }
+]

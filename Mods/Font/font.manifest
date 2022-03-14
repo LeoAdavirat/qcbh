@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 2003068139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69a7418145057c8b42f90e962a5fe465
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b061c224d53bf9fde314821aeb9f11f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Font/NotoSans-Condensed.ttf
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+- Assets/Font/SairaCondensed-Regular.ttf
+- Assets/Font/IBMPlexSansCondensed-Light.ttf
+- Assets/TextMesh Pro/Resources/Fonts & Materials/CabinCondensed SDF.asset
+- Assets/Font/SairaCondensed-Medium.ttf
+- Assets/TextMesh Pro/Resources/Fonts & Materials/NotoSansSC-Medium SDF.asset
+- Assets/Font/BarlowSemiCondensed-Medium.ttf
+- Assets/Font/IBMPlexSansCondensed-Medium.ttf
+- Assets/Font/BarlowSemiCondensed-SemiBold.ttf
+- Assets/Font/RobotoCondensed-Light.ttf
+- Assets/Font/OpenSansCondensed-Light.ttf
+- Assets/Font/NotoSans-SemiCondensed.ttf
+- Assets/Font/UnusedFont.ttf
+- Assets/Font/EncodeSansCondensed-Regular.ttf
+- Assets/Font/EncodeSansCondensed-SemiBold.ttf
+- Assets/Font/NotoSans-CondensedBold.ttf
+- Assets/Font/SairaExtraCondensed-Regular.ttf
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+- Assets/Font/IBMPlexSansCondensed-Regular.ttf
+- Assets/Font/SairaExtraCondensed-Light.ttf
+- Assets/Font/AsapCondensed-Medium.ttf
+- Assets/Font/FiraSansCondensed-Light.ttf
+- Assets/Font/FiraSansExtraCondensed-Regular.ttf
+- Assets/Font/CabinCondensed-SemiBold.ttf
+- Assets/Font/BarlowCondensed-SemiBold.ttf
+- Assets/Font/EncodeSansSemiCondensed-Light.ttf
+- Assets/Font/SairaCondensed-SemiBold.ttf
+- Assets/Font/BarlowCondensed-Medium.ttf
+- Assets/Font/IBMPlexSansCondensed-SemiBold.ttf
+- Assets/Font/BarlowCondensed-Regular.ttf
+- Assets/Font/EncodeSansSemiCondensed-Regular.ttf
+- Assets/Font/AsapCondensed-Regular.ttf
+- Assets/Font/EncodeSansCondensed-Medium.ttf
+- Assets/Font/EncodeSansSemiCondensed-Medium.ttf
+- Assets/Font/FiraSansCondensed-Medium.ttf
+- Assets/Font/NotoSans-ExtraCondensed.ttf
+- Assets/Font/FiraSansExtraCondensed-SemiBold.ttf
+- Assets/Font/LangNhan.ttf
+- Assets/Font/AsapCondensed-SemiBold.ttf
+- Assets/Font/RobotoCondensed-Bold.ttf
+- Assets/Font/SairaExtraCondensed-SemiBold.ttf
+- Assets/Font/BarlowSemiCondensed-Regular.ttf
+- Assets/Font/EncodeSansSemiCondensed-SemiBold.ttf
+- Assets/Font/FiraSansExtraCondensed-Medium.ttf
+- Assets/Font/RobotoCondensed-Regular.ttf
+- Assets/Font/CabinCondensed-Medium.ttf
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/Font/CabinCondensed.ttf
+- Assets/Font/SairaExtraCondensed-Medium.ttf
+- Assets/Font/FiraSansCondensed-Regular.ttf
+- Assets/Font/FiraSansCondensed-SemiBold.ttf
+- Assets/Font/LiberationSans.ttf
+Dependencies: []

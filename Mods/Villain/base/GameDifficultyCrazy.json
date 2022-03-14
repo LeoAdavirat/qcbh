@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_0|skillDmg_0",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 39
+  },
+  {
+    "id": 2,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_200|skillDmg_20",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 37
+  },
+  {
+    "id": 3,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_500|skillDmg_80",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 31
+  },
+  {
+    "id": 4,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_800|skillDmg_150",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 27
+  },
+  {
+    "id": 5,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_1200|skillDmg_200",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 24
+  },
+  {
+    "id": 6,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_1600|skillDmg_230",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 23
+  },
+  {
+    "id": 7,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_2000|skillDmg_260",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 22
+  },
+  {
+    "id": 8,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_2400|skillDmg_290",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 20
+  },
+  {
+    "id": 9,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_2800|skillDmg_320",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 20
+  },
+  {
+    "id": 10,
+    "unitAttr": "0",
+    "eliteAttr": "0",
+    "bossAttr": "hp_3200|skillDmg_350",
+    "eliteDmgBrob": 66,
+    "bossDmgBrob": 19
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "group": 6100131,
+    "condition": "0",
+    "function": "addMastery_0_1000_2000",
+    "weight": 2500
+  },
+  {
+    "id": 2,
+    "group": 6100131,
+    "condition": "0",
+    "function": "addExp_1_5_10",
+    "weight": 2000
+  },
+  {
+    "id": 3,
+    "group": 6100131,
+    "condition": "0",
+    "function": "addExp_1_-5_-10",
+    "weight": 500
+  },
+  {
+    "id": 4,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5001",
+    "weight": 1000
+  },
+  {
+    "id": 5,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5002",
+    "weight": 1000
+  },
+  {
+    "id": 6,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5003",
+    "weight": 1000
+  },
+  {
+    "id": 7,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5004",
+    "weight": 1000
+  },
+  {
+    "id": 8,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5005",
+    "weight": 1000
+  },
+  {
+    "id": 9,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5006",
+    "weight": 1000
+  },
+  {
+    "id": 10,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5007",
+    "weight": 1000
+  },
+  {
+    "id": 11,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5008",
+    "weight": 1000
+  },
+  {
+    "id": 12,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5009",
+    "weight": 1000
+  },
+  {
+    "id": 13,
+    "group": 6100141,
+    "condition": "0",
+    "function": "addFeature_5010",
+    "weight": 1000
+  }
+]

@@ -1,0 +1,31 @@
+[
+  
+  {
+    "id": 54640301,
+    "name": "makePillName54640301",
+    "desc": "makePillDesc54640301",
+    "trigger": "passive",
+    "effect": "energy_-100"
+  },
+  {
+    "id": 54640302,
+    "name": "makePillName54640302",
+    "desc": "makePillDesc54640302",
+    "trigger": "passive",
+    "effect": "mastery_10000"
+  },
+  {
+    "id": 54640303,
+    "name": "makePillName54640303",
+    "desc": "makePillDesc54640303",
+    "trigger": "passive",
+    "effect": "bomb_-100"
+  },
+  {
+    "id": 54640304,
+    "name": "makePillName54640304",
+    "desc": "makePillDesc54640304",
+    "trigger": "click_5_1",
+    "effect": "increase_10_0_1_2000_2000"
+  },
+]

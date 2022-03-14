@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1001,
+    "grade": 1,
+    "gender": 4,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_9_1_2000",
+    "characterA": "1|2|3|4",
+    "characterB": "19|12",
+    "dressMan": "10011",
+    "dressWoman": "10012",
+    "startPos": "around_0_0_0"
+  },
+  {
+    "id": 1002,
+    "grade": 7,
+    "gender": 0,
+    "attrFix": "tendAttr_basSword",
+    "featureFix": "0",
+    "relationFix": "addRelation_11_1_2000",
+    "characterA": "0",
+    "characterB": "0",
+    "dressMan": "0",
+    "dressWoman": "0",
+    "startPos": "around_4_0_30"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "rewardID": 1000101,
+    "scale": 1,
+    "weight": 50
+  },
+  {
+    "id": 2,
+    "rewardID": 1000102,
+    "scale": 1,
+    "weight": 50
+  },
+  {
+    "id": 3,
+    "rewardID": 1000103,
+    "scale": 1,
+    "weight": 15
+  },
+  {
+    "id": 4,
+    "rewardID": 1000104,
+    "scale": 1,
+    "weight": 15
+  },
+  {
+    "id": 5,
+    "rewardID": 1000105,
+    "scale": 1,
+    "weight": 80
+  },
+  {
+    "id": 6,
+    "rewardID": 1000106,
+    "scale": 1,
+    "weight": 80
+  },
+  {
+    "id": 11,
+    "rewardID": 1000201,
+    "scale": 2,
+    "weight": 50
+  },
+  {
+    "id": 12,
+    "rewardID": 1000202,
+    "scale": 2,
+    "weight": 50
+  },
+  {
+    "id": 13,
+    "rewardID": 1000203,
+    "scale": 2,
+    "weight": 15
+  },
+  {
+    "id": 14,
+    "rewardID": 1000204,
+    "scale": 2,
+    "weight": 15
+  },
+  {
+    "id": 15,
+    "rewardID": 1000205,
+    "scale": 2,
+    "weight": 80
+  },
+  {
+    "id": 16,
+    "rewardID": 1000206,
+    "scale": 2,
+    "weight": 80
+  },
+  {
+    "id": 21,
+    "rewardID": 1000301,
+    "scale": 3,
+    "weight": 50
+  },
+  {
+    "id": 22,
+    "rewardID": 1000302,
+    "scale": 3,
+    "weight": 50
+  },
+  {
+    "id": 23,
+    "rewardID": 1000303,
+    "scale": 3,
+    "weight": 15
+  },
+  {
+    "id": 24,
+    "rewardID": 1000304,
+    "scale": 3,
+    "weight": 15
+  },
+  {
+    "id": 25,
+    "rewardID": 1000305,
+    "scale": 3,
+    "weight": 80
+  },
+  {
+    "id": 26,
+    "rewardID": 1000306,
+    "scale": 3,
+    "weight": 80
+  },
+  {
+    "id": 30,
+    "rewardID": 1000401,
+    "scale": 4,
+    "weight": 50
+  },
+  {
+    "id": 31,
+    "rewardID": 1000402,
+    "scale": 4,
+    "weight": 50
+  },
+  {
+    "id": 32,
+    "rewardID": 1000403,
+    "scale": 4,
+    "weight": 15
+  },
+  {
+    "id": 33,
+    "rewardID": 1000404,
+    "scale": 4,
+    "weight": 15
+  },
+  {
+    "id": 34,
+    "rewardID": 1000405,
+    "scale": 4,
+    "weight": 80
+  },
+  {
+    "id": 35,
+    "rewardID": 1000406,
+    "scale": 4,
+    "weight": 80
+  },
+  {
+    "id": 38,
+    "rewardID": 1000501,
+    "scale": 5,
+    "weight": 50
+  },
+  {
+    "id": 39,
+    "rewardID": 1000502,
+    "scale": 5,
+    "weight": 50
+  },
+  {
+    "id": 40,
+    "rewardID": 1000503,
+    "scale": 5,
+    "weight": 15
+  },
+  {
+    "id": 41,
+    "rewardID": 1000504,
+    "scale": 5,
+    "weight": 15
+  },
+  {
+    "id": 42,
+    "rewardID": 1000505,
+    "scale": 5,
+    "weight": 80
+  },
+  {
+    "id": 43,
+    "rewardID": 1000506,
+    "scale": 5,
+    "weight": 80
+  }
+]

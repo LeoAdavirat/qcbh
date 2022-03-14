@@ -1,0 +1,1892 @@
+[
+  {
+    "id": 1,
+    "groupID": 1,
+    "fateFeatureID": 700001
+  },
+  {
+    "id": 2,
+    "groupID": 1,
+    "fateFeatureID": 700002
+  },
+  {
+    "id": 3,
+    "groupID": 1,
+    "fateFeatureID": 700003
+  },
+  {
+    "id": 4,
+    "groupID": 1,
+    "fateFeatureID": 700007
+  },
+  {
+    "id": 5,
+    "groupID": 1,
+    "fateFeatureID": 700008
+  },
+  {
+    "id": 6,
+    "groupID": 1,
+    "fateFeatureID": 700009
+  },
+  {
+    "id": 7,
+    "groupID": 1,
+    "fateFeatureID": 700126
+  },
+  {
+    "id": 8,
+    "groupID": 1,
+    "fateFeatureID": 700018
+  },
+  {
+    "id": 9,
+    "groupID": 1,
+    "fateFeatureID": 700022
+  },
+  {
+    "id": 10,
+    "groupID": 1,
+    "fateFeatureID": 700023
+  },
+  {
+    "id": 11,
+    "groupID": 1,
+    "fateFeatureID": 700024
+  },
+  {
+    "id": 12,
+    "groupID": 1,
+    "fateFeatureID": 700025
+  },
+  {
+    "id": 13,
+    "groupID": 1,
+    "fateFeatureID": 700033
+  },
+  {
+    "id": 14,
+    "groupID": 1,
+    "fateFeatureID": 700036
+  },
+  {
+    "id": 15,
+    "groupID": 1,
+    "fateFeatureID": 700039
+  },
+  {
+    "id": 16,
+    "groupID": 1,
+    "fateFeatureID": 700057
+  },
+  {
+    "id": 17,
+    "groupID": 1,
+    "fateFeatureID": 700042
+  },
+  {
+    "id": 18,
+    "groupID": 1,
+    "fateFeatureID": 700045
+  },
+  {
+    "id": 19,
+    "groupID": 1,
+    "fateFeatureID": 700048
+  },
+  {
+    "id": 20,
+    "groupID": 1,
+    "fateFeatureID": 700053
+  },
+  {
+    "id": 21,
+    "groupID": 1,
+    "fateFeatureID": 700054
+  },
+  {
+    "id": 22,
+    "groupID": 1,
+    "fateFeatureID": 700064
+  },
+  {
+    "id": 23,
+    "groupID": 1,
+    "fateFeatureID": 700075
+  },
+  {
+    "id": 24,
+    "groupID": 1,
+    "fateFeatureID": 700080
+  },
+  {
+    "id": 25,
+    "groupID": 1,
+    "fateFeatureID": 700081
+  },
+  {
+    "id": 26,
+    "groupID": 1,
+    "fateFeatureID": 700082
+  },
+  {
+    "id": 27,
+    "groupID": 1,
+    "fateFeatureID": 700086
+  },
+  {
+    "id": 28,
+    "groupID": 1,
+    "fateFeatureID": 700087
+  },
+  {
+    "id": 29,
+    "groupID": 1,
+    "fateFeatureID": 700088
+  },
+  {
+    "id": 30,
+    "groupID": 1,
+    "fateFeatureID": 700092
+  },
+  {
+    "id": 31,
+    "groupID": 1,
+    "fateFeatureID": 700093
+  },
+  {
+    "id": 32,
+    "groupID": 1,
+    "fateFeatureID": 700094
+  },
+  {
+    "id": 33,
+    "groupID": 1,
+    "fateFeatureID": 700101
+  },
+  {
+    "id": 34,
+    "groupID": 1,
+    "fateFeatureID": 700102
+  },
+  {
+    "id": 35,
+    "groupID": 1,
+    "fateFeatureID": 700103
+  },
+  {
+    "id": 36,
+    "groupID": 1,
+    "fateFeatureID": 700111
+  },
+  {
+    "id": 37,
+    "groupID": 1,
+    "fateFeatureID": 700112
+  },
+  {
+    "id": 38,
+    "groupID": 1,
+    "fateFeatureID": 700113
+  },
+  {
+    "id": 39,
+    "groupID": 1,
+    "fateFeatureID": 700119
+  },
+  {
+    "id": 40,
+    "groupID": 1,
+    "fateFeatureID": 700132
+  },
+  {
+    "id": 41,
+    "groupID": 1,
+    "fateFeatureID": 700123
+  },
+  {
+    "id": 42,
+    "groupID": 2,
+    "fateFeatureID": 700004
+  },
+  {
+    "id": 43,
+    "groupID": 2,
+    "fateFeatureID": 700005
+  },
+  {
+    "id": 44,
+    "groupID": 2,
+    "fateFeatureID": 700006
+  },
+  {
+    "id": 45,
+    "groupID": 2,
+    "fateFeatureID": 700010
+  },
+  {
+    "id": 46,
+    "groupID": 2,
+    "fateFeatureID": 700011
+  },
+  {
+    "id": 47,
+    "groupID": 2,
+    "fateFeatureID": 700012
+  },
+  {
+    "id": 48,
+    "groupID": 2,
+    "fateFeatureID": 700019
+  },
+  {
+    "id": 49,
+    "groupID": 2,
+    "fateFeatureID": 700026
+  },
+  {
+    "id": 50,
+    "groupID": 2,
+    "fateFeatureID": 700028
+  },
+  {
+    "id": 51,
+    "groupID": 2,
+    "fateFeatureID": 700055
+  },
+  {
+    "id": 52,
+    "groupID": 2,
+    "fateFeatureID": 700056
+  },
+  {
+    "id": 53,
+    "groupID": 2,
+    "fateFeatureID": 700034
+  },
+  {
+    "id": 54,
+    "groupID": 2,
+    "fateFeatureID": 700037
+  },
+  {
+    "id": 55,
+    "groupID": 2,
+    "fateFeatureID": 700040
+  },
+  {
+    "id": 56,
+    "groupID": 2,
+    "fateFeatureID": 700058
+  },
+  {
+    "id": 57,
+    "groupID": 2,
+    "fateFeatureID": 700043
+  },
+  {
+    "id": 58,
+    "groupID": 2,
+    "fateFeatureID": 700046
+  },
+  {
+    "id": 59,
+    "groupID": 2,
+    "fateFeatureID": 700049
+  },
+  {
+    "id": 60,
+    "groupID": 2,
+    "fateFeatureID": 700050
+  },
+  {
+    "id": 61,
+    "groupID": 2,
+    "fateFeatureID": 700060
+  },
+  {
+    "id": 62,
+    "groupID": 2,
+    "fateFeatureID": 700061
+  },
+  {
+    "id": 63,
+    "groupID": 2,
+    "fateFeatureID": 700065
+  },
+  {
+    "id": 64,
+    "groupID": 2,
+    "fateFeatureID": 700077
+  },
+  {
+    "id": 65,
+    "groupID": 2,
+    "fateFeatureID": 700079
+  },
+  {
+    "id": 66,
+    "groupID": 2,
+    "fateFeatureID": 700083
+  },
+  {
+    "id": 67,
+    "groupID": 2,
+    "fateFeatureID": 700084
+  },
+  {
+    "id": 68,
+    "groupID": 2,
+    "fateFeatureID": 700085
+  },
+  {
+    "id": 69,
+    "groupID": 2,
+    "fateFeatureID": 700089
+  },
+  {
+    "id": 70,
+    "groupID": 2,
+    "fateFeatureID": 700090
+  },
+  {
+    "id": 71,
+    "groupID": 2,
+    "fateFeatureID": 700091
+  },
+  {
+    "id": 72,
+    "groupID": 2,
+    "fateFeatureID": 700095
+  },
+  {
+    "id": 73,
+    "groupID": 2,
+    "fateFeatureID": 700096
+  },
+  {
+    "id": 74,
+    "groupID": 2,
+    "fateFeatureID": 700097
+  },
+  {
+    "id": 75,
+    "groupID": 2,
+    "fateFeatureID": 700104
+  },
+  {
+    "id": 76,
+    "groupID": 2,
+    "fateFeatureID": 700105
+  },
+  {
+    "id": 77,
+    "groupID": 2,
+    "fateFeatureID": 700106
+  },
+  {
+    "id": 78,
+    "groupID": 2,
+    "fateFeatureID": 700114
+  },
+  {
+    "id": 79,
+    "groupID": 2,
+    "fateFeatureID": 700115
+  },
+  {
+    "id": 80,
+    "groupID": 2,
+    "fateFeatureID": 700116
+  },
+  {
+    "id": 81,
+    "groupID": 2,
+    "fateFeatureID": 700121
+  },
+  {
+    "id": 82,
+    "groupID": 2,
+    "fateFeatureID": 700130
+  },
+  {
+    "id": 83,
+    "groupID": 2,
+    "fateFeatureID": 700133
+  },
+  {
+    "id": 84,
+    "groupID": 3,
+    "fateFeatureID": 700013
+  },
+  {
+    "id": 85,
+    "groupID": 3,
+    "fateFeatureID": 700014
+  },
+  {
+    "id": 86,
+    "groupID": 3,
+    "fateFeatureID": 700015
+  },
+  {
+    "id": 87,
+    "groupID": 3,
+    "fateFeatureID": 700016
+  },
+  {
+    "id": 88,
+    "groupID": 3,
+    "fateFeatureID": 700017
+  },
+  {
+    "id": 89,
+    "groupID": 3,
+    "fateFeatureID": 700133
+  },
+  {
+    "id": 90,
+    "groupID": 3,
+    "fateFeatureID": 700021
+  },
+  {
+    "id": 91,
+    "groupID": 3,
+    "fateFeatureID": 700027
+  },
+  {
+    "id": 92,
+    "groupID": 3,
+    "fateFeatureID": 700030
+  },
+  {
+    "id": 93,
+    "groupID": 3,
+    "fateFeatureID": 700031
+  },
+  {
+    "id": 94,
+    "groupID": 3,
+    "fateFeatureID": 700032
+  },
+  {
+    "id": 95,
+    "groupID": 3,
+    "fateFeatureID": 700035
+  },
+  {
+    "id": 96,
+    "groupID": 3,
+    "fateFeatureID": 700038
+  },
+  {
+    "id": 97,
+    "groupID": 3,
+    "fateFeatureID": 700041
+  },
+  {
+    "id": 98,
+    "groupID": 3,
+    "fateFeatureID": 700059
+  },
+  {
+    "id": 99,
+    "groupID": 3,
+    "fateFeatureID": 700044
+  },
+  {
+    "id": 100,
+    "groupID": 3,
+    "fateFeatureID": 700047
+  },
+  {
+    "id": 101,
+    "groupID": 3,
+    "fateFeatureID": 700062
+  },
+  {
+    "id": 102,
+    "groupID": 3,
+    "fateFeatureID": 700063
+  },
+  {
+    "id": 103,
+    "groupID": 3,
+    "fateFeatureID": 700066
+  },
+  {
+    "id": 104,
+    "groupID": 3,
+    "fateFeatureID": 700067
+  },
+  {
+    "id": 105,
+    "groupID": 3,
+    "fateFeatureID": 700068
+  },
+  {
+    "id": 106,
+    "groupID": 3,
+    "fateFeatureID": 700069
+  },
+  {
+    "id": 107,
+    "groupID": 3,
+    "fateFeatureID": 700070
+  },
+  {
+    "id": 108,
+    "groupID": 3,
+    "fateFeatureID": 700071
+  },
+  {
+    "id": 109,
+    "groupID": 3,
+    "fateFeatureID": 700072
+  },
+  {
+    "id": 110,
+    "groupID": 3,
+    "fateFeatureID": 700073
+  },
+  {
+    "id": 111,
+    "groupID": 3,
+    "fateFeatureID": 700074
+  },
+  {
+    "id": 112,
+    "groupID": 3,
+    "fateFeatureID": 700098
+  },
+  {
+    "id": 113,
+    "groupID": 3,
+    "fateFeatureID": 700099
+  },
+  {
+    "id": 114,
+    "groupID": 3,
+    "fateFeatureID": 700100
+  },
+  {
+    "id": 115,
+    "groupID": 3,
+    "fateFeatureID": 700107
+  },
+  {
+    "id": 116,
+    "groupID": 3,
+    "fateFeatureID": 700108
+  },
+  {
+    "id": 117,
+    "groupID": 3,
+    "fateFeatureID": 700109
+  },
+  {
+    "id": 118,
+    "groupID": 3,
+    "fateFeatureID": 700110
+  },
+  {
+    "id": 119,
+    "groupID": 3,
+    "fateFeatureID": 700117
+  },
+  {
+    "id": 120,
+    "groupID": 3,
+    "fateFeatureID": 700118
+  },
+  {
+    "id": 121,
+    "groupID": 3,
+    "fateFeatureID": 700134
+  },
+  {
+    "id": 122,
+    "groupID": 3,
+    "fateFeatureID": 700135
+  },
+  {
+    "id": 123,
+    "groupID": 3,
+    "fateFeatureID": 700136
+  },
+  {
+    "id": 124,
+    "groupID": 3,
+    "fateFeatureID": 700025
+  },
+  {
+    "id": 125,
+    "groupID": 3,
+    "fateFeatureID": 700075
+  },
+  {
+    "id": 126,
+    "groupID": 4,
+    "fateFeatureID": 700001
+  },
+  {
+    "id": 127,
+    "groupID": 4,
+    "fateFeatureID": 700002
+  },
+  {
+    "id": 128,
+    "groupID": 4,
+    "fateFeatureID": 700003
+  },
+  {
+    "id": 129,
+    "groupID": 4,
+    "fateFeatureID": 700016
+  },
+  {
+    "id": 130,
+    "groupID": 4,
+    "fateFeatureID": 700121
+  },
+  {
+    "id": 131,
+    "groupID": 4,
+    "fateFeatureID": 700039
+  },
+  {
+    "id": 132,
+    "groupID": 4,
+    "fateFeatureID": 700057
+  },
+  {
+    "id": 133,
+    "groupID": 4,
+    "fateFeatureID": 700083
+  },
+  {
+    "id": 134,
+    "groupID": 4,
+    "fateFeatureID": 700084
+  },
+  {
+    "id": 135,
+    "groupID": 4,
+    "fateFeatureID": 700085
+  },
+  {
+    "id": 136,
+    "groupID": 4,
+    "fateFeatureID": 700089
+  },
+  {
+    "id": 137,
+    "groupID": 4,
+    "fateFeatureID": 700090
+  },
+  {
+    "id": 138,
+    "groupID": 4,
+    "fateFeatureID": 700091
+  },
+  {
+    "id": 139,
+    "groupID": 4,
+    "fateFeatureID": 700080
+  },
+  {
+    "id": 140,
+    "groupID": 4,
+    "fateFeatureID": 700081
+  },
+  {
+    "id": 141,
+    "groupID": 4,
+    "fateFeatureID": 700082
+  },
+  {
+    "id": 142,
+    "groupID": 4,
+    "fateFeatureID": 700098
+  },
+  {
+    "id": 143,
+    "groupID": 4,
+    "fateFeatureID": 700099
+  },
+  {
+    "id": 144,
+    "groupID": 4,
+    "fateFeatureID": 700100
+  },
+  {
+    "id": 145,
+    "groupID": 4,
+    "fateFeatureID": 700117
+  },
+  {
+    "id": 146,
+    "groupID": 4,
+    "fateFeatureID": 700118
+  },
+  {
+    "id": 147,
+    "groupID": 4,
+    "fateFeatureID": 700013
+  },
+  {
+    "id": 148,
+    "groupID": 4,
+    "fateFeatureID": 700014
+  },
+  {
+    "id": 149,
+    "groupID": 4,
+    "fateFeatureID": 700015
+  },
+  {
+    "id": 150,
+    "groupID": 4,
+    "fateFeatureID": 700010
+  },
+  {
+    "id": 151,
+    "groupID": 4,
+    "fateFeatureID": 700011
+  },
+  {
+    "id": 152,
+    "groupID": 4,
+    "fateFeatureID": 700012
+  },
+  {
+    "id": 153,
+    "groupID": 4,
+    "fateFeatureID": 700032
+  },
+  {
+    "id": 154,
+    "groupID": 4,
+    "fateFeatureID": 700035
+  },
+  {
+    "id": 155,
+    "groupID": 4,
+    "fateFeatureID": 700050
+  },
+  {
+    "id": 156,
+    "groupID": 4,
+    "fateFeatureID": 700060
+  },
+  {
+    "id": 157,
+    "groupID": 4,
+    "fateFeatureID": 700061
+  },
+  {
+    "id": 158,
+    "groupID": 4,
+    "fateFeatureID": 700065
+  },
+  {
+    "id": 159,
+    "groupID": 4,
+    "fateFeatureID": 700079
+  },
+  {
+    "id": 160,
+    "groupID": 4,
+    "fateFeatureID": 700111
+  },
+  {
+    "id": 161,
+    "groupID": 4,
+    "fateFeatureID": 700112
+  },
+  {
+    "id": 162,
+    "groupID": 4,
+    "fateFeatureID": 700113
+  },
+  {
+    "id": 163,
+    "groupID": 4,
+    "fateFeatureID": 700019
+  },
+  {
+    "id": 164,
+    "groupID": 4,
+    "fateFeatureID": 700130
+  },
+  {
+    "id": 165,
+    "groupID": 4,
+    "fateFeatureID": 700044
+  },
+  {
+    "id": 166,
+    "groupID": 4,
+    "fateFeatureID": 700036
+  },
+  {
+    "id": 167,
+    "groupID": 5,
+    "fateFeatureID": 700022
+  },
+  {
+    "id": 168,
+    "groupID": 5,
+    "fateFeatureID": 700023
+  },
+  {
+    "id": 169,
+    "groupID": 5,
+    "fateFeatureID": 700024
+  },
+  {
+    "id": 170,
+    "groupID": 5,
+    "fateFeatureID": 700018
+  },
+  {
+    "id": 171,
+    "groupID": 5,
+    "fateFeatureID": 700007
+  },
+  {
+    "id": 172,
+    "groupID": 5,
+    "fateFeatureID": 700008
+  },
+  {
+    "id": 173,
+    "groupID": 5,
+    "fateFeatureID": 700009
+  },
+  {
+    "id": 174,
+    "groupID": 5,
+    "fateFeatureID": 700126
+  },
+  {
+    "id": 175,
+    "groupID": 5,
+    "fateFeatureID": 700028
+  },
+  {
+    "id": 176,
+    "groupID": 5,
+    "fateFeatureID": 700055
+  },
+  {
+    "id": 177,
+    "groupID": 5,
+    "fateFeatureID": 700056
+  },
+  {
+    "id": 178,
+    "groupID": 5,
+    "fateFeatureID": 700075
+  },
+  {
+    "id": 179,
+    "groupID": 5,
+    "fateFeatureID": 700040
+  },
+  {
+    "id": 180,
+    "groupID": 5,
+    "fateFeatureID": 700058
+  },
+  {
+    "id": 181,
+    "groupID": 5,
+    "fateFeatureID": 700062
+  },
+  {
+    "id": 182,
+    "groupID": 5,
+    "fateFeatureID": 700063
+  },
+  {
+    "id": 183,
+    "groupID": 5,
+    "fateFeatureID": 700098
+  },
+  {
+    "id": 184,
+    "groupID": 5,
+    "fateFeatureID": 700099
+  },
+  {
+    "id": 185,
+    "groupID": 5,
+    "fateFeatureID": 700100
+  },
+  {
+    "id": 186,
+    "groupID": 5,
+    "fateFeatureID": 700027
+  },
+  {
+    "id": 187,
+    "groupID": 5,
+    "fateFeatureID": 700047
+  },
+  {
+    "id": 188,
+    "groupID": 5,
+    "fateFeatureID": 700046
+  },
+  {
+    "id": 189,
+    "groupID": 5,
+    "fateFeatureID": 700049
+  },
+  {
+    "id": 190,
+    "groupID": 5,
+    "fateFeatureID": 700134
+  },
+  {
+    "id": 191,
+    "groupID": 5,
+    "fateFeatureID": 700135
+  },
+  {
+    "id": 192,
+    "groupID": 5,
+    "fateFeatureID": 700136
+  },
+  {
+    "id": 193,
+    "groupID": 5,
+    "fateFeatureID": 700132
+  },
+  {
+    "id": 194,
+    "groupID": 5,
+    "fateFeatureID": 700053
+  },
+  {
+    "id": 195,
+    "groupID": 5,
+    "fateFeatureID": 700054
+  },
+  {
+    "id": 196,
+    "groupID": 5,
+    "fateFeatureID": 700045
+  },
+  {
+    "id": 197,
+    "groupID": 5,
+    "fateFeatureID": 700048
+  },
+  {
+    "id": 198,
+    "groupID": 5,
+    "fateFeatureID": 700026
+  },
+  {
+    "id": 199,
+    "groupID": 5,
+    "fateFeatureID": 700041
+  },
+  {
+    "id": 200,
+    "groupID": 5,
+    "fateFeatureID": 700059
+  },
+  {
+    "id": 201,
+    "groupID": 5,
+    "fateFeatureID": 700038
+  },
+  {
+    "id": 202,
+    "groupID": 5,
+    "fateFeatureID": 700101
+  },
+  {
+    "id": 203,
+    "groupID": 5,
+    "fateFeatureID": 700102
+  },
+  {
+    "id": 204,
+    "groupID": 5,
+    "fateFeatureID": 700103
+  },
+  {
+    "id": 205,
+    "groupID": 5,
+    "fateFeatureID": 700119
+  },
+  {
+    "id": 206,
+    "groupID": 5,
+    "fateFeatureID": 700079
+  },
+  {
+    "id": 207,
+    "groupID": 5,
+    "fateFeatureID": 700030
+  },
+  {
+    "id": 208,
+    "groupID": 5,
+    "fateFeatureID": 700042
+  },
+  {
+    "id": 209,
+    "groupID": 6,
+    "fateFeatureID": 700040
+  },
+  {
+    "id": 210,
+    "groupID": 6,
+    "fateFeatureID": 700058
+  },
+  {
+    "id": 211,
+    "groupID": 6,
+    "fateFeatureID": 700018
+  },
+  {
+    "id": 212,
+    "groupID": 6,
+    "fateFeatureID": 700066
+  },
+  {
+    "id": 213,
+    "groupID": 6,
+    "fateFeatureID": 700067
+  },
+  {
+    "id": 214,
+    "groupID": 6,
+    "fateFeatureID": 700068
+  },
+  {
+    "id": 215,
+    "groupID": 6,
+    "fateFeatureID": 700069
+  },
+  {
+    "id": 216,
+    "groupID": 6,
+    "fateFeatureID": 700070
+  },
+  {
+    "id": 217,
+    "groupID": 6,
+    "fateFeatureID": 700071
+  },
+  {
+    "id": 218,
+    "groupID": 6,
+    "fateFeatureID": 700072
+  },
+  {
+    "id": 219,
+    "groupID": 6,
+    "fateFeatureID": 700073
+  },
+  {
+    "id": 220,
+    "groupID": 6,
+    "fateFeatureID": 700074
+  },
+  {
+    "id": 221,
+    "groupID": 6,
+    "fateFeatureID": 700107
+  },
+  {
+    "id": 222,
+    "groupID": 6,
+    "fateFeatureID": 700108
+  },
+  {
+    "id": 223,
+    "groupID": 6,
+    "fateFeatureID": 700109
+  },
+  {
+    "id": 224,
+    "groupID": 6,
+    "fateFeatureID": 700110
+  },
+  {
+    "id": 225,
+    "groupID": 6,
+    "fateFeatureID": 700013
+  },
+  {
+    "id": 226,
+    "groupID": 6,
+    "fateFeatureID": 700014
+  },
+  {
+    "id": 227,
+    "groupID": 6,
+    "fateFeatureID": 700015
+  },
+  {
+    "id": 228,
+    "groupID": 6,
+    "fateFeatureID": 700101
+  },
+  {
+    "id": 229,
+    "groupID": 6,
+    "fateFeatureID": 700102
+  },
+  {
+    "id": 230,
+    "groupID": 6,
+    "fateFeatureID": 700103
+  },
+  {
+    "id": 231,
+    "groupID": 6,
+    "fateFeatureID": 700026
+  },
+  {
+    "id": 232,
+    "groupID": 6,
+    "fateFeatureID": 700028
+  },
+  {
+    "id": 233,
+    "groupID": 6,
+    "fateFeatureID": 700055
+  },
+  {
+    "id": 234,
+    "groupID": 6,
+    "fateFeatureID": 700056
+  },
+  {
+    "id": 235,
+    "groupID": 6,
+    "fateFeatureID": 700034
+  },
+  {
+    "id": 236,
+    "groupID": 6,
+    "fateFeatureID": 700037
+  },
+  {
+    "id": 237,
+    "groupID": 6,
+    "fateFeatureID": 700086
+  },
+  {
+    "id": 238,
+    "groupID": 6,
+    "fateFeatureID": 700087
+  },
+  {
+    "id": 239,
+    "groupID": 6,
+    "fateFeatureID": 700088
+  },
+  {
+    "id": 240,
+    "groupID": 6,
+    "fateFeatureID": 700089
+  },
+  {
+    "id": 241,
+    "groupID": 6,
+    "fateFeatureID": 700090
+  },
+  {
+    "id": 242,
+    "groupID": 6,
+    "fateFeatureID": 700091
+  },
+  {
+    "id": 243,
+    "groupID": 6,
+    "fateFeatureID": 700039
+  },
+  {
+    "id": 244,
+    "groupID": 6,
+    "fateFeatureID": 700057
+  },
+  {
+    "id": 245,
+    "groupID": 6,
+    "fateFeatureID": 700042
+  },
+  {
+    "id": 246,
+    "groupID": 6,
+    "fateFeatureID": 700007
+  },
+  {
+    "id": 247,
+    "groupID": 6,
+    "fateFeatureID": 700008
+  },
+  {
+    "id": 248,
+    "groupID": 6,
+    "fateFeatureID": 700009
+  },
+  {
+    "id": 249,
+    "groupID": 6,
+    "fateFeatureID": 700126
+  },
+  {
+    "id": 250,
+    "groupID": 6,
+    "fateFeatureID": 700123
+  },
+  {
+    "id": 251,
+    "groupID": 7,
+    "fateFeatureID": 700021
+  },
+  {
+    "id": 252,
+    "groupID": 7,
+    "fateFeatureID": 700017
+  },
+  {
+    "id": 253,
+    "groupID": 7,
+    "fateFeatureID": 700004
+  },
+  {
+    "id": 254,
+    "groupID": 7,
+    "fateFeatureID": 700005
+  },
+  {
+    "id": 255,
+    "groupID": 7,
+    "fateFeatureID": 700006
+  },
+  {
+    "id": 256,
+    "groupID": 7,
+    "fateFeatureID": 700031
+  },
+  {
+    "id": 257,
+    "groupID": 7,
+    "fateFeatureID": 700033
+  },
+  {
+    "id": 258,
+    "groupID": 7,
+    "fateFeatureID": 700050
+  },
+  {
+    "id": 259,
+    "groupID": 7,
+    "fateFeatureID": 700060
+  },
+  {
+    "id": 260,
+    "groupID": 7,
+    "fateFeatureID": 700061
+  },
+  {
+    "id": 261,
+    "groupID": 7,
+    "fateFeatureID": 700064
+  },
+  {
+    "id": 262,
+    "groupID": 7,
+    "fateFeatureID": 700053
+  },
+  {
+    "id": 263,
+    "groupID": 7,
+    "fateFeatureID": 700054
+  },
+  {
+    "id": 264,
+    "groupID": 7,
+    "fateFeatureID": 700077
+  },
+  {
+    "id": 265,
+    "groupID": 7,
+    "fateFeatureID": 700092
+  },
+  {
+    "id": 266,
+    "groupID": 7,
+    "fateFeatureID": 700093
+  },
+  {
+    "id": 267,
+    "groupID": 7,
+    "fateFeatureID": 700094
+  },
+  {
+    "id": 268,
+    "groupID": 7,
+    "fateFeatureID": 700095
+  },
+  {
+    "id": 269,
+    "groupID": 7,
+    "fateFeatureID": 700096
+  },
+  {
+    "id": 270,
+    "groupID": 7,
+    "fateFeatureID": 700097
+  },
+  {
+    "id": 271,
+    "groupID": 7,
+    "fateFeatureID": 700104
+  },
+  {
+    "id": 272,
+    "groupID": 7,
+    "fateFeatureID": 700105
+  },
+  {
+    "id": 273,
+    "groupID": 7,
+    "fateFeatureID": 700106
+  },
+  {
+    "id": 274,
+    "groupID": 7,
+    "fateFeatureID": 700114
+  },
+  {
+    "id": 275,
+    "groupID": 7,
+    "fateFeatureID": 700115
+  },
+  {
+    "id": 276,
+    "groupID": 7,
+    "fateFeatureID": 700116
+  },
+  {
+    "id": 277,
+    "groupID": 7,
+    "fateFeatureID": 700131
+  },
+  {
+    "id": 278,
+    "groupID": 7,
+    "fateFeatureID": 700133
+  },
+  {
+    "id": 279,
+    "groupID": 7,
+    "fateFeatureID": 700001
+  },
+  {
+    "id": 280,
+    "groupID": 7,
+    "fateFeatureID": 700002
+  },
+  {
+    "id": 281,
+    "groupID": 7,
+    "fateFeatureID": 700003
+  },
+  {
+    "id": 282,
+    "groupID": 7,
+    "fateFeatureID": 700010
+  },
+  {
+    "id": 283,
+    "groupID": 7,
+    "fateFeatureID": 700011
+  },
+  {
+    "id": 284,
+    "groupID": 7,
+    "fateFeatureID": 700012
+  },
+  {
+    "id": 285,
+    "groupID": 7,
+    "fateFeatureID": 700019
+  },
+  {
+    "id": 286,
+    "groupID": 7,
+    "fateFeatureID": 700022
+  },
+  {
+    "id": 287,
+    "groupID": 7,
+    "fateFeatureID": 700023
+  },
+  {
+    "id": 288,
+    "groupID": 7,
+    "fateFeatureID": 700024
+  },
+  {
+    "id": 289,
+    "groupID": 7,
+    "fateFeatureID": 700025
+  },
+  {
+    "id": 290,
+    "groupID": 7,
+    "fateFeatureID": 700030
+  },
+  {
+    "id": 291,
+    "groupID": 7,
+    "fateFeatureID": 700121
+  },
+  {
+    "id": 292,
+    "groupID": 7,
+    "fateFeatureID": 700032
+  },
+  {
+    "id": 293,
+    "groupID": 8,
+    "fateFeatureID": 700034
+  },
+  {
+    "id": 294,
+    "groupID": 8,
+    "fateFeatureID": 700033
+  },
+  {
+    "id": 295,
+    "groupID": 8,
+    "fateFeatureID": 700035
+  },
+  {
+    "id": 296,
+    "groupID": 8,
+    "fateFeatureID": 700036
+  },
+  {
+    "id": 297,
+    "groupID": 8,
+    "fateFeatureID": 700044
+  },
+  {
+    "id": 298,
+    "groupID": 8,
+    "fateFeatureID": 700046
+  },
+  {
+    "id": 299,
+    "groupID": 8,
+    "fateFeatureID": 700047
+  },
+  {
+    "id": 300,
+    "groupID": 8,
+    "fateFeatureID": 700050
+  },
+  {
+    "id": 301,
+    "groupID": 8,
+    "fateFeatureID": 700060
+  },
+  {
+    "id": 302,
+    "groupID": 8,
+    "fateFeatureID": 700061
+  },
+  {
+    "id": 303,
+    "groupID": 8,
+    "fateFeatureID": 700131
+  },
+  {
+    "id": 304,
+    "groupID": 8,
+    "fateFeatureID": 700041
+  },
+  {
+    "id": 305,
+    "groupID": 8,
+    "fateFeatureID": 700059
+  },
+  {
+    "id": 306,
+    "groupID": 8,
+    "fateFeatureID": 700004
+  },
+  {
+    "id": 307,
+    "groupID": 8,
+    "fateFeatureID": 700005
+  },
+  {
+    "id": 308,
+    "groupID": 8,
+    "fateFeatureID": 700006
+  },
+  {
+    "id": 309,
+    "groupID": 8,
+    "fateFeatureID": 700021
+  },
+  {
+    "id": 310,
+    "groupID": 8,
+    "fateFeatureID": 700017
+  },
+  {
+    "id": 311,
+    "groupID": 8,
+    "fateFeatureID": 700027
+  },
+  {
+    "id": 312,
+    "groupID": 8,
+    "fateFeatureID": 700038
+  },
+  {
+    "id": 313,
+    "groupID": 8,
+    "fateFeatureID": 700045
+  },
+  {
+    "id": 314,
+    "groupID": 8,
+    "fateFeatureID": 700049
+  },
+  {
+    "id": 315,
+    "groupID": 8,
+    "fateFeatureID": 700062
+  },
+  {
+    "id": 316,
+    "groupID": 8,
+    "fateFeatureID": 700063
+  },
+  {
+    "id": 317,
+    "groupID": 8,
+    "fateFeatureID": 700064
+  },
+  {
+    "id": 318,
+    "groupID": 8,
+    "fateFeatureID": 700066
+  },
+  {
+    "id": 319,
+    "groupID": 8,
+    "fateFeatureID": 700067
+  },
+  {
+    "id": 320,
+    "groupID": 8,
+    "fateFeatureID": 700068
+  },
+  {
+    "id": 321,
+    "groupID": 8,
+    "fateFeatureID": 700069
+  },
+  {
+    "id": 322,
+    "groupID": 8,
+    "fateFeatureID": 700070
+  },
+  {
+    "id": 323,
+    "groupID": 8,
+    "fateFeatureID": 700071
+  },
+  {
+    "id": 324,
+    "groupID": 8,
+    "fateFeatureID": 700072
+  },
+  {
+    "id": 325,
+    "groupID": 8,
+    "fateFeatureID": 700073
+  },
+  {
+    "id": 326,
+    "groupID": 8,
+    "fateFeatureID": 700074
+  },
+  {
+    "id": 327,
+    "groupID": 8,
+    "fateFeatureID": 700080
+  },
+  {
+    "id": 328,
+    "groupID": 8,
+    "fateFeatureID": 700081
+  },
+  {
+    "id": 329,
+    "groupID": 8,
+    "fateFeatureID": 700082
+  },
+  {
+    "id": 330,
+    "groupID": 8,
+    "fateFeatureID": 700083
+  },
+  {
+    "id": 331,
+    "groupID": 8,
+    "fateFeatureID": 700084
+  },
+  {
+    "id": 332,
+    "groupID": 8,
+    "fateFeatureID": 700085
+  },
+  {
+    "id": 333,
+    "groupID": 8,
+    "fateFeatureID": 700077
+  },
+  {
+    "id": 334,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 335,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 336,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 337,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 338,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 339,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 340,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 341,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 342,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 343,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 344,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 345,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 346,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 347,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 348,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 349,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 350,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 351,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 352,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 353,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 354,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 355,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 356,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 357,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 358,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 359,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 360,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 361,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 362,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 363,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 364,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 365,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 366,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 367,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 368,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 369,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 370,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 371,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 372,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 373,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 374,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 375,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 376,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 377,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  },
+  {
+    "id": 378,
+    "groupID": -10,
+    "fateFeatureID": 700078
+  }
+]

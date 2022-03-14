@@ -1,0 +1,28 @@
+[
+  {
+    "id": 54640201,
+    "grade": 1,
+    "gender": 4,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_9_1_2000",
+    "characterA": "1|2|3|4",
+    "characterB": "19|12",
+    "dressMan": "10011",
+    "dressWoman": "0",//"10012",
+    "startPos": "around_0_0_0"
+  },
+  {
+    "id": 54640202,
+    "grade": 10,
+    "gender": 4,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_9_1_2000",
+    "characterA": "1|2|3|4",
+    "characterB": "19|12",
+    "dressMan": "10011",
+    "dressWoman": "10012",
+    "startPos": "around_0_0_0"
+  },
+]

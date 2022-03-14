@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "targetTypeId": 1,
+    "areaId": 4,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 625,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400003
+    ],
+    "luckies": [
+      9179
+    ]
+  },
+  {
+    "id": 2,
+    "targetTypeId": 1,
+    "areaId": 6,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 2000,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400004
+    ],
+    "luckies": [
+      9180
+    ]
+  },
+  {
+    "id": 3,
+    "targetTypeId": 1,
+    "areaId": 8,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 6250,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400005
+    ],
+    "luckies": [
+      9181
+    ]
+  },
+  {
+    "id": 4,
+    "targetTypeId": 1,
+    "areaId": 10,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 15000,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400006
+    ],
+    "luckies": [
+      9182
+    ]
+  },
+  {
+    "id": 5,
+    "targetTypeId": 2,
+    "areaId": 4,
+    "rank": 1,
+    "honor": 600,
+    "reputation": 0,
+    "rewardIds": [],
+    "luckies": [
+      9175
+    ]
+  },
+  {
+    "id": 6,
+    "targetTypeId": 2,
+    "areaId": 6,
+    "rank": 1,
+    "honor": 1200,
+    "reputation": 0,
+    "rewardIds": [],
+    "luckies": [
+      9176
+    ]
+  },
+  {
+    "id": 7,
+    "targetTypeId": 2,
+    "areaId": 8,
+    "rank": 1,
+    "honor": 2400,
+    "reputation": 0,
+    "rewardIds": [],
+    "luckies": [
+      9177
+    ]
+  },
+  {
+    "id": 8,
+    "targetTypeId": 2,
+    "areaId": 10,
+    "rank": 1,
+    "honor": 4500,
+    "reputation": 0,
+    "rewardIds": [],
+    "luckies": [
+      9178
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+
+  {//阴阳气
+    "id": 54640301,
+    "type": 1,
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name54640301"
+  },
+  {//坐骑阴阳兽
+    "id": 54640501,
+    "type": 3,
+    "uiLabel": "itemType_zuoqi",
+    "name": "item_type_name54640501"
+  },
+  {//坐骑伴生兽
+    "id": 54640502,
+    "type": 3,
+    "uiLabel": "itemType_zuoqi",
+    "name": "item_type_name54640502"
+  },
+  {//逆天气运
+    "id": 54641701,
+    "type": 1,
+    "uiLabel": "itemType_jiezhi",
+    "name": "item_type_name54641701"
+  },
+]

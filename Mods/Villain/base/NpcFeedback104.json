@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaB",
+    "value": -5
+  },
+  {
+    "id": 3,
+    "key": "closeScorePara",
+    "value": 150
+  },
+  {
+    "id": 4,
+    "key": "hateScorePara",
+    "value": 2000
+  },
+  {
+    "id": 5,
+    "key": "requireScoreParents",
+    "value": 5000
+  },
+  {
+    "id": 6,
+    "key": "requireScoreChildren",
+    "value": 5000
+  },
+  {
+    "id": 7,
+    "key": "requireScoreBrother",
+    "value": 5000
+  },
+  {
+    "id": 8,
+    "key": "requireScoreMaster",
+    "value": 5000
+  },
+  {
+    "id": 9,
+    "key": "requireScoreStudent",
+    "value": 5000
+  },
+  {
+    "id": 10,
+    "key": "requireScoreMarry",
+    "value": 6000
+  },
+  {
+    "id": 11,
+    "key": "requireScoreLover",
+    "value": 4000
+  },
+  {
+    "id": 12,
+    "key": "eventLogFeedback10411211",
+    "value": 0
+  },
+  {
+    "id": 13,
+    "key": "eventLogFeedback10411221",
+    "value": 0
+  },
+  {
+    "id": 14,
+    "key": "eventLogFeedback10411231",
+    "value": 0
+  },
+  {
+    "id": 15,
+    "key": "eventLogFeedback10411311",
+    "value": 0
+  },
+  {
+    "id": 16,
+    "key": "eventLogFeedback10411321",
+    "value": 0
+  },
+  {
+    "id": 17,
+    "key": "closeRequire",
+    "value": 120
+  },
+  {
+    "id": 18,
+    "key": "elitePowerAskRatio",
+    "value": 7000
+  },
+  {
+    "id": 19,
+    "key": "eliteDecValue",
+    "value": -1000
+  },
+  {
+    "id": 20,
+    "key": "schoolCloseRequire",
+    "value": -30
+  },
+  {
+    "id": 21,
+    "key": "schoolRequireScoreMaster",
+    "value": -999999
+  },
+  {
+    "id": 22,
+    "key": "schoolRequireScoreStudent",
+    "value": -999999
+  }
+]

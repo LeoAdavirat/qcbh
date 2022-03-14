@@ -1,0 +1,482 @@
+[
+  {
+    "id": 10,
+    "type": 1,
+    "width": 120,
+    "height": 60,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 11,
+    "type": 1,
+    "width": 48,
+    "height": 29,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 12,
+    "type": 1,
+    "width": 40,
+    "height": 20,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 13,
+    "type": 1,
+    "width": 86,
+    "height": 20,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 14,
+    "type": 2,
+    "width": 85,
+    "height": 43,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 15,
+    "type": 2,
+    "width": 105,
+    "height": 50,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 16,
+    "type": 2,
+    "width": 85,
+    "height": 43,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 17,
+    "type": 2,
+    "width": 100,
+    "height": 40,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 18,
+    "type": 2,
+    "width": 85,
+    "height": 45,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 21,
+    "type": 1,
+    "width": 100,
+    "height": 60,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 23,
+    "type": 1,
+    "width": 40,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "2|3|4"
+  },
+  {
+    "id": 25,
+    "type": 1,
+    "width": 84,
+    "height": 50,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 26,
+    "type": 1,
+    "width": 100,
+    "height": 60,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 27,
+    "type": 1,
+    "width": 45,
+    "height": 25,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 28,
+    "type": 1,
+    "width": 60,
+    "height": 40,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 29,
+    "type": 1,
+    "width": 40,
+    "height": 25,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 30,
+    "type": 1,
+    "width": 40,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 31,
+    "type": 1,
+    "width": 45,
+    "height": 26,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 32,
+    "type": 1,
+    "width": 60,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 33,
+    "type": 1,
+    "width": 60,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 34,
+    "type": 1,
+    "width": 60,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 35,
+    "type": 1,
+    "width": 60,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 36,
+    "type": 1,
+    "width": 59,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 37,
+    "type": 1,
+    "width": 45,
+    "height": 25,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 38,
+    "type": 1,
+    "width": 68,
+    "height": 48,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 39,
+    "type": 1,
+    "width": 50,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 40,
+    "type": 1,
+    "width": 68,
+    "height": 40,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 41,
+    "type": 1,
+    "width": 48,
+    "height": 24,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 42,
+    "type": 2,
+    "width": 60,
+    "height": 35,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "0"
+  },
+  {
+    "id": 101,
+    "type": 1,
+    "width": 40,
+    "height": 20,
+    "weight": 5000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 102,
+    "type": 1,
+    "width": 45,
+    "height": 22,
+    "weight": 3000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 103,
+    "type": 1,
+    "width": 50,
+    "height": 25,
+    "weight": 2000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 701,
+    "type": 2,
+    "width": 48,
+    "height": 29,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 801,
+    "type": 2,
+    "width": 40,
+    "height": 28,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 802,
+    "type": 2,
+    "width": 50,
+    "height": 28,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 1001,
+    "type": 1,
+    "width": 60,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 1002,
+    "type": 1,
+    "width": 40,
+    "height": 30,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 8801,
+    "type": 1,
+    "width": 40,
+    "height": 20,
+    "weight": 10000,
+    "refreshType": 1,
+    "refreshValue": "30_10_5",
+    "transfer": "4"
+  },
+  {
+    "id": 8802,
+    "type": 1,
+    "width": 50,
+    "height": 25,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 20001,
+    "type": 2,
+    "width": 50,
+    "height": 28,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 30001,
+    "type": 1,
+    "width": 40,
+    "height": 20,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 30002,
+    "type": 2,
+    "width": 40,
+    "height": 20,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 30003,
+    "type": 1,
+    "width": 40,
+    "height": 20,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1"
+  },
+  {
+    "id": 30004,
+    "type": 2,
+    "width": 40,
+    "height": 20,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1"
+  },
+  {
+    "id": 30101,
+    "type": 1,
+    "width": 75,
+    "height": 45,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 30102,
+    "type": 1,
+    "width": 100,
+    "height": 60,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 30103,
+    "type": 1,
+    "width": 48,
+    "height": 29,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  },
+  {
+    "id": 30104,
+    "type": 2,
+    "width": 48,
+    "height": 29,
+    "weight": 10000,
+    "refreshType": 0,
+    "refreshValue": "0",
+    "transfer": "1|2|3|4"
+  }
+]

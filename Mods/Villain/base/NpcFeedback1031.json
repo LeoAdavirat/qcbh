@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "key": "closeEnough",
+    "value": 60
+  },
+  {
+    "id": 2,
+    "key": "scoreRequire",
+    "value": 3000
+  },
+  {
+    "id": 3,
+    "key": "elitePowerAskRatio",
+    "value": 7000
+  },
+  {
+    "id": 4,
+    "key": "eliteScoreRequire",
+    "value": -1000
+  }
+]

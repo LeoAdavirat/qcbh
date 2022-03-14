@@ -1,0 +1,1724 @@
+[
+  {
+    "id": 54640101,
+    "key": "item_name54640100",
+    "ch": "Xen lẫn giới chỉ",
+    "tc": "伴生之戒",
+    "en": "Xen lẫn giới chỉ"
+  },
+  {
+    "id": 54640102,
+    "key": "item_desc54640100",
+    "ch": "<r> Làm bạn ngươi sinh trưởng chiếc nhẫn.</r>\n Phòng ngự +10\n Mỗi lần tiêu hao linh thạch lúc, có thể từ linh thạch bên trên hấp thụ 50% Linh khí đến đề thăng tự thân tu vi \n Ăn đan dược lúc 80% Tỉ lệ tại 10 Giây bên trong bài xuất bên ngoài cơ thể, nhặt sau nhưng tăng thêm vào trước mắt đan dược trang bị rãnh \n Trong chiến đấu mỗi đánh giết một địch nhân lúc, có 20% Xác suất rơi xuống một cái linh phách, nhặt nhưng hồi phục 1% Linh lực, cũng -1 Giây tuyệt kỹ thời gian cooldown.\n Trong chiến đấu mỗi đánh giết một địch nhân lúc, có 20% Xác suất rơi xuống một cái tinh phách, nhặt nhưng hồi phục 1% Thể lực, cũng tại 10 Giây bên trong tăng lên 30 Điểm tốc độ di chuyển.",
+    "tc": "玄鐵鑄造的重劍。劍身寬大，不適合用作戰鬥。",
+    "en": "<r> Làm bạn ngươi sinh trưởng chiếc nhẫn.</r>\n Phòng ngự +10\n Mỗi lần tiêu hao linh thạch lúc, có thể từ linh thạch bên trên hấp thụ 50% Linh khí đến đề thăng tự thân tu vi \n Ăn đan dược lúc 80% Tỉ lệ tại 10 Giây bên trong bài xuất bên ngoài cơ thể, nhặt sau nhưng tăng thêm vào trước mắt đan dược trang bị rãnh \n Trong chiến đấu mỗi đánh giết một địch nhân lúc, có 20% Xác suất rơi xuống một cái linh phách, nhặt nhưng hồi phục 1% Linh lực, cũng -1 Giây tuyệt kỹ thời gian cooldown.\n Trong chiến đấu mỗi đánh giết một địch nhân lúc, có 20% Xác suất rơi xuống một cái tinh phách, nhặt nhưng hồi phục 1% Thể lực, cũng tại 10 Giây bên trong tăng lên 30 Điểm tốc độ di chuyển."
+  },
+  {
+    "id": 54640103,
+    "key": "fate54640103",
+    "ch": "Phát động khí vận: <y> Tới lui trống trơn </y>, ăn cắp tất thành!",
+    "tc": "触发气运：<y>来去空空</y>，偷窃必成！",
+    "en": "Phát động khí vận: <y> Tới lui trống trơn </y>, ăn cắp tất thành!"
+  },
+  {
+    "id": 54640104,
+    "key": "fate54640104",
+    "ch": "Phát động khí vận: <y> Đến cùng là ai </y>, ăn cắp thành công không bị phát hiện!",
+    "tc": "触发气运：<y>到底是谁</y>，偷窃成功不被发现！",
+    "en": "Phát động khí vận: <y> Đến cùng là ai </y>, ăn cắp thành công không bị phát hiện!"
+  },
+  {
+    "id": 54640105,
+    "key": "fate54640105",
+    "ch": "Phát động khí vận: <y> Muốn đi cứ đi </y>, chạy trốn tất thành!",
+    "tc": "触发气运：<y>想去便去</y>，逃跑必成！",
+    "en": "Phát động khí vận: <y> Muốn đi cứ đi </y>, chạy trốn tất thành!"
+  },
+  {
+    "id": 54640106,
+    "key": "fate54640106",
+    "ch": "Phát động khí vận: <y> Không lưu đám mây </y>, đối thủ đối ngươi rời đi hảo cảm tăng vọt!",
+    "tc": "触发气运：<y>不留云彩</y>，对手对你的离去好感激增！",
+    "en": "Phát động khí vận: <y> Không lưu đám mây </y>, đối thủ đối ngươi rời đi hảo cảm tăng vọt!"
+  },
+  {
+    "id": 54640107,
+    "key": "fate54640107",
+    "ch": "Phát động khí vận: <y> Vật siêu chỗ giá trị </y> Thu hoạch được {0} Tu vi!",
+    "tc": "觸發氣運：<y>物盡其用</y>獲得{0}修為！",
+    "en": "Phát động khí vận: <y> Vật siêu chỗ giá trị </y> Thu hoạch được {0} Tu vi!"
+  },
+  {
+    "id": 54640109,
+    "key": "fate54640109",
+    "ch": "Phát động khí vận: <y> Thịt bác chi giao </y>, luận bàn chiến thắng về sau, thu hoạch được hảo cảm tăng lên rất nhiều!",
+    "tc": "触发气运：<y>不留云彩</y>，对手对你的离去好感激增！",
+    "en": "Phát động khí vận: <y> Thịt bác chi giao </y>, luận bàn chiến thắng về sau, thu hoạch được hảo cảm tăng lên rất nhiều!"
+  },
+  {
+    "id": 54640201,
+    "key": "role_feature_postnatal_name54640200",
+    "ch": "Âm Dương giới chủ",
+    "tc": "多智似妖",
+    "en": "Âm Dương giới chủ"
+  },
+  {
+    "id": 54640202,
+    "key": "role_feature_postnatal_tips54640200",
+    "ch": "<r>【 Âm Dương giới chủ 】</r>\n<g>〖 Nhân từ 〗</g> <w> Đánh bại đối thủ tăng lên tự thân &54640216_tsgz& Toàn tư chất </w>\n&54640204_tssm& Nguyệt tuổi thọ §&54640201_tstl&&54640202_tsll&&54640203_tsnl&&54640205_tsdd&\n&54640206_tsgj& Công kích &54640207_tsfy& Phòng ngự &54640208_tswm& Vật kháng &54640209_tsmm& Linh kháng \n&54640210_tshx&&54640211_tshx&&54640212_tshx&&54640213_tshx&&54640214_tsys&&54640215_tsjl&\n<g>〖 Văn khúc 〗</g> &54640219_tswx&&54640222_tsdd&\n Học tập không tốn thời gian, tất cả công pháp tu luyện nhanh người 10 Lần \n Đối người khác công pháp đã gặp qua là không quên được, xem thấu đối phương, nhìn càng thêm xa \n Học tập công pháp đề cao công pháp linh căn kỹ nghệ tư chất \n Lãng quên công pháp đề cao &54640223_tstl&&54640224_tsll&&54640225_tsnl&\n Mỗi trang bị một bản tâm pháp đề cao <y>&54640226_tswm&%&54640227_tsmm&%</y>\n<g>〖 Võ Thánh 〗</g> <w> Thấp nhất tổn thương </w>&54640248_zdsh&<w> Hút máu </w><y>&54640235_xdxx&%</y>\n Tới lui tự nhiên hảo cảm tâm đắc tăng nhiều, thần thông khí linh miễn phóng ra điều kiện \n Tăng lên <y>&54640231_speed&%</y> Tốc độ đánh <y>&54640230_range&%</y> Phạm vi <y>&54640232_zjdd&%</y> Số lượng \n Làm lạnh <y>&54640233_jscd&%</y>, Võ Linh kỹ tổn thương đề cao <y>&54640234_zjsh&%</y>\n<p> Miễn dịch khống chế, đối thủ khiếp đảm </p>\n<g>〖 May mắn 〗</g>\n Trộm tất trúng người không biết, đào mộ không giảm tuổi thọ \n Mặt trái khí vận tiếp tục thời gian giảm xuống <y>&54640243_fmqy&%</y>\n Hoàn thành nhiệm vụ ban thưởng gia tăng <y>&54640244_jlzj&%</y>, luyện đan lượng tăng <y>&54640245_clzj&%</y>\n<g>〖 Âm dương 〗</g> <w> Bị người thích </w>\n Song tu có thể đề cao tự thân, thu hoạch được kinh nghiệm đề cao <y>&54640247_battleexp&%</y>.",
+    "tc": "是",
+    "en": "<r>【 Âm Dương giới chủ 】</r>\n<g>〖 Nhân từ 〗</g> <w> Đánh bại đối thủ tăng lên tự thân &54640216_tsgz& Toàn tư chất </w>\n&54640204_tssm& Nguyệt tuổi thọ §&54640201_tstl&&54640202_tsll&&54640203_tsnl&&54640205_tsdd&\n&54640206_tsgj& Công kích &54640207_tsfy& Phòng ngự &54640208_tswm& Vật kháng &54640209_tsmm& Linh kháng \n&54640210_tshx&&54640211_tshx&&54640212_tshx&&54640213_tshx&&54640214_tsys&&54640215_tsjl&\n<g>〖 Văn khúc 〗</g> &54640219_tswx&&54640222_tsdd&\n Học tập không tốn thời gian, tất cả công pháp tu luyện nhanh người 10 Lần \n Đối người khác công pháp đã gặp qua là không quên được, xem thấu đối phương, nhìn càng thêm xa \n Học tập công pháp đề cao công pháp linh căn kỹ nghệ tư chất \n Lãng quên công pháp đề cao &54640223_tstl&&54640224_tsll&&54640225_tsnl&\n Mỗi trang bị một bản tâm pháp đề cao <y>&54640226_tswm&%&54640227_tsmm&%</y>\n<g>〖 Võ Thánh 〗</g> <w> Thấp nhất tổn thương </w>&54640248_zdsh&<w> Hút máu </w><y>&54640235_xdxx&%</y>\n Tới lui tự nhiên hảo cảm tâm đắc tăng nhiều, thần thông khí linh miễn phóng ra điều kiện \n Tăng lên <y>&54640231_speed&%</y> Tốc độ đánh <y>&54640230_range&%</y> Phạm vi <y>&54640232_zjdd&%</y> Số lượng \n Làm lạnh <y>&54640233_jscd&%</y>, Võ Linh kỹ tổn thương đề cao <y>&54640234_zjsh&%</y>\n<p> Miễn dịch khống chế, đối thủ khiếp đảm </p>\n<g>〖 May mắn 〗</g>\n Trộm tất trúng người không biết, đào mộ không giảm tuổi thọ \n Mặt trái khí vận tiếp tục thời gian giảm xuống <y>&54640243_fmqy&%</y>\n Hoàn thành nhiệm vụ ban thưởng gia tăng <y>&54640244_jlzj&%</y>, luyện đan lượng tăng <y>&54640245_clzj&%</y>\n<g>〖 Âm dương 〗</g> <w> Bị người thích </w>\n Song tu có thể đề cao tự thân, thu hoạch được kinh nghiệm đề cao <y>&54640247_battleexp&%</y>."
+  },
+  {
+    "id": 54640203,
+    "key": "role_feature_postnatal_intro54640200",
+    "ch": "Ngươi là bản giới tập thiên địa âm dương sở sinh chúa tể một giới!",
+    "tc": "是",
+    "en": "Ngươi là bản giới tập thiên địa âm dương sở sinh chúa tể một giới!"
+  },
+  {
+    "id": 54640204,
+    "key": "fate54640204",
+    "ch": "Phát động khí vận: <y> Văn khúc </y>, thấy rõ đối phương công pháp",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> Văn khúc </y>, thấy rõ đối phương công pháp"
+  },
+  {
+    "id": 54640205,
+    "key": "fate54640205",
+    "ch": "Phát động khí vận: <y> Văn khúc </y>, công pháp tăng lên đến bản cảnh giới",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> Văn khúc </y>, công pháp tăng lên đến bản cảnh giới"
+  },
+  {
+    "id": 54640206,
+    "key": "fate54640206",
+    "ch": "Phát động khí vận: <y> Võ Thánh </y>, đối phương đối ngươi hảo cảm lên cao",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> Võ Thánh </y>, đối phương đối ngươi hảo cảm lên cao"
+  },
+  {
+    "id": 54640207,
+    "key": "fate54640207",
+    "ch": "Phát động khí vận: <y> Võ Thánh </y>, tới lui tự nhiên",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> Võ Thánh </y>, tới lui tự nhiên"
+  },
+  {
+    "id": 54640208,
+    "key": "fate54640208",
+    "ch": "Phát động khí vận: <y> Võ Thánh </y>, chạy rất đẹp trai, hảo cảm lên cao",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> Võ Thánh </y>, chạy rất đẹp trai, hảo cảm lên cao"
+  },
+  {
+    "id": 54640209,
+    "key": "fate54640209",
+    "ch": "Phát động khí vận: <y> May mắn </y>, trộm tất thành",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> May mắn </y>, trộm tất thành"
+  },
+  {
+    "id": 54640210,
+    "key": "fate54640210",
+    "ch": "Phát động khí vận: <y> May mắn </y>, người không biết",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> May mắn </y>, người không biết"
+  },
+  {
+    "id": 54640211,
+    "key": "fate54640211",
+    "ch": "Phát động khí vận: <y> Võ Thánh </y>, luận bàn ngoài định mức đến {0} Tâm đắc",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> Võ Thánh </y>, luận bàn ngoài định mức đến {0} Tâm đắc"
+  },
+  {
+    "id": 54640212,
+    "key": "fate54640212",
+    "ch": "Phát động khí vận: <y> Âm dương đại pháp </y>, đề cao song tu kinh nghiệm",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> Âm dương đại pháp </y>, đề cao song tu kinh nghiệm"
+  },
+  {
+    "id": 54640213,
+    "key": "fate54640213",
+    "ch": "Phát động khí vận: <y> Âm dương đại pháp </y>, thu hoạch được lễ vật",
+    "tc": "是",
+    "en": "Phát động khí vận: <y> Âm dương đại pháp </y>, thu hoạch được lễ vật"
+  },
+  {
+    "id": 54640214,
+    "key": "effect_name54640201",
+    "ch": "Cầu bại",
+    "tc": "1",
+    "en": "Cầu bại"
+  },
+  {
+    "id": 54640215,
+    "key": "effect_desc54640201",
+    "ch": "<r> Cầu bại </r>\n<p> Bất bại </p>: Mỗi tầng gia tăng &54640255_tsgj&% Công kích ,\n&54640256_tsfy&% Phòng ngự,&54640257_tsys&% Di tốc,\n&54640258_tssh&% Tổn thương \n<p> Bất diệt </p>: Mỗi tầng gia tăng &54640251_tssm&% Sinh mệnh,\n&54640253_tsll&% Linh lực,&54640254_tsnl&% Niệm lực \n<p> Tái sinh </p>: Đi vào phòng hồi phục trạng thái \n Tối cao &54640252_qbcs& Tầng",
+    "tc": "1",
+    "en": "<r> Cầu bại </r>\n<p> Bất bại </p>: Mỗi tầng gia tăng &54640255_tsgj&% Công kích ,\n&54640256_tsfy&% Phòng ngự,&54640257_tsys&% Di tốc,\n&54640258_tssh&% Tổn thương \n<p> Bất diệt </p>: Mỗi tầng gia tăng &54640251_tssm&% Sinh mệnh,\n&54640253_tsll&% Linh lực,&54640254_tsnl&% Niệm lực \n<p> Tái sinh </p>: Đi vào phòng hồi phục trạng thái \n Tối cao &54640252_qbcs& Tầng"
+  },
+  {
+    "id": 54640216,
+    "key": "effect_name54640202",
+    "ch": "Xuyên thủng",
+    "tc": "1",
+    "en": "Xuyên thủng"
+  },
+  {
+    "id": 54640217,
+    "key": "effect_desc54640202",
+    "ch": "<r> Xuyên thủng </r>\n<p> Đánh tan </p>: Mỗi tầng giảm bớt &54640259_jsgj&% Lực công kích \n<p> Khám phá </p>: Mỗi tầng giảm bớt &54640261_jsfy&% Phòng ngự \n<p> Trói buộc </p>: Mỗi tầng giảm bớt &54640262_jsys&% Di tốc \n<p> Phá tâm </p>: Mỗi tầng giảm bớt &54640263_jshx&% Hộ tâm \n Tối cao &54640260_dccs& Tầng",
+    "tc": "1",
+    "en": "<r> Xuyên thủng </r>\n<p> Đánh tan </p>: Mỗi tầng giảm bớt &54640259_jsgj&% Lực công kích \n<p> Khám phá </p>: Mỗi tầng giảm bớt &54640261_jsfy&% Phòng ngự \n<p> Trói buộc </p>: Mỗi tầng giảm bớt &54640262_jsys&% Di tốc \n<p> Phá tâm </p>: Mỗi tầng giảm bớt &54640263_jshx&% Hộ tâm \n Tối cao &54640260_dccs& Tầng"
+  },
+  {
+    "id": 54640218,
+    "key": "effect_name54640238",
+    "ch": "Uy thế",
+    "tc": "1",
+    "en": "Uy thế"
+  },
+  {
+    "id": 54640219,
+    "key": "effect_desc54640238",
+    "ch": "<r> Khiếp đảm </r>\n<p> Tước vũ khí </p>: Giảm bớt <y>&54640264_jsgj&%</y> Lực công kích \n<p> Trói buộc </p>: Giảm bớt <y>&54640265_jsys&%</y> Di tốc",
+    "tc": "1",
+    "en": "<r> Khiếp đảm </r>\n<p> Tước vũ khí </p>: Giảm bớt <y>&54640264_jsgj&%</y> Lực công kích \n<p> Trói buộc </p>: Giảm bớt <y>&54640265_jsys&%</y> Di tốc"
+  },
+  {
+    "id": 54640301,
+    "key": "item_name54640301",
+    "ch": "Nặc ảnh đan",
+    "tc": "匿影菇",
+    "en": "Nặc ảnh đan"
+  },
+  {
+    "id": 54640302,
+    "key": "item_desc54640301",
+    "ch": "\n Sử dụng sau có thể đạt được khí vận: <r> Nặc ảnh </r>\n<g>( Nhưng tại đánh giết tu tiên giả lúc ẩn nấp tự thân khí tức cùng dung mạo, gần như chỉ ở sử dụng tháng đó hữu hiệu.)</g>.",
+    "tc": "传说中神秘的植物，使用可暂时藏踪匿影\n使用后可获得气运：匿影<g>（可在击杀修仙者时隐匿自身气息和容貌，仅在使用当月有效。）</g>。",
+    "en": "\n Sử dụng sau có thể đạt được khí vận: <r> Nặc ảnh </r>\n<g>( Nhưng tại đánh giết tu tiên giả lúc ẩn nấp tự thân khí tức cùng dung mạo, gần như chỉ ở sử dụng tháng đó hữu hiệu.)</g>."
+  },
+  {
+    "id": 54640303,
+    "key": "role_feature_postnatal_name54640303",
+    "ch": "Nặc ảnh",
+    "tc": "匿影",
+    "en": "Nặc ảnh"
+  },
+  {
+    "id": 54640304,
+    "key": "role_feature_postnatal_tips54640303",
+    "ch": "Nhưng tại đánh giết tu tiên giả lúc ẩn nấp tự thân khí tức cùng dung mạo, gần như chỉ ở sử dụng tháng đó hữu hiệu.",
+    "tc": "魅力-1000，可在击杀修仙者时隐匿自身气息和容貌，仅在使用当月有效。。",
+    "en": "Nhưng tại đánh giết tu tiên giả lúc ẩn nấp tự thân khí tức cùng dung mạo, gần như chỉ ở sử dụng tháng đó hữu hiệu."
+  },
+  {
+    "id": 54640305,
+    "key": "drama_dialogue54640301",
+    "ch": "<g>( Ngươi không có tiết lộ một tia khí tức, bởi vậy không người biết được xảy ra chuyện gì.)</g>\n( Ngươi tiếp tục ẩn nấp lấy hành tung lặng yên rời đi nơi đây.)",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "<g>( Ngươi không có tiết lộ một tia khí tức, bởi vậy không người biết được xảy ra chuyện gì.)</g>\n( Ngươi tiếp tục ẩn nấp lấy hành tung lặng yên rời đi nơi đây.)"
+  },
+  {
+    "id": 54640306,
+    "key": "item_name54640302",
+    "ch": "Trọng Cảnh đan lô",
+    "tc": "超级丹爐",
+    "en": "Trọng Cảnh đan lô"
+  },
+  {
+    "id": 54640307,
+    "key": "item_desc54640302",
+    "ch": "Chỉ cần có 5 Điểm luyện dược tư chất liền có thể luyện đan siêu cấp đan lô, đan này lô có được 8 Cái vật liệu rãnh.\n【 Huyền lực 】 Luyện Đan Đan thuốc lúc không cần tiêu hao tinh lực.\n【 Kim cương 】 Vĩnh viễn không nổ lô.\n【 Tuệ ngộ 】 Có thể đạt được ngoài định mức 10000% Đan phương độ thuần thục tăng lên.\n【 Từ không sinh có 】 Chủ động điểm kích sử dụng: Làm tất cả nguyên tố gia tăng 2000 Điểm, tiêu hao 1 Điểm độ bền, mỗi lần luyện đan chỉ có thể sử dụng 5 Lần.",
+    "tc": "用於煉製丹藥的器爐，要求煉丹資質達到400才能使用，此丹爐擁有7個材料槽。\n【玄力】煉丹丹藥時不需要消耗精力。\n【金剛】永不炸爐。",
+    "en": "Chỉ cần có 5 Điểm luyện dược tư chất liền có thể luyện đan siêu cấp đan lô, đan này lô có được 8 Cái vật liệu rãnh.\n【 Huyền lực 】 Luyện Đan Đan thuốc lúc không cần tiêu hao tinh lực.\n【 Kim cương 】 Vĩnh viễn không nổ lô.\n【 Tuệ ngộ 】 Có thể đạt được ngoài định mức 10000% Đan phương độ thuần thục tăng lên.\n【 Từ không sinh có 】 Chủ động điểm kích sử dụng: Làm tất cả nguyên tố gia tăng 2000 Điểm, tiêu hao 1 Điểm độ bền, mỗi lần luyện đan chỉ có thể sử dụng 5 Lần."
+  },
+  {
+    "id": 54640308,
+    "key": "makePillName54640301",
+    "ch": "Huyền lực",
+    "tc": "玄力",
+    "en": "Huyền lực"
+  },
+  {
+    "id": 54640309,
+    "key": "makePillDesc54640301",
+    "ch": "Luyện Đan Đan thuốc lúc không cần tiêu hao tinh lực.",
+    "tc": "煉丹丹藥時不需要消耗精力。",
+    "en": "Luyện Đan Đan thuốc lúc không cần tiêu hao tinh lực."
+  },
+  {
+    "id": 54640310,
+    "key": "makePillName54640302",
+    "ch": "Đan ngộ",
+    "tc": "慧悟",
+    "en": "Đan ngộ"
+  },
+  {
+    "id": 54640311,
+    "key": "makePillDesc54640302",
+    "ch": "Đan phương độ thuần thục ngoài định mức đại lượng tăng lên.",
+    "tc": "可获得额外10000%的丹方熟練度提升。",
+    "en": "Đan phương độ thuần thục ngoài định mức đại lượng tăng lên."
+  },
+  {
+    "id": 54640312,
+    "key": "makePillName54640303",
+    "ch": "Kim cương",
+    "tc": "金剛",
+    "en": "Kim cương"
+  },
+  {
+    "id": 54640313,
+    "key": "makePillDesc54640303",
+    "ch": "Vĩnh viễn không nổ lô.",
+    "tc": "永不炸爐。",
+    "en": "Vĩnh viễn không nổ lô."
+  },
+  {
+    "id": 54640314,
+    "key": "item_name54640303",
+    "ch": "Trúc cơ gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640315,
+    "key": "item_name54640304",
+    "ch": "Kết tinh gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640316,
+    "key": "item_name54640305",
+    "ch": "Kim Đan gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640317,
+    "key": "item_name54640306",
+    "ch": "Cỗ linh gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640318,
+    "key": "item_name54640307",
+    "ch": "Nguyên Anh gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640319,
+    "key": "item_name54640308",
+    "ch": "Hóa Thần gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640320,
+    "key": "item_name54640309",
+    "ch": "Ngộ đạo gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640321,
+    "key": "item_name54640310",
+    "ch": "Vũ hóa gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640322,
+    "key": "item_name54640311",
+    "ch": "Thành tiên gói quà",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640323,
+    "key": "item_desc54640303",
+    "ch": "Mở ra sau khi, có thể đạt được hoàn mỹ đột phá tới nên cảnh giới tất cả vật liệu",
+    "tc": "",
+    "en": ""
+  },
+  {
+    "id": 54640324,
+    "key": "makePillName54640304",
+    "ch": "Từ không sinh có",
+    "tc": "金剛",
+    "en": "Từ không sinh có"
+  },
+  {
+    "id": 54640325,
+    "key": "makePillDesc54640304",
+    "ch": "Chủ động điểm kích sử dụng: Làm tất cả nguyên tố gia tăng 2000 Điểm, tiêu hao 1 Điểm độ bền, mỗi lần luyện đan chỉ có thể sử dụng 5 Lần.",
+    "tc": "永不炸爐。",
+    "en": "Chủ động điểm kích sử dụng: Làm tất cả nguyên tố gia tăng 2000 Điểm, tiêu hao 1 Điểm độ bền, mỗi lần luyện đan chỉ có thể sử dụng 5 Lần."
+  },
+  {
+    "id": 54640326,
+    "key": "item_name54640312",
+    "ch": "Dương tinh",
+    "tc": "金剛",
+    "en": "Dương tinh"
+  },
+  {
+    "id": 54640327,
+    "key": "item_desc54640312",
+    "ch": "Từ trên thân nam nhân hái trở về dương tinh, ăn dùng có thể khôi phục 20% Thể lực linh lực niệm lực, cũng có thể giữ lại tại âm dương đại pháp bên trong sử dụng",
+    "tc": "永不炸爐。",
+    "en": "Từ trên thân nam nhân hái trở về dương tinh, ăn dùng có thể khôi phục 20% Thể lực linh lực niệm lực, cũng có thể giữ lại tại âm dương đại pháp bên trong sử dụng"
+  },
+  {
+    "id": 54640328,
+    "key": "item_name54640313",
+    "ch": "Âm tinh",
+    "tc": "金剛",
+    "en": "Âm tinh"
+  },
+  {
+    "id": 54640329,
+    "key": "item_desc54640313",
+    "ch": "Từ nữ nhân trên người hái trở về âm tinh, ăn dùng có thể khôi phục 20% Thể lực linh lực niệm lực, cũng có thể giữ lại tại âm dương đại pháp bên trong sử dụng",
+    "tc": "永不炸爐。",
+    "en": "Từ nữ nhân trên người hái trở về âm tinh, ăn dùng có thể khôi phục 20% Thể lực linh lực niệm lực, cũng có thể giữ lại tại âm dương đại pháp bên trong sử dụng"
+  },
+  {
+    "id": 54640330,
+    "key": "item_type_name54640301",
+    "ch": "Âm dương khí",
+    "tc": "永不炸爐。",
+    "en": "Âm dương khí"
+  },
+  {
+    "id": 54640331,
+    "key": "tipsText54640331",
+    "ch": "Ngưng kết Trọng Cảnh đan lô cần 20 Cái {#item_name54640313} Hoặc {#item_name54640312}",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "Ngưng kết Trọng Cảnh đan lô cần 20 Cái {#item_name54640313} Hoặc {#item_name54640312}"
+  },
+  {
+    "id": 54640332,
+    "key": "tipsText54640332",
+    "ch": "Ngưng kết ảnh nặc đan cần 50 Cái {#item_name54640313} Hoặc {#item_name54640312}",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "Ngưng kết ảnh nặc đan cần 50 Cái {#item_name54640313} Hoặc {#item_name54640312}"
+  },
+  {
+    "id": 54640333,
+    "key": "tipsText54640333",
+    "ch": "Ngưng kết nghịch thiên khí vận thuốc cần 77 Cái {#item_name54640313} Hoặc {#item_name54640312}",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "Ngưng kết nghịch thiên khí vận thuốc cần 77 Cái {#item_name54640313} Hoặc {#item_name54640312}"
+  },
+  {
+    "id": 54640334,
+    "key": "tipsText54640334",
+    "ch": "Ngưng kết tăng lên cảnh giới vật liệu cần trở xuống số lượng {#item_name54640313} Hoặc {#item_name54640312}",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "Ngưng kết tăng lên cảnh giới vật liệu cần trở xuống số lượng {#item_name54640313} Hoặc {#item_name54640312}"
+  },
+  {
+    "id": 54640401,
+    "key": "drama_option54640401",
+    "ch": "Âm dương song tu",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Âm dương song tu"
+  },
+  {
+    "id": 54640402,
+    "key": "drama_option54640402",
+    "ch": "Giúp ta Cách không thủ vật",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta Cách không thủ vật"
+  },
+  {
+    "id": 54640403,
+    "key": "drama_option54640403",
+    "ch": "Cùng một chỗ hồi phục đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ hồi phục đi"
+  },
+  {
+    "id": 54640404,
+    "key": "drama_option54640404",
+    "ch": "Cùng một chỗ tăng lên mệnh thể linh Niệm Ngộ hạnh kiện đạo đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tăng lên mệnh thể linh Niệm Ngộ hạnh kiện đạo đi"
+  },
+  {
+    "id": 54640405,
+    "key": "drama_option54640405",
+    "ch": "Cùng một chỗ tu luyện công thủ đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện công thủ đi"
+  },
+  {
+    "id": 54640406,
+    "key": "drama_option54640406",
+    "ch": "Cùng một chỗ tu luyện sẽ hộ tâm đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện sẽ hộ tâm đi"
+  },
+  {
+    "id": 54640407,
+    "key": "drama_option54640407",
+    "ch": "Cùng một chỗ tu luyện song bạo đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện song bạo đi"
+  },
+  {
+    "id": 54640408,
+    "key": "drama_option54640408",
+    "ch": "Cùng một chỗ tu luyện linh công kháng tính đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện linh công kháng tính đi"
+  },
+  {
+    "id": 54640409,
+    "key": "drama_option54640409",
+    "ch": "Cùng một chỗ tu luyện cước lực di tốc đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện cước lực di tốc đi"
+  },
+  {
+    "id": 54640410,
+    "key": "drama_option54640410",
+    "ch": "Cùng một chỗ tu luyện công pháp tư chất đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện công pháp tư chất đi"
+  },
+  {
+    "id": 54640411,
+    "key": "drama_option54640411",
+    "ch": "Cùng một chỗ tu luyện linh căn tư chất đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện linh căn tư chất đi"
+  },
+  {
+    "id": 54640412,
+    "key": "drama_option54640412",
+    "ch": "Cùng một chỗ tu luyện kỹ nghệ tư chất đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện kỹ nghệ tư chất đi"
+  },
+  {
+    "id": 54640417,
+    "key": "drama_option54640417",
+    "ch": "Giúp ta hồi phục đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta hồi phục đi"
+  },
+  {
+    "id": 54640418,
+    "key": "drama_option54640418",
+    "ch": "Giúp ta tăng lên mệnh thể linh Niệm Ngộ hạnh kiện đạo đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tăng lên mệnh thể linh Niệm Ngộ hạnh kiện đạo đi"
+  },
+  {
+    "id": 54640419,
+    "key": "drama_option54640419",
+    "ch": "Giúp ta tu luyện công thủ đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện công thủ đi"
+  },
+  {
+    "id": 54640420,
+    "key": "drama_option54640420",
+    "ch": "Giúp ta tu luyện sẽ hộ tâm đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện sẽ hộ tâm đi"
+  },
+  {
+    "id": 54640421,
+    "key": "drama_option54640421",
+    "ch": "Giúp ta tu luyện song bạo đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện song bạo đi"
+  },
+  {
+    "id": 54640422,
+    "key": "drama_option54640422",
+    "ch": "Giúp ta tu luyện linh công kháng tính đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện linh công kháng tính đi"
+  },
+  {
+    "id": 54640423,
+    "key": "drama_option54640423",
+    "ch": "Giúp ta tu luyện cước lực di tốc đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện cước lực di tốc đi"
+  },
+  {
+    "id": 54640424,
+    "key": "drama_option54640424",
+    "ch": "Giúp ta tu luyện công pháp tư chất đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện công pháp tư chất đi"
+  },
+  {
+    "id": 54640425,
+    "key": "drama_option54640425",
+    "ch": "Giúp ta tu luyện linh căn tư chất đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện linh căn tư chất đi"
+  },
+  {
+    "id": 54640426,
+    "key": "drama_option54640426",
+    "ch": "Giúp ta tu luyện kỹ nghệ tư chất đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện kỹ nghệ tư chất đi"
+  },
+  {
+    "id": 54640427,
+    "key": "drama_option54640427",
+    "ch": "Kết thúc",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Kết thúc"
+  },
+  {
+    "id": 54640428,
+    "key": "drama_option54640428",
+    "ch": "Xác định",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Xác định"
+  },
+  {
+    "id": 54640429,
+    "key": "drama_option54640429",
+    "ch": "Trọng Cảnh đan lô (20 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Trọng Cảnh đan lô (20 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640430,
+    "key": "drama_option54640430",
+    "ch": "Nặc ảnh đan (50 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Nặc ảnh đan (50 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640431,
+    "key": "drama_option54640431",
+    "ch": "Nghịch thiên khí vận đan (77 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Nghịch thiên khí vận đan (77 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640432,
+    "key": "drama_option54640432",
+    "ch": "Các cảnh giới vật liệu",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Các cảnh giới vật liệu"
+  },
+  {
+    "id": 54640433,
+    "key": "drama_option54640433",
+    "ch": "Trúc cơ (10 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Trúc cơ (10 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640434,
+    "key": "drama_option54640434",
+    "ch": "Kết tinh (15 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Kết tinh (15 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640435,
+    "key": "drama_option54640435",
+    "ch": "Kim Đan (20 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Kim Đan (20 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640436,
+    "key": "drama_option54640436",
+    "ch": "Cỗ linh (25 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cỗ linh (25 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640437,
+    "key": "drama_option54640437",
+    "ch": "Nguyên Anh (30 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Nguyên Anh (30 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640438,
+    "key": "drama_option54640438",
+    "ch": "Hóa Thần (35 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Hóa Thần (35 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640439,
+    "key": "drama_option54640439",
+    "ch": "Ngộ đạo (40 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Ngộ đạo (40 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640440,
+    "key": "drama_option54640440",
+    "ch": "Vũ hóa (45 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Vũ hóa (45 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640441,
+    "key": "drama_option54640441",
+    "ch": "Thành tiên (50 Cái âm hiểm khí )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Thành tiên (50 Cái âm hiểm khí )"
+  },
+  {
+    "id": 54640442,
+    "key": "drama_option54640442",
+    "ch": "Trang kế tiếp",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Trang kế tiếp"
+  },
+  {
+    "id": 54640443,
+    "key": "drama_option54640443",
+    "ch": "Trang trước",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Trang trước"
+  },
+  {
+    "id": 54640444,
+    "key": "drama_option54640444",
+    "ch": "Học tập công pháp ( Đầy thân mật )",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Học tập công pháp ( Đầy thân mật )"
+  },
+  {
+    "id": 54640413,
+    "key": "drama_option54640413",
+    "ch": "Ngươi cho rằng đầy đủ sao......",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Ngươi cho rằng đầy đủ sao......"
+  },
+  {
+    "id": 54640414,
+    "key": "drama_option54640414",
+    "ch": "Tùy ý đùa bỡn! Sung sướng thoải mái!",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Tùy ý đùa bỡn! Sung sướng thoải mái!"
+  },
+  {
+    "id": 54640415,
+    "key": "drama_option54640415",
+    "ch": "Cùng một chỗ tu luyện",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cùng một chỗ tu luyện"
+  },
+  {
+    "id": 54640416,
+    "key": "drama_option54640416",
+    "ch": "Giúp ta tu luyện",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta tu luyện"
+  },
+  {
+    "id": 54640445,
+    "key": "drama_option54640445",
+    "ch": "Cưỡng ép thải bổ! Sung sướng thoải mái!",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cưỡng ép thải bổ! Sung sướng thoải mái!"
+  },
+  {
+    "id": 54640446,
+    "key": "drama_option54640446",
+    "ch": "Công kích loại",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Công kích loại"
+  },
+  {
+    "id": 54640447,
+    "key": "drama_option54640447",
+    "ch": "Công kích",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Công kích"
+  },
+  {
+    "id": 54640448,
+    "key": "drama_option54640448",
+    "ch": "Hiểu ý",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Hiểu ý"
+  },
+  {
+    "id": 54640449,
+    "key": "drama_option54640449",
+    "ch": "Bạo kích bội suất",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Bạo kích bội suất"
+  },
+  {
+    "id": 54640450,
+    "key": "drama_option54640450",
+    "ch": "Phòng ngự loại",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Phòng ngự loại"
+  },
+  {
+    "id": 54640451,
+    "key": "drama_option54640451",
+    "ch": "Lực phòng ngự",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Lực phòng ngự"
+  },
+  {
+    "id": 54640452,
+    "key": "drama_option54640452",
+    "ch": "Công pháp kháng tính",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Công pháp kháng tính"
+  },
+  {
+    "id": 54640453,
+    "key": "drama_option54640453",
+    "ch": "Linh căn kháng tính",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Linh căn kháng tính"
+  },
+  {
+    "id": 54640454,
+    "key": "drama_option54640454",
+    "ch": "Hộ tâm",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Hộ tâm"
+  },
+  {
+    "id": 54640455,
+    "key": "drama_option54640455",
+    "ch": "Kháng bạo bội suất",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Kháng bạo bội suất"
+  },
+  {
+    "id": 54640456,
+    "key": "drama_option54640456",
+    "ch": "Di động loại",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Di động loại"
+  },
+  {
+    "id": 54640457,
+    "key": "drama_option54640457",
+    "ch": "Cước lực",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Cước lực"
+  },
+  {
+    "id": 54640458,
+    "key": "drama_option54640458",
+    "ch": "Di tốc",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Di tốc"
+  },
+  {
+    "id": 54640459,
+    "key": "drama_option54640459",
+    "ch": "Công pháp tư chất",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Công pháp tư chất"
+  },
+  {
+    "id": 54640460,
+    "key": "drama_option54640460",
+    "ch": "Linh căn tư chất",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Linh căn tư chất"
+  },
+  {
+    "id": 54640461,
+    "key": "drama_option54640461",
+    "ch": "Kỹ nghệ tư chất",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Kỹ nghệ tư chất"
+  },
+  {
+    "id": 54640462,
+    "key": "drama_option54640462",
+    "ch": "Lựa chọn công pháp",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Lựa chọn công pháp"
+  },
+  {
+    "id": 54640463,
+    "key": "drama_option54640463",
+    "ch": "Không thể",
+    "tc": "不可以",
+    "en": "Không thể"
+  },
+  {
+    "id": 54640464,
+    "key": "drama_option54640464",
+    "ch": "Âm dương thú",
+    "tc": "不可以",
+    "en": "Âm dương thú"
+  },
+  {
+    "id": 54640465,
+    "key": "tipsText54640464",
+    "ch": "{#item_name54640502} Hình như có dị thường, đến cùng thế nào?",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "{#item_name54640502} Hình như có dị thường, đến cùng thế nào?"
+  },
+  {
+    "id": 54640466,
+    "key": "drama_option54640465",
+    "ch": "Hảo hảo sướng rồi một thanh",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "Hảo hảo sướng rồi một thanh"
+  },
+  {
+    "id": 54640467,
+    "key": "drama_option54640466",
+    "ch": "Rời đi",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "Rời đi"
+  },
+  {
+    "id": 54640468,
+    "key": "drama_option54640467",
+    "ch": "Hảo hảo thải bổ một thanh",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "Hảo hảo thải bổ một thanh"
+  },
+  {
+    "id": 54640469,
+    "key": "drama_option54640468",
+    "ch": "Rời đi",
+    "tc": "修復陣法需要20個{#item_name5021032}",
+    "en": "Rời đi"
+  },
+  {
+    "id": 54640501,
+    "key": "item_name54640501",
+    "ch": "Âm dương chi thú",
+    "tc": "伴生之戒",
+    "en": "Âm dương chi thú"
+  },
+  {
+    "id": 54640502,
+    "key": "item_desc54640501",
+    "ch": "<r> Âm Dương giới chủ vật cưỡi chuyên dụng </r>\n Vốn là đi theo ngươi lớn lên chỉ có chạy nhanh cái này ưu điểm xen lẫn thú.\n Tại ngươi lĩnh ngộ <p> Đạo âm dương </p> Sau thành công lột xác thành âm dương thú.\n Các phương diện đều có tiến bộ lớn!",
+    "tc": "玄鐵鑄造的重劍。劍身寬大，不適合用作戰鬥。",
+    "en": "<r> Âm Dương giới chủ vật cưỡi chuyên dụng </r>\n Vốn là đi theo ngươi lớn lên chỉ có chạy nhanh cái này ưu điểm xen lẫn thú.\n Tại ngươi lĩnh ngộ <p> Đạo âm dương </p> Sau thành công lột xác thành âm dương thú.\n Các phương diện đều có tiến bộ lớn!"
+  },
+  {
+    "id": 54640503,
+    "key": "item_type_name54640501",
+    "ch": "Âm dương chi thú",
+    "tc": "伴生之戒",
+    "en": "Âm dương chi thú"
+  },
+  {
+    "id": 54640504,
+    "key": "item_name54640502",
+    "ch": "Xen lẫn chi thú",
+    "tc": "伴生之戒",
+    "en": "Xen lẫn chi thú"
+  },
+  {
+    "id": 54640505,
+    "key": "item_desc54640502",
+    "ch": "<r> Làm bạn ngươi xuất sinh trưởng thành xen lẫn thú </r>\n Chỉ có chạy nhanh cái này ưu điểm.\n Hoặc là tại ngươi lĩnh ngộ ngươi đạo về sau sẽ có trưởng thành.",
+    "tc": "玄鐵鑄造的重劍。劍身寬大，不適合用作戰鬥。",
+    "en": "<r> Làm bạn ngươi xuất sinh trưởng thành xen lẫn thú </r>\n Chỉ có chạy nhanh cái này ưu điểm.\n Hoặc là tại ngươi lĩnh ngộ ngươi đạo về sau sẽ có trưởng thành."
+  },
+  {
+    "id": 54640506,
+    "key": "item_type_name54640502",
+    "ch": "Xen lẫn chi thú",
+    "tc": "伴生之戒",
+    "en": "Xen lẫn chi thú"
+  },
+  {
+    "id": 54641701,
+    "key": "item_name54641701",
+    "ch": "Yêu thuật tinh thông",
+    "tc": "伴生之戒",
+    "en": "Yêu thuật tinh thông"
+  },
+  {
+    "id": 54641702,
+    "key": "item_desc54641701",
+    "ch": "<r> Nghịch thiên khí vận · Yêu thuật tinh thông </r>\n Công kích của ngươi rót vào đáng sợ yêu thuật chi lực, tại công kích thường có &700003_bxgl&% Xác suất đem mục tiêu cùng với địch nhân ở chung quanh toàn bộ biến hình thành phẫn nộ gà con ( Không phân địch ta công kích phụ cận đơn vị ), tiếp tục &700003_cxsj& Giây.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Yêu thuật tinh thông </r>\n Công kích của ngươi rót vào đáng sợ yêu thuật chi lực, tại công kích thường có &700003_bxgl&% Xác suất đem mục tiêu cùng với địch nhân ở chung quanh toàn bộ biến hình thành phẫn nộ gà con ( Không phân địch ta công kích phụ cận đơn vị ), tiếp tục &700003_cxsj& Giây."
+  },
+  {
+    "id": 54641703,
+    "key": "item_name54641702",
+    "ch": "Hoa cúc tàn",
+    "tc": "伴生之戒",
+    "en": "Hoa cúc tàn"
+  },
+  {
+    "id": 54641704,
+    "key": "item_desc54641702",
+    "ch": "<r> Nghịch thiên khí vận · Hoa cúc tàn </r>\n Cái mông của ngươi đã đã mất đi tri giác, ngược lại trở nên đao thương bất nhập, nóng lạnh bất xâm, trong chiến đấu tốc độ di chuyển tăng lên &700006_tsys&%, nhận đến từ mặt sau tổn thương &700006_bmsh&%, còn có &700006_phgl&% Xác suất hướng tổn thương nơi phát ra phun ra một đạo càng thô càng dài báo thù hỏa diễm.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Hoa cúc tàn </r>\n Cái mông của ngươi đã đã mất đi tri giác, ngược lại trở nên đao thương bất nhập, nóng lạnh bất xâm, trong chiến đấu tốc độ di chuyển tăng lên &700006_tsys&%, nhận đến từ mặt sau tổn thương &700006_bmsh&%, còn có &700006_phgl&% Xác suất hướng tổn thương nơi phát ra phun ra một đạo càng thô càng dài báo thù hỏa diễm."
+  },
+  {
+    "id": 54641705,
+    "key": "item_name54641703",
+    "ch": "Nhỏ cùng cái rắm rồng",
+    "tc": "伴生之戒",
+    "en": "Nhỏ cùng cái rắm rồng"
+  },
+  {
+    "id": 54641706,
+    "key": "item_desc54641703",
+    "ch": "<r> Nghịch thiên khí vận · Nhỏ cùng cái rắm rồng </r>\n Ngươi theo đuôi giống như bay lên! Nó sẽ trong chiến đấu trợ giúp ngươi công kích địch nhân. Nó phi thường dính người, nếu như ngươi sử dụng đột tiến hoặc lấp lóe loại kỹ năng đột nhiên chuyển vị sau, nó lại bởi vì đuổi không kịp ngươi mà trở nên táo bạo, tăng lên trên diện rộng tần suất công kích cùng tổn thương, tiếp tục &700126_cxsj& Giây, nhiều lần phát động lúc tiếp tục thời gian nhưng tính gộp lại.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Nhỏ cùng cái rắm rồng </r>\n Ngươi theo đuôi giống như bay lên! Nó sẽ trong chiến đấu trợ giúp ngươi công kích địch nhân. Nó phi thường dính người, nếu như ngươi sử dụng đột tiến hoặc lấp lóe loại kỹ năng đột nhiên chuyển vị sau, nó lại bởi vì đuổi không kịp ngươi mà trở nên táo bạo, tăng lên trên diện rộng tần suất công kích cùng tổn thương, tiếp tục &700126_cxsj& Giây, nhiều lần phát động lúc tiếp tục thời gian nhưng tính gộp lại."
+  },
+  {
+    "id": 54641707,
+    "key": "item_name54641704",
+    "ch": "Đại bảo thuẫn",
+    "tc": "伴生之戒",
+    "en": "Đại bảo thuẫn"
+  },
+  {
+    "id": 54641708,
+    "key": "item_desc54641704",
+    "ch": "<r> Nghịch thiên khí vận · Đại bảo thuẫn </r>\n Cái thuẫn của ngươi phát ra sóng chấn động càng lớn, có thể đem địch nhân đánh lui, cùng làm tạo thành tổn thương &700012_jdsh&%, tiếp tục &700012_jdsj& Giây.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Đại bảo thuẫn </r>\n Cái thuẫn của ngươi phát ra sóng chấn động càng lớn, có thể đem địch nhân đánh lui, cùng làm tạo thành tổn thương &700012_jdsh&%, tiếp tục &700012_jdsj& Giây."
+  },
+  {
+    "id": 54641709,
+    "key": "item_name54641705",
+    "ch": "Lớn Lý Phi kiếm",
+    "tc": "伴生之戒",
+    "en": "Lớn Lý Phi kiếm"
+  },
+  {
+    "id": 54641710,
+    "key": "item_desc54641705",
+    "ch": "<r> Nghịch thiên khí vận · Lớn Lý Phi kiếm </r>\n Phi kiếm mỗi công kích &700015_fjcs& Lần, sẽ phóng thích một lần vạn kiếm ra khỏi vỏ, hướng bốn phía tề xạ đại lượng phi kiếm, đối với địch nhân tạo thành tổn thương cùng ngẫu nhiên hiệu quả.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Lớn Lý Phi kiếm </r>\n Phi kiếm mỗi công kích &700015_fjcs& Lần, sẽ phóng thích một lần vạn kiếm ra khỏi vỏ, hướng bốn phía tề xạ đại lượng phi kiếm, đối với địch nhân tạo thành tổn thương cùng ngẫu nhiên hiệu quả."
+  },
+  {
+    "id": 54641711,
+    "key": "item_name54641706",
+    "ch": "Hỏa lực bắn ra bốn phía",
+    "tc": "伴生之戒",
+    "en": "Hỏa lực bắn ra bốn phía"
+  },
+  {
+    "id": 54641712,
+    "key": "item_desc54641706",
+    "ch": "<r> Nghịch thiên khí vận · Hỏa lực bắn ra bốn phía </r>\n Ngươi tại công kích lúc, có &700016_fsgl&% Xác suất hướng ngẫu nhiên một địch nhân bắn ra một viên hỏa cầu, tạo thành uy lực &700016_hqwl& $s_huo$ Tổn thương.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Hỏa lực bắn ra bốn phía </r>\n Ngươi tại công kích lúc, có &700016_fsgl&% Xác suất hướng ngẫu nhiên một địch nhân bắn ra một viên hỏa cầu, tạo thành uy lực &700016_hqwl& $s_huo$ Tổn thương."
+  },
+  {
+    "id": 54641713,
+    "key": "item_name54641707",
+    "ch": "Sức nước bắn ra bốn phía",
+    "tc": "伴生之戒",
+    "en": "Sức nước bắn ra bốn phía"
+  },
+  {
+    "id": 54641714,
+    "key": "item_desc54641707",
+    "ch": "<r> Nghịch thiên khí vận · Sức nước bắn ra bốn phía </r>\n Ngươi tại công kích lúc, có &700017_fsgl&% Xác suất hướng ngẫu nhiên một địch nhân tiếp tục phát xạ cột nước &700017_szsj& Giây, tạo thành uy lực &700017_szwl&/ Giây $s_shui$ Tổn thương.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Sức nước bắn ra bốn phía </r>\n Ngươi tại công kích lúc, có &700017_fsgl&% Xác suất hướng ngẫu nhiên một địch nhân tiếp tục phát xạ cột nước &700017_szsj& Giây, tạo thành uy lực &700017_szwl&/ Giây $s_shui$ Tổn thương."
+  },
+  {
+    "id": 54641715,
+    "key": "item_name54641708",
+    "ch": "Quỷ tu tinh thông",
+    "tc": "伴生之戒",
+    "en": "Quỷ tu tinh thông"
+  },
+  {
+    "id": 54641716,
+    "key": "item_desc54641708",
+    "ch": "<r> Nghịch thiên khí vận · Quỷ tu tinh thông </r>\n Ngươi giết chết địch nhân lúc, có &700024_zhgl&% Xác suất sẽ đem phục sinh thành ngươi $s_wangling1$ Hoặc $s_wangling2$ Hoặc $s_wangling3$( Trên trận nhiều nhất tồn tại &700024_zhsx& Cái ).",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Quỷ tu tinh thông </r>\n Ngươi giết chết địch nhân lúc, có &700024_zhgl&% Xác suất sẽ đem phục sinh thành ngươi $s_wangling1$ Hoặc $s_wangling2$ Hoặc $s_wangling3$( Trên trận nhiều nhất tồn tại &700024_zhsx& Cái )."
+  },
+  {
+    "id": 54641717,
+    "key": "item_name54641709",
+    "ch": "Khăn vàng Thiên Sư",
+    "tc": "伴生之戒",
+    "en": "Khăn vàng Thiên Sư"
+  },
+  {
+    "id": 54641718,
+    "key": "item_desc54641709",
+    "ch": "<r> Nghịch thiên khí vận · Khăn vàng Thiên Sư </r>\n Trong chiến đấu lần đầu sử dụng thần thông lúc, sẽ triệu hồi ra một cái cự đại $s_huangjilishi$ Vì ngươi chiến đấu.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Khăn vàng Thiên Sư </r>\n Trong chiến đấu lần đầu sử dụng thần thông lúc, sẽ triệu hồi ra một cái cự đại $s_huangjilishi$ Vì ngươi chiến đấu."
+  },
+  {
+    "id": 54641719,
+    "key": "item_name54641710",
+    "ch": "Võ thần quyết",
+    "tc": "伴生之戒",
+    "en": "Võ thần quyết"
+  },
+  {
+    "id": 54641720,
+    "key": "item_desc54641710",
+    "ch": "<r> Nghịch thiên khí vận · Võ thần quyết </r>\n Khi tiến vào lúc chiến đấu, ngươi thể lực chỉ lưu lại 10 Điểm cũng đem còn thừa thể lực toàn bộ chuyển hóa thành hộ thuẫn ( Hộ thuẫn chí ít có &700026_zxhd&%), trong quá trình chiến đấu, ngoại trừ giữ lại 10 Một ít thể lực, ngươi khôi phục tất cả thể lực đều sẽ tiếp tục chuyển hóa thành hộ thuẫn; Tại kết thúc chiến đấu lúc, sẽ đem chưa tiêu hao tổn hộ thuẫn chuyển đổi về thể lực.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Võ thần quyết </r>\n Khi tiến vào lúc chiến đấu, ngươi thể lực chỉ lưu lại 10 Điểm cũng đem còn thừa thể lực toàn bộ chuyển hóa thành hộ thuẫn ( Hộ thuẫn chí ít có &700026_zxhd&%), trong quá trình chiến đấu, ngoại trừ giữ lại 10 Một ít thể lực, ngươi khôi phục tất cả thể lực đều sẽ tiếp tục chuyển hóa thành hộ thuẫn; Tại kết thúc chiến đấu lúc, sẽ đem chưa tiêu hao tổn hộ thuẫn chuyển đổi về thể lực."
+  },
+  {
+    "id": 54641721,
+    "key": "item_name54641711",
+    "ch": "Thanh Đế di ghi chép",
+    "tc": "伴生之戒",
+    "en": "Thanh Đế di ghi chép"
+  },
+  {
+    "id": 54641722,
+    "key": "item_desc54641711",
+    "ch": "<r> Nghịch thiên khí vận · Thanh Đế di ghi chép </r>\n Chiến đấu bên trong, làm ngươi tiến vào sắp chết trạng thái lúc, sẽ huyễn hóa thành &700027_hysl& Chỉ $s_huayao$, tại chiến đấu kết thúc lúc, có bất kỳ một con $s_huayao$ Sống sót, ngươi sẽ phục sinh.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Thanh Đế di ghi chép </r>\n Chiến đấu bên trong, làm ngươi tiến vào sắp chết trạng thái lúc, sẽ huyễn hóa thành &700027_hysl& Chỉ $s_huayao$, tại chiến đấu kết thúc lúc, có bất kỳ một con $s_huayao$ Sống sót, ngươi sẽ phục sinh."
+  },
+  {
+    "id": 54641723,
+    "key": "item_name54641712",
+    "ch": "Máu yểm đại pháp",
+    "tc": "伴生之戒",
+    "en": "Máu yểm đại pháp"
+  },
+  {
+    "id": 54641724,
+    "key": "item_desc54641712",
+    "ch": "<r> Nghịch thiên khí vận · Máu yểm đại pháp </r>\n Ngươi đối phạm vi &700056_xxjl& Trong vòng địch nhân tạo thành tổn thương lúc, nhưng hút máu &700056_xxbl&%.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Máu yểm đại pháp </r>\n Ngươi đối phạm vi &700056_xxjl& Trong vòng địch nhân tạo thành tổn thương lúc, nhưng hút máu &700056_xxbl&%."
+  },
+  {
+    "id": 54641725,
+    "key": "item_name54641713",
+    "ch": "Điên dại chiến ý",
+    "tc": "伴生之戒",
+    "en": "Điên dại chiến ý"
+  },
+  {
+    "id": 54641726,
+    "key": "item_desc54641713",
+    "ch": "<r> Nghịch thiên khí vận · Điên dại chiến ý </r>\n Làm ngươi thể lực thấp hơn &700029_xllj&% Lúc, ngươi sẽ biến thành chiến đấu điên dại ( Nhận tổn thương &700029_jdsh&%, tạo thành tổn thương &700029_tssh&%, nhưng là sẽ điên cuồng truy tung địch nhân, không bị khống chế ).",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Điên dại chiến ý </r>\n Làm ngươi thể lực thấp hơn &700029_xllj&% Lúc, ngươi sẽ biến thành chiến đấu điên dại ( Nhận tổn thương &700029_jdsh&%, tạo thành tổn thương &700029_tssh&%, nhưng là sẽ điên cuồng truy tung địch nhân, không bị khống chế )."
+  },
+  {
+    "id": 54641727,
+    "key": "item_name54641714",
+    "ch": "Trước thụ sau công",
+    "tc": "伴生之戒",
+    "en": "Trước thụ sau công"
+  },
+  {
+    "id": 54641728,
+    "key": "item_desc54641714",
+    "ch": "<r> Nghịch thiên khí vận · Trước thụ sau công </r>\n Chiến đấu bên trong, ngươi mỗi tích lũy nhận &700033_ljsh&% Tổn thương, tại bổn tràng chiến đấu bên trong có thể tăng lên tự thân &700033_tssh&% Tổn thương, cao nhất có thể tăng lên &700033_tssh|x100|f0&% Tổn thương.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Trước thụ sau công </r>\n Chiến đấu bên trong, ngươi mỗi tích lũy nhận &700033_ljsh&% Tổn thương, tại bổn tràng chiến đấu bên trong có thể tăng lên tự thân &700033_tssh&% Tổn thương, cao nhất có thể tăng lên &700033_tssh|x100|f0&% Tổn thương."
+  },
+  {
+    "id": 54641729,
+    "key": "item_name54641715",
+    "ch": "Công pháp sở trường",
+    "tc": "伴生之戒",
+    "en": "Công pháp sở trường"
+  },
+  {
+    "id": 54641730,
+    "key": "item_desc54641715",
+    "ch": "<r> Nghịch thiên khí vận · Công pháp sở trường </r>\n Sử dụng quyền / Chưởng / Chỉ / Đao / Kiếm / Thương công pháp thần thông không cần đạt thành thi triển điều kiện.( Đối cần dẫn bạo trên trận đặc thù đơn vị thần thông chỉ giải trừ thi triển điều kiện hạn chế, sẽ không tự động tạo ra đặc thù đơn vị )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Công pháp sở trường </r>\n Sử dụng quyền / Chưởng / Chỉ / Đao / Kiếm / Thương công pháp thần thông không cần đạt thành thi triển điều kiện.( Đối cần dẫn bạo trên trận đặc thù đơn vị thần thông chỉ giải trừ thi triển điều kiện hạn chế, sẽ không tự động tạo ra đặc thù đơn vị )"
+  },
+  {
+    "id": 54641731,
+    "key": "item_name54641716",
+    "ch": "Linh căn sở trường",
+    "tc": "伴生之戒",
+    "en": "Linh căn sở trường"
+  },
+  {
+    "id": 54641732,
+    "key": "item_desc54641716",
+    "ch": "<r> Nghịch thiên khí vận · Linh căn sở trường </r>\n Sử dụng gió / Lôi / Thổ / Lửa / Nước / Mộc thuộc tính thần thông không cần đạt thành thi triển điều kiện.( Đối cần dẫn bạo trên trận đặc thù đơn vị thần thông chỉ giải trừ thi triển điều kiện hạn chế, sẽ không tự động tạo ra đặc thù đơn vị )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Linh căn sở trường </r>\n Sử dụng gió / Lôi / Thổ / Lửa / Nước / Mộc thuộc tính thần thông không cần đạt thành thi triển điều kiện.( Đối cần dẫn bạo trên trận đặc thù đơn vị thần thông chỉ giải trừ thi triển điều kiện hạn chế, sẽ không tự động tạo ra đặc thù đơn vị )"
+  },
+  {
+    "id": 54641733,
+    "key": "item_name54641717",
+    "ch": "Hồng trần Kiếm Hồn",
+    "tc": "伴生之戒",
+    "en": "Hồng trần Kiếm Hồn"
+  },
+  {
+    "id": 54641734,
+    "key": "item_desc54641717",
+    "ch": "<r> Nghịch thiên khí vận · Hồng trần Kiếm Hồn </r>\n Chiến đấu bên trong, làm ngươi tạo thành &700057_xqcs& Lần tổn thương sau, lần tiếp theo thi triển thần thông lúc, có thể triệu hoán ra hồng trần hộp kiếm, phát xạ &700057_jjsl& Đạo kiếm ảnh, tự động công kích trên trận địch nhân, tiếp tục &700057_jjsj& Giây.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Hồng trần Kiếm Hồn </r>\n Chiến đấu bên trong, làm ngươi tạo thành &700057_xqcs& Lần tổn thương sau, lần tiếp theo thi triển thần thông lúc, có thể triệu hoán ra hồng trần hộp kiếm, phát xạ &700057_jjsl& Đạo kiếm ảnh, tự động công kích trên trận địch nhân, tiếp tục &700057_jjsj& Giây.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )"
+  },
+  {
+    "id": 54641735,
+    "key": "item_name54641718",
+    "ch": "Quy nhất chân quyết",
+    "tc": "伴生之戒",
+    "en": "Quy nhất chân quyết"
+  },
+  {
+    "id": 54641736,
+    "key": "item_desc54641718",
+    "ch": "<r> Nghịch thiên khí vận · Quy nhất chân quyết </r>\n Chiến đấu bên trong, làm ngươi nhận lấy &700058_xqcs& Lần tổn thương sau, lần tiếp theo thi triển thần thông lúc, nhưng tạo ra một cái vòng bảo hộ, làm tự thân nhận tổn thương &700058_jdsh&%, tiếp tục &700058_cxsj& Giây.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Quy nhất chân quyết </r>\n Chiến đấu bên trong, làm ngươi nhận lấy &700058_xqcs& Lần tổn thương sau, lần tiếp theo thi triển thần thông lúc, nhưng tạo ra một cái vòng bảo hộ, làm tự thân nhận tổn thương &700058_jdsh&%, tiếp tục &700058_cxsj& Giây.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )"
+  },
+  {
+    "id": 54641737,
+    "key": "item_name54641719",
+    "ch": "Tinh diệu cửu tiêu",
+    "tc": "伴生之戒",
+    "en": "Tinh diệu cửu tiêu"
+  },
+  {
+    "id": 54641738,
+    "key": "item_desc54641719",
+    "ch": "<r> Nghịch thiên khí vận · Tinh diệu cửu tiêu </r>\n Chiến đấu bên trong, làm ngươi đánh chết &700059_xqsl& Địch nhân sau, lần tiếp theo thi triển thần thông lúc, nhưng sinh ra tinh diệu chi quang, làm phạm vi &700059_shfw& Bên trong địch nhân đâm mù, cũng nhận $s_lei$ Tổn thương, tiếp tục &700059_cxsj& Giây.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Tinh diệu cửu tiêu </r>\n Chiến đấu bên trong, làm ngươi đánh chết &700059_xqsl& Địch nhân sau, lần tiếp theo thi triển thần thông lúc, nhưng sinh ra tinh diệu chi quang, làm phạm vi &700059_shfw& Bên trong địch nhân đâm mù, cũng nhận $s_lei$ Tổn thương, tiếp tục &700059_cxsj& Giây.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )"
+  },
+  {
+    "id": 54641739,
+    "key": "item_name54641720",
+    "ch": "Tứ linh cộng sinh",
+    "tc": "伴生之戒",
+    "en": "Tứ linh cộng sinh"
+  },
+  {
+    "id": 54641740,
+    "key": "item_desc54641720",
+    "ch": "<r> Nghịch thiên khí vận · Tứ linh cộng sinh </r>\n Tại ngươi phóng ra tuyệt kỹ cùng thần thông lúc, có &700061_sfgl&% Xác suất ngoài định mức phóng ra ba lần, ngoài định mức phóng ra kỹ năng, tạo thành tổn thương vì &700061_shbs&%, cần tiêu hao linh lực.( Đối nghịch tục thi pháp loại, chuyển vị loại hoặc là biến thân loại kỹ năng vô hiệu )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Tứ linh cộng sinh </r>\n Tại ngươi phóng ra tuyệt kỹ cùng thần thông lúc, có &700061_sfgl&% Xác suất ngoài định mức phóng ra ba lần, ngoài định mức phóng ra kỹ năng, tạo thành tổn thương vì &700061_shbs&%, cần tiêu hao linh lực.( Đối nghịch tục thi pháp loại, chuyển vị loại hoặc là biến thân loại kỹ năng vô hiệu )"
+  },
+  {
+    "id": 54641741,
+    "key": "item_name54641721",
+    "ch": "Thuẫn Linh tinh thông",
+    "tc": "伴生之戒",
+    "en": "Thuẫn Linh tinh thông"
+  },
+  {
+    "id": 54641742,
+    "key": "item_desc54641721",
+    "ch": "<r> Nghịch thiên khí vận · Thuẫn Linh tinh thông </r>\n Trong chiến đấu sắp gặp tử vong lúc, có thể đạt được một cái &700082_tshd&% Thể lực hộ thuẫn, đồng thời tại &700082_fssj& Giây bên trong, có thể đối địch nhân tạo thành &700082_fsbl&% Phản tổn thương tổn thương. Đương hộ thuẫn trị giá là 0 Lúc lại phát sinh bạo tạc, đối phạm vi &700082_bzfw& Bên trong địch nhân tạo thành uy lực &700082_bzwl& $s_quan$ Tổn thương.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Thuẫn Linh tinh thông </r>\n Trong chiến đấu sắp gặp tử vong lúc, có thể đạt được một cái &700082_tshd&% Thể lực hộ thuẫn, đồng thời tại &700082_fssj& Giây bên trong, có thể đối địch nhân tạo thành &700082_fsbl&% Phản tổn thương tổn thương. Đương hộ thuẫn trị giá là 0 Lúc lại phát sinh bạo tạc, đối phạm vi &700082_bzfw& Bên trong địch nhân tạo thành uy lực &700082_bzwl& $s_quan$ Tổn thương.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )"
+  },
+  {
+    "id": 54641743,
+    "key": "item_name54641722",
+    "ch": "Tiềm năng tinh thông",
+    "tc": "伴生之戒",
+    "en": "Tiềm năng tinh thông"
+  },
+  {
+    "id": 54641744,
+    "key": "item_desc54641722",
+    "ch": "<r> Nghịch thiên khí vận · Tiềm năng tinh thông </r>\n Trong chiến đấu sắp gặp tử vong lúc, lập tức trả lời &700085_hfxl&% Thể lực, đồng thời tốc độ di chuyển tăng lên &700085_tsys&%, tạo thành tổn thương tăng lên &700085_tssh&%, tất cả kỹ năng thời gian cooldown &700085_jdcd&%, tiếp tục &700085_cxsj& Giây.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Tiềm năng tinh thông </r>\n Trong chiến đấu sắp gặp tử vong lúc, lập tức trả lời &700085_hfxl&% Thể lực, đồng thời tốc độ di chuyển tăng lên &700085_tsys&%, tạo thành tổn thương tăng lên &700085_tssh&%, tất cả kỹ năng thời gian cooldown &700085_jdcd&%, tiếp tục &700085_cxsj& Giây.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )"
+  },
+  {
+    "id": 54641745,
+    "key": "item_name54641723",
+    "ch": "Kim Thiền huyết ảnh",
+    "tc": "伴生之戒",
+    "en": "Kim Thiền huyết ảnh"
+  },
+  {
+    "id": 54641746,
+    "key": "item_desc54641723",
+    "ch": "<r> Nghịch thiên khí vận · Kim Thiền huyết ảnh </r>\n Trong chiến đấu sắp gặp tử vong lúc, lập tức chui xuống đất, lại mỗi giây hồi phục &700088_hfxl&% Thể lực, tiếp tục &700088_cxsj& Giây, độn địa lúc lại tại nguyên chỗ triệu hoán một cái huyễn ảnh ( Tạo thành &700088_hysh& Tổn thương, tiếp tục &700088_hysj& Giây, tử vong lúc lại phát sinh bạo tạc, đối phạm vi &700088_bzfw& Địch nhân tạo thành uy lực &700088_bzwl& $s_shui$ Tổn thương ).( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Kim Thiền huyết ảnh </r>\n Trong chiến đấu sắp gặp tử vong lúc, lập tức chui xuống đất, lại mỗi giây hồi phục &700088_hfxl&% Thể lực, tiếp tục &700088_cxsj& Giây, độn địa lúc lại tại nguyên chỗ triệu hoán một cái huyễn ảnh ( Tạo thành &700088_hysh& Tổn thương, tiếp tục &700088_hysj& Giây, tử vong lúc lại phát sinh bạo tạc, đối phạm vi &700088_bzfw& Địch nhân tạo thành uy lực &700088_bzwl& $s_shui$ Tổn thương ).( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )"
+  },
+  {
+    "id": 54641747,
+    "key": "item_name54641724",
+    "ch": "Linh năng thủy triều",
+    "tc": "伴生之戒",
+    "en": "Linh năng thủy triều"
+  },
+  {
+    "id": 54641748,
+    "key": "item_desc54641724",
+    "ch": "<r> Nghịch thiên khí vận · Linh năng thủy triều </r>\n Chiến đấu bên trong, làm ngươi linh lực thấp hơn &700091_ljll&% Lúc, lập tức trả lời &700091_hfll&% Linh lực, cũng đổi mới tất cả kỹ năng thời gian cooldown, ở sau đó &700091_cxsj& Giây bên trong, tất cả kỹ năng thời gian cooldown &700091_jscd&%.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Linh năng thủy triều </r>\n Chiến đấu bên trong, làm ngươi linh lực thấp hơn &700091_ljll&% Lúc, lập tức trả lời &700091_hfll&% Linh lực, cũng đổi mới tất cả kỹ năng thời gian cooldown, ở sau đó &700091_cxsj& Giây bên trong, tất cả kỹ năng thời gian cooldown &700091_jscd&%.( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )"
+  },
+  {
+    "id": 54641749,
+    "key": "item_name54641725",
+    "ch": "Huyết Linh tinh thông",
+    "tc": "伴生之戒",
+    "en": "Huyết Linh tinh thông"
+  },
+  {
+    "id": 54641750,
+    "key": "item_desc54641725",
+    "ch": "<r> Nghịch thiên khí vận · Huyết Linh tinh thông </r>\n Chiến đấu bên trong, làm ngươi linh lực không đủ lúc, nhưng tiêu hao thể lực đến phóng ra kỹ năng, tiêu hao trị số vì linh lực &700094_xhtl& Lần, thông qua tiêu hao thể lực phóng ra kỹ năng, tổn thương có thể tăng lên &700094_tssh&%, thời gian cooldown &700094_jscd&%.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Huyết Linh tinh thông </r>\n Chiến đấu bên trong, làm ngươi linh lực không đủ lúc, nhưng tiêu hao thể lực đến phóng ra kỹ năng, tiêu hao trị số vì linh lực &700094_xhtl& Lần, thông qua tiêu hao thể lực phóng ra kỹ năng, tổn thương có thể tăng lên &700094_tssh&%, thời gian cooldown &700094_jscd&%."
+  },
+  {
+    "id": 54641751,
+    "key": "item_name54641726",
+    "ch": "Kiếm linh tinh thông",
+    "tc": "伴生之戒",
+    "en": "Kiếm linh tinh thông"
+  },
+  {
+    "id": 54641752,
+    "key": "item_desc54641726",
+    "ch": "<r> Nghịch thiên khí vận · Kiếm linh tinh thông </r>\n Chiến đấu bên trong, nhưng phân tán linh lực thao túng một thanh ma kiếm tự động phạm vi công kích &700103_gjfw& Bên trong địch nhân, tạo thành uy lực vì &700103_shwl& Năng khiếu linh căn thuộc tính tổn thương, ma kiếm mỗi lần công kích cần tiêu hao &700103_xhll& Điểm linh lực, đương linh lực không đủ lúc, ma kiếm không cách nào hành động. Mỗi khi ngươi sử dụng kỹ năng tiêu hao 1 Điểm linh lực, nhưng tại &700103_cxsj& Giây bên trong tăng lên &700103_tswl& Điểm MP kiếm tổn thương uy lực. Lại ma kiếm tạo thành tổn thương lúc, nhưng hấp thụ linh lực &700103_xlbl&%.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Kiếm linh tinh thông </r>\n Chiến đấu bên trong, nhưng phân tán linh lực thao túng một thanh ma kiếm tự động phạm vi công kích &700103_gjfw& Bên trong địch nhân, tạo thành uy lực vì &700103_shwl& Năng khiếu linh căn thuộc tính tổn thương, ma kiếm mỗi lần công kích cần tiêu hao &700103_xhll& Điểm linh lực, đương linh lực không đủ lúc, ma kiếm không cách nào hành động. Mỗi khi ngươi sử dụng kỹ năng tiêu hao 1 Điểm linh lực, nhưng tại &700103_cxsj& Giây bên trong tăng lên &700103_tswl& Điểm MP kiếm tổn thương uy lực. Lại ma kiếm tạo thành tổn thương lúc, nhưng hấp thụ linh lực &700103_xlbl&%."
+  },
+  {
+    "id": 54641753,
+    "key": "item_name54641727",
+    "ch": "Huyết tế tinh thông",
+    "tc": "伴生之戒",
+    "en": "Huyết tế tinh thông"
+  },
+  {
+    "id": 54641754,
+    "key": "item_desc54641727",
+    "ch": "<r> Nghịch thiên khí vận · Huyết tế tinh thông </r>\n Chiến đấu bên trong, có thể đốt đốt thể lực ngưng tụ một con huyết trảo, huyết trảo tại &700106_njsj& Giây sau có thể tụ thành, cũng sẽ tại ngươi lần sau lúc công kích thả ra, va chạm đến địch nhân sau nổ tung, đối phạm vi &700106_bzfw& Bên trong địch nhân tạo thành uy lực &700106_bzsh& Năng khiếu công pháp tổn thương, cũng trên mặt đất lưu lại một cái tiếp tục &700106_xzsj& Giây huyết trận, tiếp tục đối với địch nhân tạo thành tổn thương cùng đối tự thân tiến hành hồi phục ( Mỗi giây hồi phục &700106_hftl& Một ít thể lực ). Ngưng tụ huyết trảo mỗi giây cần tiêu hao &700106_xhtl& Một ít thể lực, đương thể lực thấp hơn &700106_ljtl&% Lúc không ngưng tụ.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Huyết tế tinh thông </r>\n Chiến đấu bên trong, có thể đốt đốt thể lực ngưng tụ một con huyết trảo, huyết trảo tại &700106_njsj& Giây sau có thể tụ thành, cũng sẽ tại ngươi lần sau lúc công kích thả ra, va chạm đến địch nhân sau nổ tung, đối phạm vi &700106_bzfw& Bên trong địch nhân tạo thành uy lực &700106_bzsh& Năng khiếu công pháp tổn thương, cũng trên mặt đất lưu lại một cái tiếp tục &700106_xzsj& Giây huyết trận, tiếp tục đối với địch nhân tạo thành tổn thương cùng đối tự thân tiến hành hồi phục ( Mỗi giây hồi phục &700106_hftl& Một ít thể lực ). Ngưng tụ huyết trảo mỗi giây cần tiêu hao &700106_xhtl& Một ít thể lực, đương thể lực thấp hơn &700106_ljtl&% Lúc không ngưng tụ."
+  },
+  {
+    "id": 54641755,
+    "key": "item_name54641728",
+    "ch": "Săn tinh",
+    "tc": "伴生之戒",
+    "en": "Săn tinh"
+  },
+  {
+    "id": 54641756,
+    "key": "item_desc54641728",
+    "ch": "<r> Nghịch thiên khí vận · Săn tinh </r>\n Trong chiến đấu mỗi đánh giết một địch nhân lúc, có &700110_dlgl&% Xác suất rơi xuống một cái tinh phách, nhặt tinh phách nhưng hồi phục &700109_hftl&% Thể lực, cũng tại &700110_cxsj& Giây bên trong tăng lên &700110_tsys& Điểm tốc độ di chuyển.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Săn tinh </r>\n Trong chiến đấu mỗi đánh giết một địch nhân lúc, có &700110_dlgl&% Xác suất rơi xuống một cái tinh phách, nhặt tinh phách nhưng hồi phục &700109_hftl&% Thể lực, cũng tại &700110_cxsj& Giây bên trong tăng lên &700110_tsys& Điểm tốc độ di chuyển."
+  },
+  {
+    "id": 54641757,
+    "key": "item_name54641729",
+    "ch": "Săn linh",
+    "tc": "伴生之戒",
+    "en": "Săn linh"
+  },
+  {
+    "id": 54641758,
+    "key": "item_desc54641729",
+    "ch": "<r> Nghịch thiên khí vận · Săn linh </r>\n Trong chiến đấu mỗi đánh giết một địch nhân lúc, có &700108_dlgl&% Xác suất rơi xuống một cái linh phách, nhặt linh phách nhưng hồi phục &700107_hfll&% Linh lực, cũng giảm bớt &700108_jscd& Giây tuyệt kỹ thời gian cooldown.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Săn linh </r>\n Trong chiến đấu mỗi đánh giết một địch nhân lúc, có &700108_dlgl&% Xác suất rơi xuống một cái linh phách, nhặt linh phách nhưng hồi phục &700107_hfll&% Linh lực, cũng giảm bớt &700108_jscd& Giây tuyệt kỹ thời gian cooldown."
+  },
+  {
+    "id": 54641759,
+    "key": "item_name54641730",
+    "ch": "Linh pháp tinh thông",
+    "tc": "伴生之戒",
+    "en": "Linh pháp tinh thông"
+  },
+  {
+    "id": 54641760,
+    "key": "item_desc54641730",
+    "ch": "<r> Nghịch thiên khí vận · Linh pháp tinh thông </r>\n Linh kỹ tầm bắn tăng lên &700113_tscs&%.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Linh pháp tinh thông </r>\n Linh kỹ tầm bắn tăng lên &700113_tscs&%."
+  },
+  {
+    "id": 54641761,
+    "key": "item_name54641731",
+    "ch": "Võ pháp tinh thông",
+    "tc": "伴生之戒",
+    "en": "Võ pháp tinh thông"
+  },
+  {
+    "id": 54641762,
+    "key": "item_desc54641731",
+    "ch": "<r> Nghịch thiên khí vận · Võ pháp tinh thông </r>\n Võ kỹ thời gian cooldown &700116_jscd&%.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Võ pháp tinh thông </r>\n Võ kỹ thời gian cooldown &700116_jscd&%."
+  },
+  {
+    "id": 54641763,
+    "key": "item_name54641732",
+    "ch": "Lý Tứ gà vương",
+    "tc": "伴生之戒",
+    "en": "Lý Tứ gà vương"
+  },
+  {
+    "id": 54641764,
+    "key": "item_desc54641732",
+    "ch": "<r> Nghịch thiên khí vận · Lý Tứ gà vương </r>\n Làm ngươi trong chiến đấu thể lực thấp hơn &700117_ljtl&% Lúc, có nhất định xác suất sẽ có được người thần bí Lý Tứ xuất thủ tương trợ.\n Làm ngươi trong chiến đấu thể lực thấp hơn &700118_ljtl&% Lúc, có nhất định xác suất sẽ có được gà vương xuất thủ tương trợ.\n( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Lý Tứ gà vương </r>\n Làm ngươi trong chiến đấu thể lực thấp hơn &700117_ljtl&% Lúc, có nhất định xác suất sẽ có được người thần bí Lý Tứ xuất thủ tương trợ.\n Làm ngươi trong chiến đấu thể lực thấp hơn &700118_ljtl&% Lúc, có nhất định xác suất sẽ có được gà vương xuất thủ tương trợ.\n( Mỗi cuộc chiến đấu chỉ có thể phát động một lần )"
+  },
+  {
+    "id": 54641765,
+    "key": "item_name54641733",
+    "ch": "Lôi lực bắn ra bốn phía",
+    "tc": "伴生之戒",
+    "en": "Lôi lực bắn ra bốn phía"
+  },
+  {
+    "id": 54641766,
+    "key": "item_desc54641733",
+    "ch": "<r> Nghịch thiên khí vận · Lôi lực bắn ra bốn phía </r>\n Ngươi tại sử dụng tuyệt kỹ lúc, có &700119_lqgl&% Xác suất triệu hoán &700119_lqsl& Khỏa lôi cầu vờn quanh tự thân, tiếp tục &700119_lqsj& Giây.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Lôi lực bắn ra bốn phía </r>\n Ngươi tại sử dụng tuyệt kỹ lúc, có &700119_lqgl&% Xác suất triệu hoán &700119_lqsl& Khỏa lôi cầu vờn quanh tự thân, tiếp tục &700119_lqsj& Giây."
+  },
+  {
+    "id": 54641767,
+    "key": "item_name54641734",
+    "ch": "Sức gió bắn ra bốn phía",
+    "tc": "伴生之戒",
+    "en": "Sức gió bắn ra bốn phía"
+  },
+  {
+    "id": 54641768,
+    "key": "item_desc54641734",
+    "ch": "<r> Nghịch thiên khí vận · Sức gió bắn ra bốn phía </r>\n Mỗi lần sử dụng phải khóa có &700121_cfgl&% Xác suất tạo ra một cái dẫn dắt quang hoàn, đem phạm vi &700121_qyfw& Bên trong địch nhân hướng tự thân dẫn dắt, tiếp tục &700121_cxsj& Giây.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Sức gió bắn ra bốn phía </r>\n Mỗi lần sử dụng phải khóa có &700121_cfgl&% Xác suất tạo ra một cái dẫn dắt quang hoàn, đem phạm vi &700121_qyfw& Bên trong địch nhân hướng tự thân dẫn dắt, tiếp tục &700121_cxsj& Giây."
+  },
+  {
+    "id": 54641769,
+    "key": "item_name54641735",
+    "ch": "Mộc lực bắn ra bốn phía",
+    "tc": "伴生之戒",
+    "en": "Mộc lực bắn ra bốn phía"
+  },
+  {
+    "id": 54641770,
+    "key": "item_desc54641735",
+    "ch": "<r> Nghịch thiên khí vận · Mộc lực bắn ra bốn phía </r>\n Trong chiến đấu mỗi &700123_zhjg& Giây nhưng tại tự thân phụ cận triệu hoán &700123_dwsl& Chỉ tiểu hoa yêu ( Tiếp tục &700123_cxsj& Giây ).",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Mộc lực bắn ra bốn phía </r>\n Trong chiến đấu mỗi &700123_zhjg& Giây nhưng tại tự thân phụ cận triệu hoán &700123_dwsl& Chỉ tiểu hoa yêu ( Tiếp tục &700123_cxsj& Giây )."
+  },
+  {
+    "id": 54641771,
+    "key": "item_name54641736",
+    "ch": "Huyễn Linh nồi",
+    "tc": "伴生之戒",
+    "en": "Huyễn Linh nồi"
+  },
+  {
+    "id": 54641772,
+    "key": "item_desc54641736",
+    "ch": "<r> Nghịch thiên khí vận · Huyễn Linh nồi </r>\n Luyện đan xác suất thành công tăng lên! Trong chiến đấu tốc độ di chuyển &700130_jdys&%, nhận đến từ mặt sau tổn thương &700130_jssh&%, mỗi &700130_sjjg& Giây có thể hướng trên trận một cái không có nồi phe mình triệu hoán đơn vị phân một cái nồi, bị phân đến nồi triệu hoán vật nhận đến từ mặt sau tổn thương &700130_jssh&%, cũng căn cứ hình thể, thu hoạch được tổn thương tăng lên ( Cỡ nhỏ: &700130_xgsh&%, cỡ trung: &700130_zgsh&%, cỡ lớn: &700130_dgsh&%), tự thân cũng sẽ ở sau đó &700130_cxsj& Giây bên trong thu hoạch được này tổn thương tăng lên hiệu quả.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Huyễn Linh nồi </r>\n Luyện đan xác suất thành công tăng lên! Trong chiến đấu tốc độ di chuyển &700130_jdys&%, nhận đến từ mặt sau tổn thương &700130_jssh&%, mỗi &700130_sjjg& Giây có thể hướng trên trận một cái không có nồi phe mình triệu hoán đơn vị phân một cái nồi, bị phân đến nồi triệu hoán vật nhận đến từ mặt sau tổn thương &700130_jssh&%, cũng căn cứ hình thể, thu hoạch được tổn thương tăng lên ( Cỡ nhỏ: &700130_xgsh&%, cỡ trung: &700130_zgsh&%, cỡ lớn: &700130_dgsh&%), tự thân cũng sẽ ở sau đó &700130_cxsj& Giây bên trong thu hoạch được này tổn thương tăng lên hiệu quả."
+  },
+  {
+    "id": 54641773,
+    "key": "item_name54641737",
+    "ch": "Phấn chấn cổ vũ",
+    "tc": "伴生之戒",
+    "en": "Phấn chấn cổ vũ"
+  },
+  {
+    "id": 54641774,
+    "key": "item_desc54641737",
+    "ch": "<r> Nghịch thiên khí vận · Phấn chấn cổ vũ </r>\n Trong chiến đấu mỗi &700131_csjg& Giây ở đây thân trên lực tối cao vị trí của địch nhân chỗ xuất hiện một mặt tiếp tục &700131_cxsj& Giây trống trận, trống trận mỗi giây sẽ đối địch nhân ở chung quanh tạo thành 7 Lần tổn thương, mỗi lần tổn thương uy lực vì &700131_shwl&, đồng thời làm phạm vi bên trong địch nhân tạo thành tổn thương &700131_jdsh&%.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Phấn chấn cổ vũ </r>\n Trong chiến đấu mỗi &700131_csjg& Giây ở đây thân trên lực tối cao vị trí của địch nhân chỗ xuất hiện một mặt tiếp tục &700131_cxsj& Giây trống trận, trống trận mỗi giây sẽ đối địch nhân ở chung quanh tạo thành 7 Lần tổn thương, mỗi lần tổn thương uy lực vì &700131_shwl&, đồng thời làm phạm vi bên trong địch nhân tạo thành tổn thương &700131_jdsh&%."
+  },
+  {
+    "id": 54641775,
+    "key": "item_name54641738",
+    "ch": "Hóa vật",
+    "tc": "伴生之戒",
+    "en": "Hóa vật"
+  },
+  {
+    "id": 54641776,
+    "key": "item_desc54641738",
+    "ch": "<r> Nghịch thiên khí vận · Hóa vật </r>\n Mỗi trang bị một cái pháp bảo có thể tăng lên &700132_tssx&% Cơ bản nhất lực",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Hóa vật </r>\n Mỗi trang bị một cái pháp bảo có thể tăng lên &700132_tssx&% Cơ bản nhất lực"
+  },
+  {
+    "id": 54641777,
+    "key": "item_name54641739",
+    "ch": "Tùy tâm mà ngự",
+    "tc": "伴生之戒",
+    "en": "Tùy tâm mà ngự"
+  },
+  {
+    "id": 54641778,
+    "key": "item_desc54641739",
+    "ch": "<r> Nghịch thiên khí vận · Tùy tâm mà ngự </r>\n Sử dụng khí linh bản mệnh kỹ năng không cần đạt thành thi triển điều kiện.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Tùy tâm mà ngự </r>\n Sử dụng khí linh bản mệnh kỹ năng không cần đạt thành thi triển điều kiện."
+  },
+  {
+    "id": 54641779,
+    "key": "item_name54641740",
+    "ch": "Thiên địa đồng thọ",
+    "tc": "伴生之戒",
+    "en": "Thiên địa đồng thọ"
+  },
+  {
+    "id": 54641780,
+    "key": "item_desc54641740",
+    "ch": "<r> Nghịch thiên khí vận · Thiên địa đồng thọ </r>\n Sắp gặp tử vong lúc, thu hoạch được vô địch trạng thái tiếp tục &700137_wdsj& Giây, cũng đối toàn trường tất cả địch nhân tạo thành nên địch nhân cơ bản nhất lực &700137_blsh&% Tổn thương. Mỗi cuộc chiến đấu nhiều nhất phát động một lần.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Thiên địa đồng thọ </r>\n Sắp gặp tử vong lúc, thu hoạch được vô địch trạng thái tiếp tục &700137_wdsj& Giây, cũng đối toàn trường tất cả địch nhân tạo thành nên địch nhân cơ bản nhất lực &700137_blsh&% Tổn thương. Mỗi cuộc chiến đấu nhiều nhất phát động một lần."
+  },
+  {
+    "id": 54641781,
+    "key": "item_name54641741",
+    "ch": "Cách sơn đả ngưu",
+    "tc": "伴生之戒",
+    "en": "Cách sơn đả ngưu"
+  },
+  {
+    "id": 54641782,
+    "key": "item_desc54641741",
+    "ch": "<r> Nghịch thiên khí vận · Cách sơn đả ngưu </r>\n Mỗi sử dụng &700138_txcs& Lần thể tu kỹ năng, phát động một đạo thẳng tắp cương kình, đối trúng đích địch nhân tạo thành toàn công pháp tư chất tổng cộng &700138_zzxs&% Trực tiếp tổn thương.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Cách sơn đả ngưu </r>\n Mỗi sử dụng &700138_txcs& Lần thể tu kỹ năng, phát động một đạo thẳng tắp cương kình, đối trúng đích địch nhân tạo thành toàn công pháp tư chất tổng cộng &700138_zzxs&% Trực tiếp tổn thương."
+  },
+  {
+    "id": 54641783,
+    "key": "item_name54641742",
+    "ch": "Đoạt mệnh chân khí",
+    "tc": "伴生之戒",
+    "en": "Đoạt mệnh chân khí"
+  },
+  {
+    "id": 54641784,
+    "key": "item_desc54641742",
+    "ch": "<r> Nghịch thiên khí vận · Đoạt mệnh chân khí </r>\n Mỗi sử dụng &700139_lxcs& Lần Linh tu kỹ năng, phát động ba đạo truy tung linh khí, đối trúng đích địch nhân tạo thành linh pháp tư chất tổng cộng &700139_zzxs&% Trực tiếp tổn thương.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Đoạt mệnh chân khí </r>\n Mỗi sử dụng &700139_lxcs& Lần Linh tu kỹ năng, phát động ba đạo truy tung linh khí, đối trúng đích địch nhân tạo thành linh pháp tư chất tổng cộng &700139_zzxs&% Trực tiếp tổn thương."
+  },
+  {
+    "id": 54641785,
+    "key": "item_name54641743",
+    "ch": "Trời đồng chi nhận",
+    "tc": "伴生之戒",
+    "en": "Trời đồng chi nhận"
+  },
+  {
+    "id": 54641786,
+    "key": "item_desc54641743",
+    "ch": "<r> Nghịch thiên khí vận · Trời đồng chi nhận </r>\n Công kích tạo thành thấp nhất tổn thương thay đổi vì &700140_zdsh&. Này tổn thương theo cảnh giới tăng lên.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Trời đồng chi nhận </r>\n Công kích tạo thành thấp nhất tổn thương thay đổi vì &700140_zdsh&. Này tổn thương theo cảnh giới tăng lên."
+  },
+  {
+    "id": 54641787,
+    "key": "item_name54641744",
+    "ch": "Phệ ma thể",
+    "tc": "伴生之戒",
+    "en": "Phệ ma thể"
+  },
+  {
+    "id": 54641788,
+    "key": "item_desc54641744",
+    "ch": "<r> Nghịch thiên khí vận · Phệ ma thể </r>\n Mỗi nhận &700142_gjcs& Lần công kích, miễn dịch lần tiếp theo nhận tổn thương",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Phệ ma thể </r>\n Mỗi nhận &700142_gjcs& Lần công kích, miễn dịch lần tiếp theo nhận tổn thương"
+  },
+  {
+    "id": 54641789,
+    "key": "item_name54641745",
+    "ch": "Đạp tuyết vô ngân",
+    "tc": "伴生之戒",
+    "en": "Đạp tuyết vô ngân"
+  },
+  {
+    "id": 54641790,
+    "key": "item_desc54641745",
+    "ch": "<r> Nghịch thiên khí vận · Đạp tuyết vô ngân </r>\n Tốc độ di chuyển đề cao &700144_ysts&%, lại mỗi &700144_jgsj& Giây miễn dịch một lần tổn thương",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Đạp tuyết vô ngân </r>\n Tốc độ di chuyển đề cao &700144_ysts&%, lại mỗi &700144_jgsj& Giây miễn dịch một lần tổn thương"
+  },
+  {
+    "id": 54641791,
+    "key": "item_name54641746",
+    "ch": "Sát tâm đột khởi",
+    "tc": "伴生之戒",
+    "en": "Sát tâm đột khởi"
+  },
+  {
+    "id": 54641792,
+    "key": "item_desc54641746",
+    "ch": "<r> Nghịch thiên khí vận · Sát tâm đột khởi </r>\n Mỗi tạo thành &700158_shcs& Lần tổn thương sau, tiếp xuống &700158_bjsj& Giây nhất định bạo kích, lại bạo kích bội suất +&700158_bjbl&%, cuối cùng bạo kích bội suất nhỏ nhất vì &700158_zdbl& Lần. Làm lạnh &700158_lqsj& Giây.",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Sát tâm đột khởi </r>\n Mỗi tạo thành &700158_shcs& Lần tổn thương sau, tiếp xuống &700158_bjsj& Giây nhất định bạo kích, lại bạo kích bội suất +&700158_bjbl&%, cuối cùng bạo kích bội suất nhỏ nhất vì &700158_zdbl& Lần. Làm lạnh &700158_lqsj& Giây."
+  },
+  {
+    "id": 54641793,
+    "key": "item_name54641747",
+    "ch": "Lô hỏa thuần thanh",
+    "tc": "伴生之戒",
+    "en": "Lô hỏa thuần thanh"
+  },
+  {
+    "id": 54641794,
+    "key": "item_desc54641747",
+    "ch": "<r> Nghịch thiên khí vận · Lô hỏa thuần thanh </r>\n Võ kỹ / Linh kỹ, tổn thương đề cao &700159_zjsh&%",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Lô hỏa thuần thanh </r>\n Võ kỹ / Linh kỹ, tổn thương đề cao &700159_zjsh&%"
+  },
+  {
+    "id": 54641795,
+    "key": "item_type_name54641701",
+    "ch": "Nghịch thiên khí vận",
+    "tc": "伴生之戒",
+    "en": "Nghịch thiên khí vận"
+  },
+  {
+    "id": 54641796,
+    "key": "item_name54641748",
+    "ch": "Nghịch thiên khí vận",
+    "tc": "伴生之戒",
+    "en": "Nghịch thiên khí vận"
+  },
+  {
+    "id": 54641797,
+    "key": "item_desc54641748",
+    "ch": "<r> Nghịch thiên khí vận · Gói quà lớn </r>\n Bên trong nghịch thiên khí vận có: \n<g> Yêu thuật tinh thông | Hoa cúc tàn | Nhỏ cùng cái rắm rồng | Đại bảo thuẫn | Lớn Lý Phi kiếm | Hỏa lực bắn ra bốn phía | Sức nước bắn ra bốn phía | Quỷ tu tinh thông | Khăn vàng Thiên Sư | Võ thần quyết | Thanh Đế di ghi chép | Máu yểm đại pháp | Điên dại chiến ý | Điên dại chiến ý | Trước thụ sau công | Công pháp sở trường | Linh căn sở trường | Hồng trần Kiếm Hồn | Quy nhất chân quyết | Tinh diệu cửu tiêu | Tứ linh cộng sinh | Thuẫn Linh tinh thông | Tiềm năng tinh thông | Kim Thiền huyết ảnh | Linh năng thủy triều | Huyết Linh tinh thông | Kiếm linh tinh thông | Huyết tế tinh thông | Săn tinh | Săn linh | Linh pháp tinh thông | Võ pháp tinh thông | Lý Tứ gà vương | Lôi lực bắn ra bốn phía | Sức gió bắn ra bốn phía | Mộc lực bắn ra bốn phía | Huyễn Linh nồi | Phấn chấn cổ vũ | Hóa vật | Tùy tâm mà ngự | Thiên địa đồng thọ | Cách sơn đả ngưu | Đoạt mệnh chân khí | Trời đồng chi nhận | Phệ ma thể | Đạp tuyết vô ngân | Sát tâm đột khởi | Lô hỏa thuần thanh </g>\n Mỗi loại khí vận có 9999 Cái",
+    "tc": "伴生之戒",
+    "en": "<r> Nghịch thiên khí vận · Gói quà lớn </r>\n Bên trong nghịch thiên khí vận có: \n<g> Yêu thuật tinh thông | Hoa cúc tàn | Nhỏ cùng cái rắm rồng | Đại bảo thuẫn | Lớn Lý Phi kiếm | Hỏa lực bắn ra bốn phía | Sức nước bắn ra bốn phía | Quỷ tu tinh thông | Khăn vàng Thiên Sư | Võ thần quyết | Thanh Đế di ghi chép | Máu yểm đại pháp | Điên dại chiến ý | Điên dại chiến ý | Trước thụ sau công | Công pháp sở trường | Linh căn sở trường | Hồng trần Kiếm Hồn | Quy nhất chân quyết | Tinh diệu cửu tiêu | Tứ linh cộng sinh | Thuẫn Linh tinh thông | Tiềm năng tinh thông | Kim Thiền huyết ảnh | Linh năng thủy triều | Huyết Linh tinh thông | Kiếm linh tinh thông | Huyết tế tinh thông | Săn tinh | Săn linh | Linh pháp tinh thông | Võ pháp tinh thông | Lý Tứ gà vương | Lôi lực bắn ra bốn phía | Sức gió bắn ra bốn phía | Mộc lực bắn ra bốn phía | Huyễn Linh nồi | Phấn chấn cổ vũ | Hóa vật | Tùy tâm mà ngự | Thiên địa đồng thọ | Cách sơn đả ngưu | Đoạt mệnh chân khí | Trời đồng chi nhận | Phệ ma thể | Đạp tuyết vô ngân | Sát tâm đột khởi | Lô hỏa thuần thanh </g>\n Mỗi loại khí vận có 9999 Cái"
+  },
+  {
+    "id": 54641801,
+    "key": "item_name54641801",
+    "ch": "Hoan nghênh quang lâm",
+    "tc": "{#areaName2}隱息符",
+    "en": "Hoan nghênh quang lâm"
+  },
+  {
+    "id": 54641802,
+    "key": "role_feature_postnatal_name54641801",
+    "ch": "Đón khách",
+    "tc": "收斂氣息",
+    "en": "Đón khách"
+  },
+  {
+    "id": 54641803,
+    "key": "role_feature_postnatal_tips54641801",
+    "ch": "Đón khách trạng thái, {#areaName10} Trước tất cả địa khu qua nguyệt lẫn nhau lên cao đến 600 Lần",
+    "tc": "悠闲的状态",
+    "en": "Đón khách trạng thái, {#areaName10} Trước tất cả địa khu qua nguyệt lẫn nhau lên cao đến 600 Lần"
+  },
+  {
+    "id": 54641804,
+    "key": "item_name54641802",
+    "ch": "Du khách dừng bước",
+    "tc": "{#areaName4}隱息符",
+    "en": "Du khách dừng bước"
+  },
+  {
+    "id": 54641805,
+    "key": "role_feature_postnatal_name54641802",
+    "ch": "Bế quan",
+    "tc": "收斂氣息",
+    "en": "Bế quan"
+  },
+  {
+    "id": 54641806,
+    "key": "role_feature_postnatal_tips54641802",
+    "ch": "Ngươi ở vào bế quan trạng thái, thu liễm tự thân khí tức, sẽ không bị cái khác tu tiên giả giao lưu hỗ động",
+    "tc": "收斂自身的氣息，使其他修仙者找到自己進行互動的頻率降低。在<g>{#areaName4}、{#areaName5}</g>及之前的區域時有效。",
+    "en": "Ngươi ở vào bế quan trạng thái, thu liễm tự thân khí tức, sẽ không bị cái khác tu tiên giả giao lưu hỗ động"
+  },
+  {
+    "id": 54641807,
+    "key": "drama_option54641801",
+    "ch": "Giúp ta quét xấp đón khách đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta quét xấp đón khách đi"
+  },
+  {
+    "id": 54641808,
+    "key": "drama_option54641802",
+    "ch": "Giúp ta bế quan đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta bế quan đi"
+  },
+  {
+    "id": 54641809,
+    "key": "drama_option54641803",
+    "ch": "Giúp ta hủy bỏ khí vận đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta hủy bỏ khí vận đi"
+  },
+  {
+    "id": 54641811,
+    "key": "drama_option54641804",
+    "ch": "Giúp ta đón khách bế quan đi",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta đón khách bế quan đi"
+  },
+  {
+    "id": 54641812,
+    "key": "drama_option54641805",
+    "ch": "Giúp ta đánh tan đón khách bế quan khí vận",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta đánh tan đón khách bế quan khí vận"
+  },
+  {
+    "id": 54641813,
+    "key": "drama_option54641806",
+    "ch": "Giúp ta đánh tan nghịch thiên đan dược khí vận",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta đánh tan nghịch thiên đan dược khí vận"
+  },
+  {
+    "id": 54641814,
+    "key": "drama_option54641807",
+    "ch": "Giúp ta đánh tan không tốt khí vận 【 Thận 】 Có thể có chút khí vận cùng sự kiện có quan hệ",
+    "tc": "<g>（你没有泄露一丝气息，因此无人知晓发生了什么。）</g>\n（你继续隐匿着行踪悄然离开了此地。）",
+    "en": "Giúp ta đánh tan không tốt khí vận 【 Thận 】 Có thể có chút khí vận cùng sự kiện có quan hệ"
+  }
+]

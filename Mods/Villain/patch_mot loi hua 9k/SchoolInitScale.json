@@ -1,0 +1,62 @@
+[
+  {
+    "id": 11901,//宗门初始属性
+    "scale": 3,
+    "initLevel": 1,
+    "branch": 0,
+    "buildIcon": 2,//宗门图标样式
+    "area": 2,//所在区域
+    "num": 0,//自然生成最多几个一样的
+    "basRequire": 15,//基础灵根需求？
+    "closeRequire": 1,
+    "applyGrade": 2,//允许入宗最高等级
+    "playerPostMax": 1,//玩家最高职位
+    "money": 650000,//下面是一些初始数据金币药材等
+    "herbal": 125000,
+    "mine": 125000,
+    "schoolMain": 0,//初始是否有宗主
+    "bigElders": 0,//初始几个大长老
+    "elders": 2,
+    "inherit": 10,
+    "inner": 5,
+    "outer": 10,
+    "population": 240,
+    "maxPopulation": 300,
+    "reputation": 8000,
+    "territory": 6,
+    "stable": 1000,
+    "prosperous": 27000,
+    "loyalty": 1000,
+    "skillInit": 4
+  },
+  {
+    "id": 1201,
+    "scale": 1,
+    "initLevel": 1,
+    "branch": 0,
+    "buildIcon": 1,
+    "area": 2,
+    "num": 0,
+    "basRequire": 0,
+    "closeRequire": 1,
+    "applyGrade": 2,
+    "playerPostMax": 1,
+    "money": 500000,
+    "herbal": 10000,
+    "mine": 10000,
+    "schoolMain": 0,
+    "bigElders": 0,
+    "elders": 2,
+    "inherit": 10,
+    "inner": 5,
+    "outer": 10,
+    "population": 120,
+    "maxPopulation": 300,
+    "reputation": 8000,
+    "territory": 6,
+    "stable": 800,
+    "prosperous": 20000,
+    "loyalty": 1000,
+    "skillInit": 3
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2801,
+    "type": 1,
+    "group": 28,
+    "level": 6,
+    "duration": "-1",
+    "refreshType": 0,
+    "conceal": 0,
+    "name": "role_feature_congenital_name2801",
+    "effect": "28011|28011|28011|28011|28011|28011|28011|28011|28011",
+    "tips": "role_feature_congenital_tips2801",
+    "iconAndDesc": "0",
+    "lockLuck": 0,
+    "introduceText": "role_feature_congenital_intro2801",
+    "weight": 3000
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "xcasdzxcasdSection": "100_80",
+    "insaneProbability": "8_15",
+    "mortality": 20,
+    "insaneMortality": 40
+  },
+  {
+    "id": 2,
+    "xcasdzxcasdSection": "79_50",
+    "insaneProbability": "13_18",
+    "mortality": 20,
+    "insaneMortality": 45
+  },
+  {
+    "id": 3,
+    "xcasdzxcasdSection": "49_0",
+    "insaneProbability": "18_21",
+    "mortality": 25,
+    "insaneMortality": 50
+  },
+  {
+    "id": 4,
+    "xcasdzxcasdSection": "-1_-50",
+    "insaneProbability": "21_28",
+    "mortality": 30,
+    "insaneMortality": 70
+  },
+  {
+    "id": 5,
+    "xcasdzxcasdSection": "-51_-80",
+    "insaneProbability": "28_38",
+    "mortality": 30,
+    "insaneMortality": 80
+  },
+  {
+    "id": 6,
+    "xcasdzxcasdSection": "-81_-100",
+    "insaneProbability": "38_50",
+    "mortality": 30,
+    "insaneMortality": 90
+  }
+]

@@ -1,0 +1,914 @@
+[
+  {//自己建一个结束按钮——战斗
+    "id": 54640427,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640427",
+    "cost": "0",
+    "costHide": 0,
+    "function": "battleExit_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//自己建一个结束按钮——平时
+    "id": 54640428,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640428",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": 228011,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option228011",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "54640427"//改的是这里，原来是0
+  },
+{//阴阳大法——别人要求双修的第一个选择
+    "id": 54640401,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640401",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "54640402"
+  },
+  {//阴阳大法——别人要求双修的隔空取物（获得物品）
+    "id": 54640402,
+    "condition": "abClose_1_2_295|or|isHaveItem_54640312_1|isHaveItem_54640313_1",//abClose_1_2_295|itemType_0_54640301_0_2_10",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640402",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "54640413"
+  },
+  {//双修回复+亲密5倍和1%心得
+    "id": 54640403,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640403",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_300|addExp_0_19032_38064|addAttr_hp_0_100|addAttr_mp_0_100|addAttr_sp_0_100|addAttr_mood_0_100|addAttr_energy_0_100|addAttr_health_0_100|addAttr_abilityExp_0_2|addTargetAttr_1_hp_0_100|addTargetAttr_1_mp_0_100|addTargetAttr_1_sp_0_100|addTargetAttr_1_mood_0_100|addTargetAttr_1_energy_0_100|addTargetAttr_1_health_0_100|addTargetAttr_1_abilityExp_0_2",//|abClose_0_1_30_50|abClose_1_0_30_50",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修加最大寿命体力灵力念力幸运悟性健康道心
+    "id": 54640404,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640404",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_life_1_6|addAttr_hpMax_0_2|addAttr_mpMax_0_2|addAttr_spMax_0_2|addAttr_abilityPoint_1_5|addAttr_luck_1_5|addAttr_talent_1_5|addAttr_healthMax_1_5|addAttr_moodMax_1_5|addAttr_energyMax_1_5|addAttr_abilityExp_0_2|addTargetAttr_1_life_1_6|addTargetAttr_1_hpMax_0_2|addTargetAttr_1_mpMax_0_2|addTargetAttr_1_spMax_0_2|addTargetAttr_1_abilityPoint_1_5|addTargetAttr_1_luck_1_5|addTargetAttr_1_talent_1_5|addTargetAttr_1_healthMax_1_5|addTargetAttr_1_moodMax_1_5|addTargetAttr_1_energyMax_1_5|addTargetAttr_1_abilityExp_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修加攻防和1%心得
+    "id": 54640405,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640405",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_atk_0_1|addAttr_def_0_1|addAttr_abilityExp_0_2|addTargetAttr_1_atk_0_1|addTargetAttr_1_def_0_1|addTargetAttr_1_abilityExp_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//护心会心和1%心得
+    "id": 54640406,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640406",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_crit_0_1|addAttr_guard_0_1|addAttr_abilityExp_0_2|addTargetAttr_1_crit_0_2|addTargetAttr_1_guard_0_2|addTargetAttr_1_abilityExp_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//暴击抗暴和1%心得
+    "id": 54640407,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640407",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_critV_0_2|addAttr_guardV_0_2|addAttr_abilityExp_0_2|addTargetAttr_1_critV_0_2|addTargetAttr_1_guardV_0_2|addTargetAttr_1_abilityExp_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修灵根功法抗性和1%心得
+    "id": 54640408,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640408",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_pfr_0_2|addAttr_mfr_0_2|addAttr_abilityExp_0_2|addTargetAttr_1_pfr_0_2|addTargetAttr_1_mfr_0_2|addTargetAttr_1_abilityExp_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修加脚力移速和1%心得
+    "id": 54640409,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640409",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_fsp_1_20|addAttr_msp_0_2|addAttr_stepGrow_0_2|addAttr_abilityExp_0_2|addTargetAttr_1_fsp_1_20|addTargetAttr_1_msp_0_2|addTargetAttr_1_stepGrow_0_2|addTargetAttr_1_abilityExp_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修加功法资质和武器成长和1%心得
+    "id": 54640410,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640410",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_basWpAll_1_2|addAttr_swordGrow_0_2|addAttr_bladeGrow_0_2|addAttr_spearGrow_0_2|addAttr_fistGrow_0_2|addAttr_palmGrow_0_2|addAttr_fingerGrow_0_2|addAttr_abilityExp_0_2|addTargetAttr_1_basWpAll_1_2|addTargetAttr_1_swordGrow_0_2|addTargetAttr_1_bladeGrow_0_2|addTargetAttr_1_spearGrow_0_2|addTargetAttr_1_fistGrow_0_2|addTargetAttr_1_palmGrow_0_2|addTargetAttr_1_fingerGrow_0_2|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修灵根资质和灵根成长和1%心得
+    "id": 54640411,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640411",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_basMgAll_1_2|addAttr_fireGrow_0_2|addAttr_frozeGrow_0_2|addAttr_thunderGrow_0_2|addAttr_windGrow_0_2|addAttr_earthGrow_0_2|addAttr_woodGrow_0_2|addAttr_abilityExp_0_2|addTargetAttr_1_basMgAll_1_2|addTargetAttr_1_fireGrow_0_2|addTargetAttr_1_frozeGrow_0_2|addTargetAttr_1_thunderGrow_0_2|addTargetAttr_1_windGrow_0_2|addTargetAttr_1_earthGrow_0_2|addTargetAttr_1_woodGrow_0_2|addTargetAttr_1_abilityExp_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修技艺资质和1%心得
+    "id": 54640412,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640412",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_200|addAttr_basArtAll_1_2|addAttr_abilityExp_0_2|addTargetAttr_1_basArtAll_1_2|addTargetAttr_1_abilityExp_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//击败收物品后羞辱
+    "id": 54640413,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640413",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "54640404|54640412|54640415|54640414"
+  },
+  {//击败收物品后羞辱对话——享受肉欲
+    "id": 54640414,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640414",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "54640406|54640444"
+  },
+  {//双修前选择是采补还是双修 双修
+    "id": 54640415,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640415",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "54640403"
+  },
+  {//双修前选择是采补还是双修 采补
+    "id": 54640416,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640416",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "54640411"
+  },
+  {//双修回复+亲密 和1%心得 主角
+    "id": 54640417,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640417",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addExp_0_19032_38064|addAttr_hp_0_100|addAttr_mp_0_100|addAttr_sp_0_100|addAttr_mood_0_100|addAttr_energy_0_100|addAttr_health_0_100|addAttr_abilityExp_0_1",//|abClose_1_0_30_50",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修加最大寿命体力灵力念力幸运悟性健康道心 主角
+    "id": 54640418,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640418",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_life_1_4|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_abilityPoint_1_3|addAttr_luck_1_3|addAttr_talent_1_3|addAttr_healthMax_1_3|addAttr_moodMax_1_3|addAttr_energyMax_1_3|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修加攻防和1%心得 主角
+    "id": 54640419,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640419",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_atk_0_1|addAttr_def_0_1|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//护心会心和1%心得 主角
+    "id": 54640420,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640420",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_crit_0_1|addAttr_guard_0_1|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//暴击抗暴和1%心得 主角
+    "id": 54640421,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640421",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_critV_0_1|addAttr_guardV_0_1|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修灵根功法抗性和1%心得 主角
+    "id": 54640422,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640422",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_pfr_0_1|addAttr_mfr_0_1|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修加脚力移速和1%心得5%身法 主角
+    "id": 54640423,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640423",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_fsp_1_10|addAttr_msp_0_1|addAttr_stepGrow_0_1|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修加功法资质和武器成长和1%心得 主角
+    "id": 54640424,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640424",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_basWpAll_1_1|addAttr_swordGrow_0_1|addAttr_bladeGrow_0_1|addAttr_spearGrow_0_1|addAttr_fistGrow_0_1|addAttr_palmGrow_0_1|addAttr_fingerGrow_0_1|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修灵根资质和灵根成长和1%心得 主角
+    "id": 54640425,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640425",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_basMgAll_1_1|addAttr_fireGrow_0_1|addAttr_frozeGrow_0_1|addAttr_thunderGrow_0_1|addAttr_windGrow_0_1|addAttr_earthGrow_0_1|addAttr_woodGrow_0_1|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修技艺资质1%心得 主角 自己已有心得的1%的意思
+    "id": 54640426,
+    "condition": "feature_0_54640200",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640426",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|addAttr_basArtAll_1_1|addAttr_abilityExp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//阴阳大法——隔空取物——仲景丹炉
+    "id": 54640429,
+    "condition": "abClose_1_2_295|or|isHaveItem_54640312_1|isHaveItem_54640313_1",//itemType_0_54640301_0_2_20",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640429",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640331_20_0_54640301_0|notNextDialogue",//|reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640431"
+  },
+  {//阴阳大法——隔空取物——暗杀药
+    "id": 54640430,
+    "condition": "abClose_1_2_295|or|isHaveItem_54640312_1|isHaveItem_54640313_1",//|itemType_0_54640301_0_2_50",//|or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640430",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640332_50_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640432"
+  },
+  {//阴阳大法——隔空取物——逆天气运药
+    "id": 54640431,
+    "condition": "abClose_1_2_295|or|isHaveItem_54640312_1|isHaveItem_54640313_1",//|itemType_0_54640301_0_2_77",//or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640431",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640333_77_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640433"
+  },
+  {//阴阳大法——隔空取物——阴阳兽
+    "id": 54640464,
+    "condition": "isHaveItem_54640502_1|abClose_1_2_295",//|or|isHaveItem_54640312_1|isHaveItem_54640313_1",//|abClose_0_1_280",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640464",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640464_1_0_302_54640502|notNextDialogue",//reward_54640501",reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640430"
+  },
+  {//阴阳大法——隔空取物——各境界材料1
+    "id": 54640432,
+    "condition": "abClose_1_2_295|or|isHaveItem_54640312_1|isHaveItem_54640313_1",//|itemType_0_54640301_0_2_10",//or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640432",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640416"
+  },
+  {//阴阳大法——隔空取物——各境界材料筑基
+    "id": 54640433,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640433",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_10_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640434"
+  },
+  {//阴阳大法——隔空取物——各境界材料2
+    "id": 54640434,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640434",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_15_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640435"
+  },
+  {//阴阳大法——隔空取物——各境界材料3
+    "id": 54640435,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640435",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_20_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640436"
+  },
+  {//阴阳大法——隔空取物——各境界材料4
+    "id": 54640436,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640436",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_25_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640437"
+  },
+  {//阴阳大法——隔空取物——各境界材料5
+    "id": 54640437,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640437",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_30_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640438"
+  },
+  {//阴阳大法——隔空取物——各境界材料6
+    "id": 54640438,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640438",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_35_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640439"
+  },
+  {//阴阳大法——隔空取物——各境界材料7
+    "id": 54640439,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640439",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_40_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640440"
+  },
+  {//阴阳大法——隔空取物——各境界材料8
+    "id": 54640440,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640440",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_45_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640441"
+  },
+  {//阴阳大法——隔空取物——各境界材料9
+    "id": 54640441,
+    "condition": "or|isHaveItem_54640312_1|isHaveItem_54640313_1",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640441",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|itemSelect_tipsText54640334_50_0_54640301_0|notNextDialogue",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640442"
+  },
+  {//判断后双修——只有主角加第二页
+    "id": 54640442,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640442",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640417"
+  },
+  {//判断后双修——只有主角加第一页
+    "id": 54640443,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640443",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640411"
+  },
+  {//阴阳大法——学习功法1双修
+    "id": 54640444,
+    "condition": "abClose_1_2_295",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640444",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640426"
+  },
+  {//阴阳大法——学习功法2功法选择
+    "id": 54640462,
+    "condition": "abClose_1_2_295",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640462",
+    "cost": "0",
+    "costHide": 0,
+    "function": "learnSkill",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//击败收物品后羞辱对话——进行采补
+    "id": 54640445,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640445",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addTargetAttr_1_life_1_-6|addTargetAttr_1_reputation_1_-20|addTargetAttr_1_moodMax_0_-1|addTargetAttr_1_mood_0_-20|addTargetAttr_1_healthMax_0_-1|addTargetAttr_1_health_1_-20|addTargetAttr_1_energyMax_0_-1|addTargetAttr_1_energy_1_-20|addTargetAttr_1_hpMax_0_-2|addTargetAttr_1_hp_0_-20|addTargetAttr_1_mpMax_0_-2|addTargetAttr_1_mp_0_-20|addTargetAttr_1_spMax_0_-2|addTargetAttr_1_sp_0_-20",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640418|54640446"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640446,//攻击大类
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640446",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addTargetAttr_1_atk_0_-1|addTargetAttr_1_crit_0_-1|addTargetAttr_1_critV_0_-1",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640419|54640447"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640447,//攻击大类攻击力选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640447",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_atk_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640448,//攻击大类会心选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640448",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_crit_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640449,//攻击大类暴击倍率选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640449",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_critV_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640450,//防御大类
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640450",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addTargetAttr_1_def_0_-1|addTargetAttr_1_pfr_0_-1|addTargetAttr_1_mfr_0_-1|addTargetAttr_1_guard_0_-1|addTargetAttr_1_guardV_0_-1",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640420|54640448"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640451,//防御大类防御力选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640451",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_def_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640452,//防御大类功法抗性选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640452",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_pfr_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640453,//防御大类灵根抗性选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640453",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_mfr_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640454,//防御大类护心选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640454",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_guard_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640455,//防御大类抗爆倍率选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640455",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_guardV_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640456,//移动大类
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640456",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addTargetAttr_1_fsp_1_-10|addTargetAttr_1_msp_0_-1",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640421|54640449"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640457,//移动大类脚力选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640457",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_fsp_1_20",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640458,//移动大类移速选项
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640458",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_msp_0_1",
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640459,//功法资质大类
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640459",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addTargetAttr_1_basWpAll_1_-1|addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_basWpAll_1_1",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640460,//灵根资质大类
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640460",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addTargetAttr_1_basMgAll_1_-1|addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_basMgAll_1_1",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//击败收物品后羞辱对话——进行采补选择大方向攻击防御移动资质
+    "id": 54640461,//技艺资质大类
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640461",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addTargetAttr_1_basArtAll_1_-1|addAttr_life_1_6|addAttr_reputation_1_10|addAttr_moodMax_1_2|addAttr_healthMax_1_2|addAttr_energyMax_1_2|addAttr_hpMax_0_1|addAttr_mpMax_0_1|addAttr_spMax_0_1|addAttr_basArtAll_1_1",//reward对应GameItemReward
+    "clickTip": "0",
+    "nextDialogue": "54640422|54640450"
+  },
+  {//别人要求双修时的拒绝选项————引出双修大法
+    "id": 54640463,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640463",
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "54640427"
+  },
+  {//击败后采补还是享受 选择享受之后的按钮，暂时没用上
+    "id": 54640465,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640465",
+    "cost": "0",
+    "costHide": 0,
+    "function": "battleExit_1",
+    "clickTip": "0",
+    "nextDialogue": "54640408"
+  },
+  {//击败后享受完结束战斗按钮
+    "id": 54640466,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640466",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_hp_0_110|addAttr_mp_0_110|addAttr_sp_0_110|addAttr_mood_0_100|addAttr_energy_0_100|addAttr_health_0_100|abClose_1_0_-40_-80|addExp_0_4162_8324",//|unitLog_0_battle56EndLog_eventLogRoleDefeat54640408_0_2|unitLog_1_battle56EndLog_eventLogRoleDefeat54640409_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//击败后采补还是享受 选择采补之后的按钮，暂时没用上
+    "id": 54640467,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640467",
+    "cost": "0",
+    "costHide": 0,
+    "function": "battleExit_1",
+    "clickTip": "0",
+    "nextDialogue": "54640425"
+  },
+  {//击败后采补完结束战斗按钮
+    "id": 54640468,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54640468",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addAttr_hp_0_110|addAttr_mp_0_110|addAttr_sp_0_110|addAttr_mood_0_110|addAttr_energy_0_100|addAttr_health_0_100|abClose_1_0_-200_-400|addExp_0_4162_8324|reward_54640376",//|unitLog_0_battle56EndLog_eventLogRoleDefeat54640431_0_2|unitLog_1_battle56EndLog_eventLogRoleDefeat54640432_0_2",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修获得交互无上限气运
+    "id": 54641801,
+    "condition": "featureNot_0_54641801",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54641801",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|clearFeature_54641802|addFeature_54641801|abClose_1_0_20_30",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修取消交互无上限气运
+    "id": 54641802,
+    "condition": "featureNot_0_54641802",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54641802",
+    "cost": "0",
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|clearFeature_54641801|addFeature_54641802|abClose_1_0_20_30",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修取消气运前选项
+    "id": 54641803,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54641803",
+    "cost": "0",//"2_54641801",对应itemcost
+    "costHide": 0,
+    "function": "0",//"forceTrains_1_0_200|clearFeatureGroup_546418|abClose_1_0_30_50",//|openUI_removeFeature取消气运末实装
+    "clickTip": "0",
+    "nextDialogue": "54641802"//"54640413"
+  },
+  {//双修迎客闭关前选项
+    "id": 54641804,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54641804",
+    "cost": "0",//"2_54641801",对应itemcost
+    "costHide": 0,
+    "function": "0",//|openUI_removeFeature取消气运末实装
+    "clickTip": "0",
+    "nextDialogue": "54641801"//"54640413"
+  },
+  {//双修取消气运选项交互类
+    "id": 54641805,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54641805",
+    "cost": "0",//"2_54641801",对应itemcost
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|clearFeatureGroup_546418|abClose_1_0_20_30",//|openUI_removeFeature取消气运末实装
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修取消气运选项逆天气运类
+    "id": 54641806,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54641806",
+    "cost": "0",//"2_54641801",对应itemcost
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|clearFeatureGroup_546417|abClose_1_0_20_30",//|openUI_removeFeature取消气运末实装
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {//双修取消气运选项所有负buff类
+    "id": 54641807,
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option54641807",
+    "cost": "0",//"2_54641801",对应itemcost
+    "costHide": 0,
+    "function": "forceTrains_1_0_30|clearFeature_-1|abClose_1_0_20_30",//|openUI_removeFeature取消气运末实装
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+]

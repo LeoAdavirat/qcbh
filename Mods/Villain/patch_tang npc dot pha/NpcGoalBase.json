@@ -1,0 +1,17 @@
+[
+  //突破
+  {
+    "id": 129,
+    "type": 1,
+    "runSelf": 0,
+    "failedDel": 0,
+    "goalType": 129,
+    "weight": 2000,
+    "weightCharacter": "0",
+    "failCost": 0,
+    "failMoveMin": 0,
+    "failMoveMax": 0,
+    "actions": "1038",
+    "filterID": "0"
+  }
+]

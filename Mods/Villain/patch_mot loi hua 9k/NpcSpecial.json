@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1001,
+    "grade": 2,
+    "gender": 4,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_9_1_2000",
+    "characterA": "1|2|3|4",
+    "characterB": "19|12",
+    "dressMan": "0",
+    "dressWoman": "119330901|119330903|119330905",
+    "startPos": "around_0_0_0"
+  },
+  {
+    "id": 10011,//道侣
+    "grade": 1,//练气期
+    "gender": 4,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_9_1_2000",
+    "characterA": "28|2|3|4",//内在性格：无私，正直，仁善，中庸，随机四选一
+    "characterB": "19|12",//外在性格：忠贞，爱家
+    "dressMan": "10011",
+    "dressWoman": "932003",
+    "startPos": "around_0_0_0"
+  },
+  {
+    "id": 1003,//女师父
+    "grade": 7,//化神期
+    "gender": 2,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_11_1_2000",
+    "characterA": "1|2",//内在性格：无私或正直
+    "characterB": "10|18",//外在性格：护短，恋徒
+    "dressMan": "0",
+    "dressWoman": "932004",
+    "startPos": "around_0_0_0"
+  },
+  {
+    "id": 1005,//女徒弟
+    "grade": 1,//练气期
+    "gender": 2,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_10_1_2000",
+    "characterA": "1|2|3|4|5|6|7",//内在性格：随机七选一
+    "characterB": "18|8",//外在性格：传承，恋师
+    "dressMan": "0",
+    "dressWoman": "932005",
+    "startPos": "around_0_0_0"
+  },
+  {
+    "id": 1006,//义母
+    "grade": 6,//元婴期
+    "gender": 2,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_6_1_2000",
+    "characterA": "1|2|3",//内在性格：随机三选一
+    "characterB": "10|8",//外在性格：护短，爱子
+    "dressMan": "0",
+    "dressWoman": "932006",
+    "startPos": "around_0_0_0"
+  },
+  {
+    "id": 1008,//义女
+    "grade": 2,//筑基期
+    "gender": 2,
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "addRelation_5_1_2000",
+    "characterA": "1|2|3|4|5|6|7",//内在性格：随机七选一
+    "characterB": "12|8",//外在性格：爱家，父控
+    "dressMan": "0",
+    "dressWoman": "932007",
+    "startPos": "around_0_0_0"
+  }
+]

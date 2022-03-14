@@ -1,0 +1,21 @@
+[
+   {
+    "id": 54640501,
+    "effectValue": "54640508|54640509|54640510|54640511|54640512|54640513|54640519|54640514|54640516|54640518",//54640501魅力换到角色上了|54640502|54640503|54640504|心情精力健康换到戒指上了54640505|54640506|54640507|体灵念54640515|暴击倍率
+    "feature": "8501",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_54640501",
+    "grade": 1
+  },
+  {
+    "id": 54640502,
+    "effectValue": "54640520|54640518|54640521",
+    "feature": "8501",
+    "model": "zouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_54640502",
+    "grade": 1
+  },
+
+]

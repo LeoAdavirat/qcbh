@@ -1,0 +1,46 @@
+[
+  {
+    "id": 111,
+    "scale": 1,
+    "group": 11,
+    "stand": 1,
+    "type": 1,
+    "effect": "unitAttr_energyMax_20",
+    "punish": "0",
+    "slogan": "schoolSlogan422",
+    "desc": "schoolSloganDesc422"
+  },
+  {
+    "id": 112,
+    "scale": 1,
+    "group": 11,
+    "stand": 1,
+    "type": 1,
+    "effect": "attr_taskReward_20",
+    "punish": "0",
+    "slogan": "schoolSlogan414",
+    "desc": "schoolSloganDesc414"
+  },
+  {
+    "id": 113,
+    "scale": 1,
+    "group": 11,
+    "stand": 1,
+    "type": 2,
+    "effect": "attr_librarySkillsNum_5",
+    "punish": "0",
+    "slogan": "schoolSlogan432",
+    "desc": "schoolSloganDesc432"
+  },
+  {
+    "id": 114,
+    "scale": 1,
+    "group": 11,
+    "stand": 1,
+    "type": 2,
+    "effect": "schoolClose_2_0_0_20",
+    "punish": "0",
+    "slogan": "schoolSlogan321",
+    "desc": "schoolSloganDesc321"
+  }
+]

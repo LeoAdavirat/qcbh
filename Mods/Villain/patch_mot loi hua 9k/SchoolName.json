@@ -1,0 +1,20 @@
+[
+  {
+    "id": 45,
+    "group": 11,//不要试图创建新组,盘古罢工
+    "name1": "schoolNameFirst60",
+    "name2": "schoolNameSecond60"
+  },
+  {
+    "id": 46,
+    "group": 11,
+    "name1": "schoolNameFirst60",
+    "name2": "schoolNameSecond60"
+  },
+  {
+    "id": 47,
+    "group": 11,
+    "name1": "schoolNameFirst60",
+    "name2": "schoolNameSecond60"
+  }
+]

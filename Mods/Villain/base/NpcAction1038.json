@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "key": "addScore",
+    "value": 20
+  },
+  {
+    "id": 2,
+    "key": "succeedProb",
+    "value": 100
+  },
+  {
+    "id": 3,
+    "key": "growUpDelay",
+    "value": 12
+  },
+  {
+    "id": 4,
+    "key": "weightBase",
+    "value": 100
+  },
+  {
+    "id": 5,
+    "key": "weightBest",
+    "value": 30
+  }
+]

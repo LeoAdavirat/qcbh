@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1201,
+    "condition": "positionPoint_30_55_10_10",
+    "group": 14,
+    "lastName": "schoolLastName11",
+    "TaoistHeart": 2015,
+    "feature": 1002,
+    "mustskillType": [
+      2
+    ],
+    "playerSkill": 11,
+    "skillType": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specialBuilder": 1112,
+    "needFate": 2803,
+    "applySchoolCondition": "dialogue_1500031_0|dialogue_1500001_0|dialogue_1500011_0|school_0_0",
+    "applySchoolDrama": 1500012,
+    "dungeonID": 100501
+  },
+  {
+    "id": 11901,//宗门ID,跳转SchoolInitScale,必须存在(宗门模板数据)
+    "condition": "positionPoint_30_55_10_10",
+    "group": 11,//宗门大名,跳转SchoolName,门规也是这跳转SchoolSlogan,找group,不要试图创建新组,盘古罢工.游戏只有11,12是空组.
+    "lastName": "schoolLastName10",//宗门后缀名
+    "TaoistHeart": 2015,
+    "feature": 1002,//宗门灵阁,跳转SchoolFate
+    "mustskillType": [],//必备的技能类型,不影响
+    "playerSkill": 0,//玩家主修
+    "skillType": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specialBuilder": 1112,//宗门带什么特殊建筑
+    "needFate": 2801,//随什么气运生成,最主要的
+    "applySchoolCondition": "dialogue_1500031_0|dialogue_1500001_0|dialogue_1500011_0|school_0_0",//对话判定条件
+    "applySchoolDrama": 1500028,//进入宗门激活什么对话,貌似只能通过对话入宗
+    "dungeonID": 100501
+  }
+]

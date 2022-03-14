@@ -1,0 +1,11 @@
+[
+  {
+    "id": 54640302,
+    "name": "item_name54640302",
+    "basRequire": 5,
+    "siteNum": 8,
+    "effectValue": "54640304|54640305",
+    "icon": "longhuodanlu",
+    "skills": "54640301|54640302|54640303|54640304"
+  }
+]
