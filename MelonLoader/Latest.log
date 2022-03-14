@@ -1,83 +1,83 @@
-[19:19:20.213] ------------------------------
-[19:19:20.252] MelonLoader v0.5.3 Open-Beta
-[19:19:20.256] OS: Windows 10
-[19:19:20.260] Hash Code: 52505648575210155545710254481015249101995552514910249984855100101489997
-[19:19:20.262] ------------------------------
-[19:19:20.265] Name: guigubahuang
-[19:19:20.265] Developer: guigugame
-[19:19:20.266] Unity Version: 2020.3.9
-[19:19:20.267] Game Type: Il2Cpp
-[19:19:20.267] Game Arch: x64
-[19:19:20.268] ------------------------------
-[19:19:20.268] Core::BasePath = E:\Leo\ggbh\g\guigubahuang
-[19:19:20.269] Game::BasePath = E:\Leo\ggbh\g\guigubahuang
-[19:19:20.273] Game::DataPath = E:\Leo\ggbh\g\guigubahuang\guigubahuang_Data
-[19:19:20.592] Game::ApplicationPath = E:\Leo\ggbh\g\guigubahuang\guigubahuang.exe
+[19:21:24.472] ------------------------------
+[19:21:24.496] MelonLoader v0.5.3 Open-Beta
+[19:21:24.624] OS: Windows 10
+[19:21:24.674] Hash Code: 52505648575210155545710254481015249101995552514910249984855100101489997
+[19:21:24.675] ------------------------------
+[19:21:24.675] Name: guigubahuang
+[19:21:24.676] Developer: guigugame
+[19:21:24.677] Unity Version: 2020.3.9
+[19:21:24.677] Game Type: Il2Cpp
+[19:21:24.696] Game Arch: x64
+[19:21:24.725] ------------------------------
+[19:21:24.726] Core::BasePath = E:\Leo\ggbh\g\guigubahuang
+[19:21:24.727] Game::BasePath = E:\Leo\ggbh\g\guigubahuang
+[19:21:24.727] Game::DataPath = E:\Leo\ggbh\g\guigubahuang\guigubahuang_Data
+[19:21:24.978] Game::ApplicationPath = E:\Leo\ggbh\g\guigubahuang\guigubahuang.exe
 
-[19:19:21.997] Preferences Loaded!
-[19:19:22.024] [Il2CppUnityTls] Patching mono_unity_get_unitytls_interface...
-[19:19:22.080] [Il2CppUnityTls] Patching il2cpp_unity_install_unitytls_interface...
-[19:19:22.521] [Il2CppUnityTls] Calling InstallUnityTlsInterface...
-[19:19:22.522] Loading Plugins...
+[19:21:25.625] Preferences Loaded!
+[19:21:25.637] [Il2CppUnityTls] Patching mono_unity_get_unitytls_interface...
+[19:21:25.638] [Il2CppUnityTls] Patching il2cpp_unity_install_unitytls_interface...
+[19:21:26.140] [Il2CppUnityTls] Calling InstallUnityTlsInterface...
+[19:21:26.141] Loading Plugins...
 
-[19:19:22.526] ------------------------------
-[19:19:22.527] No Plugins Loaded!
-[19:19:22.527] ------------------------------
+[19:21:26.151] ------------------------------
+[19:21:26.152] No Plugins Loaded!
+[19:21:26.155] ------------------------------
 
-[19:19:23.524] Loading MelonStartScreen...
-[19:19:23.769] User32::SetTimer original: 0x7FFB40F54070
-[19:19:23.770] Applying USER32.dll::SetTimer Hook at 0x7FFB40F54070
-[19:19:23.770] Creating delegate for original USER32.dll::SetTimer (0x7FFB022B0360)
-[19:19:23.771] Applied USER32.dll::SetTimer patch
-[19:19:25.199] Loading Il2CppAssemblyGenerator...
-[19:19:25.410] Contacting RemoteAPI...
-[19:19:26.323] RemoteAPI.DumperVersion = null
-[19:19:26.329] RemoteAPI.UnhollowerVersion = null
-[19:19:26.337] RemoteAPI.ObfuscationRegex = null
-[19:19:26.341] RemoteAPI.MappingURL = null
-[19:19:26.344] RemoteAPI.MappingFileSHA512 = null
-[19:19:26.354] Using Dumper Version: 2022.0.0
-[19:19:26.358] Using Il2CppAssemblyUnhollower Version = 0.4.17.1
-[19:19:26.376] Using Unity Dependencies Version = 2020.3.9
-[19:19:26.386] Cpp2IL is up to date. No Download Needed.
-[19:19:26.390] Il2CppAssemblyUnhollower is up to date. No Download Needed.
-[19:19:26.395] Unity Dependencies are up to date. No Download Needed.
-[19:19:26.406] Checking GameAssembly...
-[19:19:27.033] Assembly is up to date. No Generation Needed.
-[19:19:27.051] Game Version: 0.1
+[19:21:27.228] Loading MelonStartScreen...
+[19:21:27.482] User32::SetTimer original: 0x7FFB40F54070
+[19:21:27.483] Applying USER32.dll::SetTimer Hook at 0x7FFB40F54070
+[19:21:27.484] Creating delegate for original USER32.dll::SetTimer (0x7FFB022B0360)
+[19:21:27.485] Applied USER32.dll::SetTimer patch
+[19:21:28.726] Loading Il2CppAssemblyGenerator...
+[19:21:28.838] Contacting RemoteAPI...
+[19:21:29.692] RemoteAPI.DumperVersion = null
+[19:21:29.694] RemoteAPI.UnhollowerVersion = null
+[19:21:29.696] RemoteAPI.ObfuscationRegex = null
+[19:21:29.697] RemoteAPI.MappingURL = null
+[19:21:29.698] RemoteAPI.MappingFileSHA512 = null
+[19:21:29.701] Using Dumper Version: 2022.0.0
+[19:21:29.707] Using Il2CppAssemblyUnhollower Version = 0.4.17.1
+[19:21:29.710] Using Unity Dependencies Version = 2020.3.9
+[19:21:29.712] Cpp2IL is up to date. No Download Needed.
+[19:21:29.714] Il2CppAssemblyUnhollower is up to date. No Download Needed.
+[19:21:29.716] Unity Dependencies are up to date. No Download Needed.
+[19:21:29.721] Checking GameAssembly...
+[19:21:30.484] Assembly is up to date. No Generation Needed.
+[19:21:30.506] Game Version: 0.1
 
 
-[19:19:27.241] Loading Mods...
+[19:21:30.767] Loading Mods...
 
-[19:19:27.321] ------------------------------
-[19:19:27.323] 5 Mods Loaded
-[19:19:27.324] ------------------------------
-[19:19:27.325] FontOverride v0.0.1
-[19:19:27.327] by rfcclub
-[19:19:27.333] SHA256 Hash: ca646e699378e7a277f35b05474089ee6d4d185ce022194dbf937fcdaab497cb
-[19:19:27.333] ------------------------------
-[19:19:27.334] Hylas v0.5.0
-[19:19:27.335] by A & rfc
-[19:19:27.339] SHA256 Hash: 4f847a09c35d414aa913fbd772ba97ca050a484a1b8c1ccf7b2cec4473c0131a
-[19:19:27.341] ------------------------------
-[19:19:27.341] VillainX v0.3.0
-[19:19:27.343] by A & rfc
-[19:19:27.344] SHA256 Hash: 6e30462eb25cf6cdd1a9d5ea0c98e89fd8dc27c15691b319ec517bb1c0a334ef
-[19:19:27.345] ------------------------------
-[19:19:27.345] ??? v1.0.0
-[19:19:27.347] by ??????
-[19:19:27.349] SHA256 Hash: ffd0feae14bd3489515ae8417d02c64f718a9b2051103136f222408e26aa2c45
-[19:19:27.350] ------------------------------
-[19:19:27.350] ??? v1.1.0
-[19:19:27.351] by ???
-[19:19:27.355] SHA256 Hash: 5b00ce648278188cb43266478a24099fd351bb44d9491d6c9971390572c47813
-[19:19:27.356] ------------------------------
-[19:19:27.466] [WARNING] Method System.Collections.IEnumerator WaitWithIddle() on type Hylas.Behavior.BodyBehavior has unsupported return type System.Collections.IEnumerator
-[19:19:27.475] [WARNING] Method System.String GetRandomFile(System.String[]) on type Hylas.Behavior.ShuangxiuVideoBehavior has unsupported parameter System.String[] files of type System.String[]
-[19:19:27.508] [Hylas] Check list 0 roleDressList=0 currentCount = 0
-[19:19:27.557] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\BattleEffect.json
-[19:19:27.560] [VillainX] Lookup E:\Leo\ggbh\g\guigubahuang\MelonLoader\Dependencies\Il2CppAssemblyGenerator\Cpp2IL\cpp2il_out
-[19:19:30.489] [VillainX] Remove all small classes below(Because these classes usually use commom function with an empty body which makes hook more hard):
+[19:21:30.851] ------------------------------
+[19:21:30.852] 5 Mods Loaded
+[19:21:30.854] ------------------------------
+[19:21:30.855] FontOverride v0.0.1
+[19:21:30.856] by rfcclub
+[19:21:30.863] SHA256 Hash: ca646e699378e7a277f35b05474089ee6d4d185ce022194dbf937fcdaab497cb
+[19:21:30.864] ------------------------------
+[19:21:30.864] Hylas v0.5.0
+[19:21:30.866] by A & rfc
+[19:21:30.874] SHA256 Hash: 4f847a09c35d414aa913fbd772ba97ca050a484a1b8c1ccf7b2cec4473c0131a
+[19:21:30.877] ------------------------------
+[19:21:30.877] VillainX v0.3.0
+[19:21:30.880] by A & rfc
+[19:21:30.884] SHA256 Hash: 6e30462eb25cf6cdd1a9d5ea0c98e89fd8dc27c15691b319ec517bb1c0a334ef
+[19:21:30.885] ------------------------------
+[19:21:30.886] ??? v1.0.0
+[19:21:30.889] by ??????
+[19:21:30.892] SHA256 Hash: ffd0feae14bd3489515ae8417d02c64f718a9b2051103136f222408e26aa2c45
+[19:21:30.893] ------------------------------
+[19:21:30.894] ??? v1.1.0
+[19:21:30.912] by ???
+[19:21:30.920] SHA256 Hash: 5b00ce648278188cb43266478a24099fd351bb44d9491d6c9971390572c47813
+[19:21:30.921] ------------------------------
+[19:21:31.073] [WARNING] Method System.Collections.IEnumerator WaitWithIddle() on type Hylas.Behavior.BodyBehavior has unsupported return type System.Collections.IEnumerator
+[19:21:31.085] [WARNING] Method System.String GetRandomFile(System.String[]) on type Hylas.Behavior.ShuangxiuVideoBehavior has unsupported parameter System.String[] files of type System.String[]
+[19:21:31.127] [Hylas] Check list 0 roleDressList=0 currentCount = 0
+[19:21:31.200] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\BattleEffect.json
+[19:21:31.204] [VillainX] Lookup E:\Leo\ggbh\g\guigubahuang\MelonLoader\Dependencies\Il2CppAssemblyGenerator\Cpp2IL\cpp2il_out
+[19:21:33.612] [VillainX] Remove all small classes below(Because these classes usually use commom function with an empty body which makes hook more hard):
 NpcAddWorld
 NpcFeedback105
 NpcFeedback106
@@ -103,150 +103,150 @@ RoleEnergyReduce
 ItemTerrain
 ItemCard
 AbilityPointUp
-[19:19:30.523] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\BattleSkillValue.json
-[19:19:30.528] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\DramaDialogue.json
-[19:19:30.533] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\DramaOptions.json
-[19:19:30.538] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\GameItemCost.json
-[19:19:30.540] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\GameItemReward.json
-[19:19:30.546] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\ItemHorse.json
-[19:19:30.547] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\ItemPill.json
-[19:19:30.552] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\ItemProps.json
-[19:19:30.556] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\ItemType.json
-[19:19:30.558] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\LocalText.json
-[19:19:30.566] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\MakePillFurnace.json
-[19:19:30.568] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\MakePillSkill.json
-[19:19:30.569] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\NpcSpecial.json
-[19:19:30.571] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RingBase.json
-[19:19:30.572] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RoleCreateFeature.json
-[19:19:30.576] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RoleEffect.json
-[19:19:30.579] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RoleLogLocal.json
-[19:19:30.586] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleEffect.json
-[19:19:30.589] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleHaloBase.json
-[19:19:30.591] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleHaloSummon.json
-[19:19:30.593] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleMissile.json
-[19:19:30.594] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleSkillBase.json
-[19:19:30.596] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleSkillValue.json
-[19:19:30.598] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleUnitAttr.json
-[19:19:30.603] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleUnitBase.json
-[19:19:30.605] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BuildingHospital.json
-[19:19:30.607] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaDialogue.json
-[19:19:30.638] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaFunctionGroup.json
-[19:19:30.640] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaModel.json
-[19:19:30.644] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaNpc.json
-[19:19:30.645] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaOptions.json
-[19:19:30.652] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaTrigger.json
-[19:19:30.653] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DungeonBase.json
-[19:19:30.655] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DungeonTrigger.json
-[19:19:30.656] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DungeonUnitBase.json
-[19:19:30.662] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\FortuitousEvent.json
-[19:19:30.666] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\GameItemCost.json
-[19:19:30.668] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\GameItemReward.json
-[19:19:30.670] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\ItemHorse.json
-[19:19:30.671] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\ItemPill.json
-[19:19:30.674] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\ItemProps.json
-[19:19:30.675] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\ItemType.json
-[19:19:30.677] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\LocalText.json
-[19:19:30.682] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\NpcCondition.json
-[19:19:30.685] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\NpcSpecial.json
-[19:19:30.689] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RingBase.json
-[19:19:30.691] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleCreateFeature.json
-[19:19:30.695] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleDrill.json
-[19:19:30.696] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleEffect.json
-[19:19:30.698] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleLogLocal.json
-[19:19:30.720] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleTrains.json
-[19:19:30.722] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\DramaModel.json
-[19:19:30.723] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\LocalText.json
-[19:19:30.724] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\NpcSpecial.json
-[19:19:30.725] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\RoleCreateFeature.json
-[19:19:30.726] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolDragonDoor.json
-[19:19:30.729] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolInitScale.json
-[19:19:30.731] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolName.json
-[19:19:30.732] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolSlogan.json
-[19:19:30.733] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolSmall.json
-[19:19:30.736] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_tang npc dot pha\NpcActionBase.json
-[19:19:30.737] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_tang npc dot pha\NpcGoalBase.json
-[19:19:30.809] [VillainX] Check size=120832 and size=120832 from FontOverride.dll
-[19:19:30.811] [VillainX] Processing files inside E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_hongmong.zip
-[19:19:30.824] [VillainX] Processing BattleEffect.json
-[19:19:30.839] [VillainX] Processing BattleMissile.json
-[19:19:30.853] [VillainX] Processing BattleSkillBase.json
-[19:19:30.866] [VillainX] Processing BattleSkillEffect.json
-[19:19:30.879] [VillainX] Processing BattleSkillSub.json
-[19:19:30.893] [VillainX] Processing BattleSkillValue.json
-[19:19:30.909] [VillainX] Processing BattleStepBase.json
-[19:19:30.922] [VillainX] Processing BattleTrail17.json
-[19:19:30.940] [VillainX] Processing BattleTrail27.json
-[19:19:30.954] [VillainX] Processing BattleTrail906.json
-[19:19:30.968] [VillainX] Processing DramaDialogue.json
-[19:19:30.979] [VillainX] Processing DramaOptions.json
-[19:19:30.991] [VillainX] Processing FortuitousEvent.json
-[19:19:31.003] [VillainX] Processing GameItemReward.json
-[19:19:31.014] [VillainX] Processing ItemHorse.json
-[19:19:31.026] [VillainX] Processing ItemPill.json
-[19:19:31.038] [VillainX] Processing ItemProps.json
-[19:19:31.051] [VillainX] Processing LocalText.json
-[19:19:31.065] [VillainX] Processing RingBase.json
-[19:19:31.077] [VillainX] Processing RoleAttributeLimit.json
-[19:19:31.092] [VillainX] Processing RoleCreateFeature.json
-[19:19:31.105] [VillainX] Processing RoleEffect.json
-[19:19:31.131] [VillainX] Check size=120832 and size=120832 from FontOverride.dll
-[19:19:31.133] [VillainX] Processing files inside E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_Tang Cuong Do Kho SIEU KHO.zip
-[19:19:31.146] [VillainX] Processing BattleUnitBase.json
-[19:19:31.166] [VillainX] Processing DungeonBase.json
-[19:19:31.183] [VillainX] Processing DungeonRoomBase.json
-[19:19:31.196] [VillainX] Processing DungeonSpecialRoom1.json
-[19:19:31.208] [VillainX] Processing DungeonSpecialRoomBase.json
-[19:19:31.234] [VillainX] Processing DungeonSpecialRoomTrigger.json
-[19:19:31.246] [VillainX] Processing GameDifficultyCrazy.json
-[19:19:31.257] [VillainX] Processing NpcInitAttrBase.json
-[19:19:31.272] [VillainX] Processing NpcInitAttrGrow.json
-[19:19:31.284] [VillainX] Processing NpcInitMoney.json
-[19:19:31.296] [VillainX] Processing NpcInitParameters.json
-[19:19:31.309] [VillainX] Processing NpcInitSkill.json
-[19:19:31.323] [VillainX] Processing RoleGrade.json
-[19:19:31.353] [VillainX] Check size=120832 and size=120832 from FontOverride.dll
-[19:19:31.355] [VillainX] Processing files inside E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_Thanh Tran.zip
-[19:19:31.368] [VillainX] Processing ItemProps.json
-[19:19:31.389] [VillainX] Processing TownMarketItem.json
-[19:19:31.533] [WARNING] Method Boolean Load(System.String, UnityEngine.Object ByRef) on type XiaoYaoYou.ResMgrX has unsupported parameter UnityEngine.Object& result of type UnityEngine.Object&
-[19:19:31.548] [???] ?Logger??,??????:
+[19:21:33.650] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\BattleSkillValue.json
+[19:21:33.655] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\DramaDialogue.json
+[19:21:33.659] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\DramaOptions.json
+[19:21:33.665] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\GameItemCost.json
+[19:21:33.666] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\GameItemReward.json
+[19:21:33.672] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\ItemHorse.json
+[19:21:33.675] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\ItemPill.json
+[19:21:33.679] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\ItemProps.json
+[19:21:33.684] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\ItemType.json
+[19:21:33.685] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\LocalText.json
+[19:21:33.695] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\MakePillFurnace.json
+[19:21:33.698] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\MakePillSkill.json
+[19:21:33.700] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\NpcSpecial.json
+[19:21:33.702] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RingBase.json
+[19:21:33.703] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RoleCreateFeature.json
+[19:21:33.708] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RoleEffect.json
+[19:21:33.713] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RoleLogLocal.json
+[19:21:33.720] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleEffect.json
+[19:21:33.724] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleHaloBase.json
+[19:21:33.726] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleHaloSummon.json
+[19:21:33.728] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleMissile.json
+[19:21:33.729] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleSkillBase.json
+[19:21:33.731] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleSkillValue.json
+[19:21:33.733] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleUnitAttr.json
+[19:21:33.737] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BattleUnitBase.json
+[19:21:33.742] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\BuildingHospital.json
+[19:21:33.745] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaDialogue.json
+[19:21:33.764] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaFunctionGroup.json
+[19:21:33.767] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaModel.json
+[19:21:33.770] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaNpc.json
+[19:21:33.775] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaOptions.json
+[19:21:33.782] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DramaTrigger.json
+[19:21:33.784] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DungeonBase.json
+[19:21:33.786] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DungeonTrigger.json
+[19:21:33.789] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\DungeonUnitBase.json
+[19:21:33.792] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\FortuitousEvent.json
+[19:21:33.794] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\GameItemCost.json
+[19:21:33.797] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\GameItemReward.json
+[19:21:33.799] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\ItemHorse.json
+[19:21:33.801] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\ItemPill.json
+[19:21:33.802] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\ItemProps.json
+[19:21:33.814] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\ItemType.json
+[19:21:33.815] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\LocalText.json
+[19:21:33.822] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\NpcCondition.json
+[19:21:33.827] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\NpcSpecial.json
+[19:21:33.831] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RingBase.json
+[19:21:33.833] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleCreateFeature.json
+[19:21:33.840] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleDrill.json
+[19:21:33.842] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleEffect.json
+[19:21:33.844] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleLogLocal.json
+[19:21:33.868] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_KhachSan\RoleTrains.json
+[19:21:33.871] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\DramaModel.json
+[19:21:33.873] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\LocalText.json
+[19:21:33.874] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\NpcSpecial.json
+[19:21:33.876] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\RoleCreateFeature.json
+[19:21:33.877] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolDragonDoor.json
+[19:21:33.880] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolInitScale.json
+[19:21:33.884] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolName.json
+[19:21:33.885] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolSlogan.json
+[19:21:33.887] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_mot loi hua 9k\SchoolSmall.json
+[19:21:33.889] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_tang npc dot pha\NpcActionBase.json
+[19:21:33.892] [VillainX] Processing E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_tang npc dot pha\NpcGoalBase.json
+[19:21:33.965] [VillainX] Check size=120832 and size=120832 from FontOverride.dll
+[19:21:33.967] [VillainX] Processing files inside E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_hongmong.zip
+[19:21:33.989] [VillainX] Processing BattleEffect.json
+[19:21:34.013] [VillainX] Processing BattleMissile.json
+[19:21:34.029] [VillainX] Processing BattleSkillBase.json
+[19:21:34.047] [VillainX] Processing BattleSkillEffect.json
+[19:21:34.062] [VillainX] Processing BattleSkillSub.json
+[19:21:34.077] [VillainX] Processing BattleSkillValue.json
+[19:21:34.094] [VillainX] Processing BattleStepBase.json
+[19:21:34.108] [VillainX] Processing BattleTrail17.json
+[19:21:34.124] [VillainX] Processing BattleTrail27.json
+[19:21:34.142] [VillainX] Processing BattleTrail906.json
+[19:21:34.157] [VillainX] Processing DramaDialogue.json
+[19:21:34.181] [VillainX] Processing DramaOptions.json
+[19:21:34.195] [VillainX] Processing FortuitousEvent.json
+[19:21:34.211] [VillainX] Processing GameItemReward.json
+[19:21:34.225] [VillainX] Processing ItemHorse.json
+[19:21:34.239] [VillainX] Processing ItemPill.json
+[19:21:34.252] [VillainX] Processing ItemProps.json
+[19:21:34.267] [VillainX] Processing LocalText.json
+[19:21:34.281] [VillainX] Processing RingBase.json
+[19:21:34.297] [VillainX] Processing RoleAttributeLimit.json
+[19:21:34.313] [VillainX] Processing RoleCreateFeature.json
+[19:21:34.326] [VillainX] Processing RoleEffect.json
+[19:21:34.355] [VillainX] Check size=120832 and size=120832 from FontOverride.dll
+[19:21:34.358] [VillainX] Processing files inside E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_Tang Cuong Do Kho SIEU KHO.zip
+[19:21:34.373] [VillainX] Processing BattleUnitBase.json
+[19:21:34.395] [VillainX] Processing DungeonBase.json
+[19:21:34.414] [VillainX] Processing DungeonRoomBase.json
+[19:21:34.429] [VillainX] Processing DungeonSpecialRoom1.json
+[19:21:34.443] [VillainX] Processing DungeonSpecialRoomBase.json
+[19:21:34.458] [VillainX] Processing DungeonSpecialRoomTrigger.json
+[19:21:34.476] [VillainX] Processing GameDifficultyCrazy.json
+[19:21:34.490] [VillainX] Processing NpcInitAttrBase.json
+[19:21:34.506] [VillainX] Processing NpcInitAttrGrow.json
+[19:21:34.519] [VillainX] Processing NpcInitMoney.json
+[19:21:34.533] [VillainX] Processing NpcInitParameters.json
+[19:21:34.548] [VillainX] Processing NpcInitSkill.json
+[19:21:34.564] [VillainX] Processing RoleGrade.json
+[19:21:34.607] [VillainX] Check size=120832 and size=120832 from FontOverride.dll
+[19:21:34.608] [VillainX] Processing files inside E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_Thanh Tran.zip
+[19:21:34.623] [VillainX] Processing ItemProps.json
+[19:21:34.645] [VillainX] Processing TownMarketItem.json
+[19:21:34.788] [WARNING] Method Boolean Load(System.String, UnityEngine.Object ByRef) on type XiaoYaoYou.ResMgrX has unsupported parameter UnityEngine.Object& result of type UnityEngine.Object&
+[19:21:34.803] [???] ?Logger??,??????:
 ????????:×
 ????????:×
 ????????:×
 ????????:×
 ??Unity????:×
 
-[19:19:33.668] [Hylas] Scene: Game
-[19:19:36.540] [Hylas] Prefix Load(UI/LoadingBigCacheFix UnityEngine.Object) with cache False
-[19:19:36.646] [Hylas] Postfix UI/LoadingBigCacheFix with cache False
-[19:19:36.666] [Hylas] Prefix Load(UI/Mask UnityEngine.Object) with cache False
-[19:19:36.671] [Hylas] Postfix UI/Mask with cache False
-[19:19:36.725] [Hylas] Prefix Load(Sounds/MainAudioMixer UnityEngine.Audio.AudioMixer) with cache False
-[19:19:43.002] [VillainX] [WARNING] Required field(Int32 emotionID) does not exsit in item(id: 54640434, @ File: "E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RoleLogLocal.json", Line: 610, Position: 3), set to default.
-[19:19:44.921] [Hylas] Prefix Load(UI/LoadingBig UnityEngine.Object) with cache False
-[19:19:44.931] [Hylas] Postfix UI/LoadingBig with cache False
-[19:19:44.935] [Hylas] Prefix Load(Texture/BG/kuafuzhuri UnityEngine.Sprite) with cache False
-[19:19:45.024] [Hylas] Prefix Load(Texture/BG/shubiao_2 UnityEngine.Texture2D) with cache False
-[19:19:45.047] [Hylas] Prefix Load(Texture/BG/shubiao_2 UnityEngine.Texture2D) with cache False
-[19:19:45.114] [Hylas] Prefetch start...
-[19:19:45.200] [Hylas] Scene: Login
-[19:19:45.615] [Hylas] Prefix Load(Texture/BG/shubiao_2 UnityEngine.Texture2D) with cache False
-[19:19:45.616] [Hylas] Prefix Load(Texture/BG/shubiao_2_En UnityEngine.Texture2D) with cache False
-[19:19:45.617] [Hylas] Prefix Load(Texture/BG/shubiao_2 UnityEngine.Texture2D) with cache False
-[19:19:45.620] [Hylas] Prefix Load(UI/Login UnityEngine.Object) with cache False
-[19:19:45.699] [Hylas] Postfix UI/Login with cache False
-[19:19:45.704] [Hylas] Prefix Load(UI/Login_En UnityEngine.Object) with cache False
-[19:19:45.705] [Hylas] Prefix Load(UI/Login UnityEngine.Object) with cache False
-[19:19:45.708] [Hylas] Postfix UI/Login with cache False
-[19:19:45.718] [Hylas] Prefix Load(Effect/UI/beijinglong4 UnityEngine.GameObject) with cache False
-[19:19:45.831] [Hylas] Postfix Effect/UI/beijinglong4 with cache False
-[19:19:45.833] [Hylas] Prefix Load(Effect/UI/beijinglong4_En UnityEngine.GameObject) with cache False
-[19:19:45.836] [Hylas] Prefix Load(Effect/UI/beijinglong4 UnityEngine.GameObject) with cache False
-[19:19:45.846] [Hylas] Postfix Effect/UI/beijinglong4 with cache False
-[19:19:45.889] [Hylas] ResMgr::LoadAsync(Sounds/Effect/huanjing/beijinglong4_wind) with result False
-[19:19:45.913] [Hylas] ResMgr::LoadAsync(Sounds/BG/beijinglong4) with result False
-[19:19:45.915] [Hylas] Prefix Load(SpriteAtlas/Login_En UnityEngine.U2D.SpriteAtlas) with cache False
-[19:19:46.403] [ERROR] System.Reflection.TargetInvocationException: An exception occurred during the operation, making the result invalid.  Check InnerException for exception details. ---> System.IO.FileNotFoundException: Could not find file "E:\Leo\ggbh\g\guigubahuang\Mods\Hylas\Texture\FortuiousBigBG\shisanchai1\image.png"
+[19:21:36.931] [Hylas] Scene: Game
+[19:21:39.393] [Hylas] Prefix Load(UI/LoadingBigCacheFix UnityEngine.Object) with cache False
+[19:21:39.476] [Hylas] Postfix UI/LoadingBigCacheFix with cache False
+[19:21:39.496] [Hylas] Prefix Load(UI/Mask UnityEngine.Object) with cache False
+[19:21:39.499] [Hylas] Postfix UI/Mask with cache False
+[19:21:39.546] [Hylas] Prefix Load(Sounds/MainAudioMixer UnityEngine.Audio.AudioMixer) with cache False
+[19:21:44.346] [VillainX] [WARNING] Required field(Int32 emotionID) does not exsit in item(id: 54640434, @ File: "E:\Leo\ggbh\g\guigubahuang\Mods\Villain\patch_AM DUONG GIAO CHU\RoleLogLocal.json", Line: 610, Position: 3), set to default.
+[19:21:46.402] [Hylas] Prefix Load(UI/LoadingBig UnityEngine.Object) with cache False
+[19:21:46.412] [Hylas] Postfix UI/LoadingBig with cache False
+[19:21:46.416] [Hylas] Prefix Load(Texture/BG/zuanmuquhuo UnityEngine.Sprite) with cache False
+[19:21:46.533] [Hylas] Prefix Load(Texture/BG/shubiao_2 UnityEngine.Texture2D) with cache False
+[19:21:46.561] [Hylas] Prefix Load(Texture/BG/shubiao_2 UnityEngine.Texture2D) with cache False
+[19:21:46.661] [Hylas] Prefetch start...
+[19:21:46.746] [Hylas] Scene: Login
+[19:21:47.361] [Hylas] Prefix Load(Texture/BG/shubiao_2 UnityEngine.Texture2D) with cache False
+[19:21:47.366] [Hylas] Prefix Load(Texture/BG/shubiao_2_En UnityEngine.Texture2D) with cache False
+[19:21:47.371] [Hylas] Prefix Load(Texture/BG/shubiao_2 UnityEngine.Texture2D) with cache False
+[19:21:47.395] [Hylas] Prefix Load(UI/Login UnityEngine.Object) with cache False
+[19:21:47.534] [Hylas] Postfix UI/Login with cache False
+[19:21:47.540] [Hylas] Prefix Load(UI/Login_En UnityEngine.Object) with cache False
+[19:21:47.544] [Hylas] Prefix Load(UI/Login UnityEngine.Object) with cache False
+[19:21:47.562] [Hylas] Postfix UI/Login with cache False
+[19:21:47.591] [Hylas] Prefix Load(Effect/UI/beijinglong4 UnityEngine.GameObject) with cache False
+[19:21:47.797] [Hylas] Postfix Effect/UI/beijinglong4 with cache False
+[19:21:47.798] [Hylas] Prefix Load(Effect/UI/beijinglong4_En UnityEngine.GameObject) with cache False
+[19:21:47.799] [Hylas] Prefix Load(Effect/UI/beijinglong4 UnityEngine.GameObject) with cache False
+[19:21:47.802] [Hylas] Postfix Effect/UI/beijinglong4 with cache False
+[19:21:47.874] [Hylas] ResMgr::LoadAsync(Sounds/Effect/huanjing/beijinglong4_wind) with result False
+[19:21:47.904] [Hylas] ResMgr::LoadAsync(Sounds/BG/beijinglong4) with result False
+[19:21:47.905] [Hylas] Prefix Load(SpriteAtlas/Login_En UnityEngine.U2D.SpriteAtlas) with cache False
+[19:21:48.400] [ERROR] System.Reflection.TargetInvocationException: An exception occurred during the operation, making the result invalid.  Check InnerException for exception details. ---> System.IO.FileNotFoundException: Could not find file "E:\Leo\ggbh\g\guigubahuang\Mods\Hylas\Texture\FortuiousBigBG\shisanchai1\image.png"
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
